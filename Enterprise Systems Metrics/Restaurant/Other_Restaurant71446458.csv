@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Other_Restaurant71446458;com.mhl.view.FlashScreen;FlashScreen;class;1;26;5;0;4;4;3;114
+Other_Restaurant71446458;com.mhl.db.SqlHelper;SqlHelper;class;1;31;1;0;37;11;3;191
+Other_Restaurant71446458;com.mhl.db.XmlHelper;XmlHelper;class;9;38;1;0;87;15;3;274
+Other_Restaurant71446458;com.mhl.po.User;User;class;0;20;1;0;85;14;29;76
+Other_Restaurant71446458;com.mhl.view.HrMgrAddDlg;HrMgrAddDlg;class;0;10;6;0;3;3;3;194
+Other_Restaurant71446458;com.mhl.view.p3.HrManagerPanel;HrManagerPanel;class;2;11;5;0;9;7;8;123
+Other_Restaurant71446458;com.mhl.view.UserLogin;UserLogin;class;1;2;6;0;1;2;1;63
+Other_Restaurant71446458;com.mhl.view.ClsAcctView;ClsAcctView;class;1;62;6;0;229;23;11;474
+Other_Restaurant71446458;com.mhl.view.ImagePanel;ImagePanel;class;3;67;10;0;160;21;22;436
+Other_Restaurant71446458;com.mhl.view.FoodBvrgRlt;FoodBvrgRlt;class;1;5;6;0;10;5;3;82
+Other_Restaurant71446458;com.mhl.model.HrManagerModel;HrManagerModel;class;2;11;2;0;7;11;3;69
+Other_Restaurant71446458;com.mhl.tool.FontTool;FontTool;class;0;0;1;0;0;0;3;13

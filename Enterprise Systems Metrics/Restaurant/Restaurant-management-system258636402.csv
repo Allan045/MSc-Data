@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant-management-system258636402;javadatabasetest.DataService;DataService;class;2;115;1;0;0;30;3;718
+Restaurant-management-system258636402;javadatabasetest.AdminManager1;AdminManager1;class;4;91;6;0;1534;27;73;1012
+Restaurant-management-system258636402;javadatabasetest.MenuItem;MenuItem;class;0;6;1;0;9;6;3;33
+Restaurant-management-system258636402;javadatabasetest.JavaDatabaseTest;JavaDatabaseTest;class;1;2;1;0;0;1;0;30
+Restaurant-management-system258636402;javadatabasetest.Employee;Employee;class;0;12;1;0;54;12;6;54
+Restaurant-management-system258636402;javadatabasetest.LoginForm;LoginForm;class;3;27;6;0;28;5;10;213
+Restaurant-management-system258636402;javadatabasetest.OrderWindow1;OrderWindow1;class;3;90;6;0;755;21;48;853

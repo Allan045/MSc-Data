@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+JRD37660805;GUI.CopyFiles;CopyFiles;class;5;43;6;0;186;13;22;394
+JRD37660805;JRD.TokenKind;TokenKind;class;0;7;1;0;0;2;7;34
+JRD37660805;JRD.CreateJRD;CreateJRD;class;3;7;1;0;1;2;0;66
+JRD37660805;files.JWFile;JWFile;class;0;2;1;0;0;1;0;28
+JRD37660805;GUI.CreateGUI;CreateGUI;class;3;31;6;0;46;7;18;272
+JRD37660805;JRD.Player;Player;class;2;36;1;0;0;10;4;108
+JRD37660805;GUI.PlayerTest;PlayerTest;class;0;5;1;0;0;5;2;32
+JRD37660805;files.JSFile;JSFile;class;0;7;1;0;1;2;0;46
+JRD37660805;GUI.CopyFilesTest;CopyFilesTest;class;2;24;6;0;49;7;19;267
+JRD37660805;files.JDFile;JDFile;class;0;14;1;0;6;4;0;86
+JRD37660805;JRD.TokenJRD;TokenJRD;class;5;19;1;0;6;4;0;124
+JRD37660805;JRD.TokenContainer;TokenContainer;class;0;3;1;0;1;3;2;28
+JRD37660805;JRD.IncorrectJRD;IncorrectJRD;class;0;0;1;0;0;0;0;12
+JRD37660805;files.JCFile;JCFile;class;1;18;1;0;6;4;0;107
+JRD37660805;GUI.ReadJRD;ReadJRD;class;1;3;1;0;3;3;0;58
+JRD37660805;JRD.Storage;Storage;class;1;8;1;0;0;5;3;39

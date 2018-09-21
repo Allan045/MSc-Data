@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Old-School-Games77274154;HangmanManager;HangmanManager;class;1;31;1;0;0;7;5;104
+Old-School-Games77274154;UserInterface;UserInterface;interface;0;5;1;0;10;5;5;33
+Old-School-Games77274154;OskMain;OskMain;class;7;168;1;0;542;36;31;708
+Old-School-Games77274154;QuestionNode;QuestionNode;class;1;2;1;0;0;2;3;20
+Old-School-Games77274154;GrammarSolver;GrammarSolver;class;0;39;1;0;15;7;1;115
+Old-School-Games77274154;LetterInventory;LetterInventory;class;2;33;1;0;0;10;4;108
+Old-School-Games77274154;QuestionTree;QuestionTree;class;2;44;1;0;23;10;4;118
+Old-School-Games77274154;Anagrams;Anagrams;class;2;32;1;0;0;5;4;108

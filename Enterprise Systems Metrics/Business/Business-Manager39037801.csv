@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.PopupDialog;PopupDialog;class;7;82;6;0;70;8;40;705
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.Customer;Customer;class;3;14;2;0;22;13;7;73
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.AppManager;AppManager;class;6;126;1;0;112;18;8;501
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.TestFrame;TestFrame;class;1;4;6;0;3;2;1;41
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.ApplicationFrame;ApplicationFrame;class;9;278;6;0;5718;18;62;1576
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.CustomButton;CustomButton;class;0;9;6;0;36;2;0;48
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.InternalFrameTest;InternalFrameTest;class;1;4;5;0;3;2;0;26
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.DatabaseConnector;DatabaseConnector;class;0;3;1;0;0;2;4;31
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.Encryption;Encryption;class;1;2;1;0;0;1;0;15
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.Entity;Entity;class;0;1;1;1;0;1;0;5
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.User;User;class;3;11;2;0;16;9;5;55
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.PopupFrame;PopupFrame;class;4;27;6;0;0;6;18;305
+Business-Manager39037801;com.jasonandrews.projects.businessmanager.BusinessManagerApp;BusinessManagerApp;class;2;3;1;0;1;1;1;28

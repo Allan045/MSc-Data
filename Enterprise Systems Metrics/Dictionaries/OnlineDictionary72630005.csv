@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+OnlineDictionary72630005;server.Server;Server;class;7;60;2;0;0;12;5;259
+OnlineDictionary72630005;pack.ResponsePackage;ResponsePackage;class;0;6;1;0;9;6;3;14
+OnlineDictionary72630005;client.controller.WordcardDlgController;WordcardDlgController;class;7;4;1;0;4;4;4;26
+OnlineDictionary72630005;client.controller.MainboardController;MainboardController;class;18;61;1;0;0;9;33;210
+OnlineDictionary72630005;server.DbConnection;DbConnection;class;2;9;1;0;0;5;3;65
+OnlineDictionary72630005;client.controller.MailDlgController;MailDlgController;class;11;10;1;0;0;5;4;66
+OnlineDictionary72630005;client.controller.OnlineDlgController;OnlineDlgController;class;11;15;1;0;3;7;5;74
+OnlineDictionary72630005;pack.RequestPackage;RequestPackage;class;0;4;1;0;2;4;2;19
+OnlineDictionary72630005;client.controller.LoginController;LoginController;class;10;10;1;0;0;4;7;58
+OnlineDictionary72630005;server.OnlineFetch;OnlineFetch;class;1;40;1;0;46;13;12;140
+OnlineDictionary72630005;client.Client;Client;class;17;9;2;0;30;9;6;90

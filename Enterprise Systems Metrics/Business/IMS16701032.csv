@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+IMS16701032;inventorymanagementsystem.InventoryController;InventoryController;class;3;7;6;0;21;7;4;44
+IMS16701032;inventorymanagementsystem.RoyaltiesController;RoyaltiesController;class;3;17;6;0;40;12;4;105
+IMS16701032;inventorymanagementsystem.DatabaseController;DatabaseController;class;1;155;1;0;186;24;4;676
+IMS16701032;inventorymanagementsystem.PictureFileFilter;PictureFileFilter;class;0;6;2;0;1;2;0;27
+IMS16701032;inventorymanagementsystem.IMSGUI;IMSGUI;class;6;119;6;0;2162;37;116;1355
+IMS16701032;inventorymanagementsystem.UserController;UserController;class;3;7;6;0;21;7;2;45
+IMS16701032;inventorymanagementsystem.InventoryManagementSystem;InventoryManagementSystem;class;1;5;1;0;0;1;0;27
+IMS16701032;inventorymanagementsystem.IMSController;IMSController;class;5;126;9;4;1112;47;33;619
+IMS16701032;inventorymanagementsystem.VendorController;VendorController;class;3;17;6;0;40;12;4;106

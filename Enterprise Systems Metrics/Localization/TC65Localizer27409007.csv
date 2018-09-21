@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+TC65Localizer27409007;com.batorek.tc65server.SaveData;SaveData;class;5;12;2;0;15;6;5;135
+TC65Localizer27409007;com.batorek.tc65localizer.TC65Location;TC65Location;class;0;52;1;0;387;30;12;168
+TC65Localizer27409007;com.batorek.tc65localizer.TC65GPS;TC65GPS;class;2;37;1;0;4;4;2;105
+TC65Localizer27409007;com.batorek.tc65localizer.classes.TC65Class;TC65Class;class;1;1;1;0;0;1;1;19
+TC65Localizer27409007;com.batorek.tc65localizer.classes.TC65Runnable;TC65Runnable;class;0;9;1;3;16;8;2;51
+TC65Localizer27409007;com.batorek.tc65localizer.TC65GPRSSender;TC65GPRSSender;class;3;19;2;0;13;7;2;91
+TC65Localizer27409007;com.batorek.tc65localizer.TC65Preferences;TC65Preferences;class;0;7;1;0;10;5;6;41
+TC65Localizer27409007;com.batorek.tc65localizer.TC65Serial;TC65Serial;class;4;18;2;0;0;4;8;81
+TC65Localizer27409007;com.batorek.tc65server.ShowRoutes;ShowRoutes;class;6;10;2;0;10;5;5;176
+TC65Localizer27409007;com.batorek.tc65localizer.TC65SMSSupport;TC65SMSSupport;class;2;5;2;0;10;5;1;26
+TC65Localizer27409007;com.batorek.tc65localizer.IMletMain;IMletMain;class;9;7;2;0;1;3;8;56
+TC65Localizer27409007;com.batorek.tc65localizer.classes.Logger;Logger;class;0;6;1;0;9;6;4;48
+TC65Localizer27409007;com.batorek.tc65server.DelRoute;DelRoute;class;6;7;2;0;10;5;5;109
+TC65Localizer27409007;com.batorek.tc65server.GetXml;GetXml;class;6;13;2;0;10;5;5;135
+TC65Localizer27409007;com.batorek.tc65localizer.classes.StrSplit;StrSplit;class;0;7;1;0;0;1;0;44
+TC65Localizer27409007;com.batorek.tc65localizer.ModuleInitializer;ModuleInitializer;class;4;11;1;0;47;11;3;60

@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+CS424_Project12299042;RoomTempParser;RoomTempParser;class;1;17;1;0;0;1;2;93;
+CS424_Project12299042;Selector;Selector;class;1;7;1;0;2;5;11;44;
+CS424_Project12299042;Table;Table;class;3;6;1;0;0;2;3;64;
+CS424_Project12299042;DBConnector;DBConnector;class;8;34;2;0;0;13;4;316;
+CS424_Project12299042;ImageMap;ImageMap;class;2;4;1;0;0;2;2;18;
+CS424_Project12299042;Temperature;Temperature;class;0;1;1;0;0;1;2;9;
+CS424_Project12299042;GUI;GUI;class;6;19;1;0;12;12;9;145;
+CS424_Project12299042;RoomTemps;RoomTemps;class;10;42;2;0;97;18;9;205;
+CS424_Project12299042;Image;Image;class;2;19;1;0;0;11;7;66;
+CS424_Project12299042;DataContainer;DataContainer;class;1;52;1;0;27;18;6;199;
+CS424_Project12299042;Line;Line;class;3;30;1;0;16;17;12;188;
+CS424_Project12299042;Integrator;Integrator;class;1;9;1;0;0;7;12;47;
+CS424_Project12299042;Utils;Utils;class;3;21;1;0;15;6;0;60;
+CS424_Project12299042;LineGraph;LineGraph;class;6;101;1;0;0;29;19;294;

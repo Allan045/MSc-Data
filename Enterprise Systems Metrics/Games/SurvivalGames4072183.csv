@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+SurvivalGames4072183;me.petterroea.newsurvival.BlockListener;BlockListener;class;6;7;1;0;1;3;1;49
+SurvivalGames4072183;me.petterroea.survival.SurvivalGames;SurvivalGames;class;10;73;2;0;6;4;11;304
+SurvivalGames4072183;me.petterroea.survival.SurvivalListener;SurvivalListener;class;12;44;1;0;33;8;2;219
+SurvivalGames4072183;me.petterroea.newsurvival.PlayerListener;PlayerListener;class;12;59;1;0;0;8;1;204
+SurvivalGames4072183;me.petterroea.newsurvival.Survival;Survival;class;9;66;2;0;9;3;6;261

@@ -1,0 +1,4 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+pic2osc230394;PicnomeCommunication;PicnomeCommunication;class;14;664;1;0;2002;74;82;1828;
+pic2osc230394;PicnomeSystems;PicnomeSystems;interface;0;38;1;0;703;38;0;61;
+pic2osc230394;PicnomeSerial;PicnomeSerial;class;10;408;17;0;198;24;24;1231;

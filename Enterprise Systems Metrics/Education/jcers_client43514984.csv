@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+jcers_client43514984;jcers.mvc.view.DatabaseMetaPresenter;DatabaseMetaPresenter;class;1;2;1;0;0;2;1;25;
+jcers_client43514984;jcers.mvc.model.ValidationModule;ValidationModule;class;1;25;1;0;71;14;2;142;
+jcers_client43514984;jcers.mvc.view.StudentPresenter;StudentPresenter;class;7;26;1;0;0;6;4;128;
+jcers_client43514984;jcers.mvc.view.PersonPresenter;PersonPresenter;class;5;23;1;0;0;3;4;99;
+jcers_client43514984;jcers.mvc.view.PersonView;PersonView;class;19;11;2;1;2;9;35;265;
+jcers_client43514984;jcers.mvc.view.PersonSearchPresenter;PersonSearchPresenter;class;12;21;1;0;0;8;4;144;
+jcers_client43514984;jcers.mvc.view.RegistrationView;RegistrationView;class;1;1;2;0;0;1;0;15;
+jcers_client43514984;jcers.mvc.view.StudentView;StudentView;class;12;7;3;0;19;7;9;111;
+jcers_client43514984;jcers.mvc.model.DBase;DBase;class;3;55;1;0;24;12;4;337;
+jcers_client43514984;jcers.mvc.model.SimpleDialog;SimpleDialog;class;7;10;1;0;0;7;1;83;
+jcers_client43514984;jcers.mvc.view.MainWindowPresenter;MainWindowPresenter;class;9;5;1;0;0;5;1;66;
+jcers_client43514984;jcers.mvc.view.DatabaseMetaView;DatabaseMetaView;class;16;6;2;0;6;5;13;129;
+jcers_client43514984;jcers.mvc.JCersApplication;JCersApplication;class;5;3;2;0;3;3;0;38;
+jcers_client43514984;jcers.mvc.model.PersonModel;PersonModel;class;8;70;1;0;830;44;13;310;
+jcers_client43514984;jcers.mvc.view.PersonSearchView;PersonSearchView;class;23;6;2;0;9;6;29;172;
+jcers_client43514984;jcers.mvc.view.MainWindowView;MainWindowView;class;10;2;2;0;1;2;12;61;

@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.Aura_Accounting_SolutionApp;Aura_Accounting_SolutionApp;class;3;4;2;0;6;4;0;38
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.VIEW_EXPENSES;VIEW_EXPENSES;class;4;20;6;0;45;6;11;273
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.EXPENSE_DISTRIBUTION;EXPENSE_DISTRIBUTION;class;6;125;6;0;190;11;35;978
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.SAVING;SAVING;class;4;48;6;0;120;9;18;526
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.RENT;RENT;class;4;16;6;0;45;6;13;271
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.Aura_Accounting_SolutionAboutBox;Aura_Accounting_SolutionAboutBox;class;4;3;6;0;3;3;1;115
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.LIGHT_BIL;LIGHT_BIL;class;4;16;6;0;45;6;13;277
+Aura_Accounting_Solution23840225;Aura_Accounting_Solution.MENU;MENU;class;8;19;6;0;120;9;8;233

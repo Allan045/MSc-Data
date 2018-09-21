@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+java-games39313593;nu.xdi.games.spaceinvaders.Sound;Sound;class;1;14;1;0;1;6;8;90
+java-games39313593;nu.xdi.games.spaceinvaders.Window;Window;class;0;11;4;0;1;9;4;169
+java-games39313593;nu.xdi.games.spaceinvaders.Missile;Missile;class;1;35;1;0;0;9;7;140
+java-games39313593;nu.xdi.graphics.util.Sprite;Sprite;class;2;25;1;0;104;21;10;138
+java-games39313593;nu.xdi.games.spaceinvaders.Text;Text;class;1;25;1;0;8;5;1;101
+java-games39313593;nu.xdi.graphics.util.Images;Images;class;0;3;1;0;1;2;0;41
+java-games39313593;nu.xdi.games.spaceinvaders.Invader;Invader;class;1;117;1;0;78;21;21;352
+java-games39313593;nu.xdi.games.spaceinvaders.Game;Game;class;3;113;1;0;115;19;30;388
+java-games39313593;nu.xdi.games.spaceinvaders.InvadersApp;InvadersApp;class;2;15;1;0;1;2;0;68
+java-games39313593;nu.xdi.games.spaceinvaders.Controls;Controls;class;0;20;1;0;0;8;7;73
+java-games39313593;nu.xdi.games.spaceinvaders.ImageRes;ImageRes;class;2;5;1;0;1;2;0;50
+java-games39313593;nu.xdi.games.jlife.JLifeApp;JLifeApp;class;2;35;4;0;22;9;7;124
+java-games39313593;nu.xdi.graphics.util.CardDeck;CardDeck;class;1;10;1;0;3;3;1;75
+java-games39313593;nu.xdi.games.spaceinvaders.Saucer;Saucer;class;0;23;1;0;6;9;6;106
+java-games39313593;nu.xdi.graphics.util.Card;Card;class;0;1;1;0;0;1;2;14
+java-games39313593;nu.xdi.games.life.LifeApp;LifeApp;class;1;34;1;0;8;5;2;122

@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+pa263734747;PacketInfoLL;PacketInfoLL;class;1;16;1;0;0;4;2;64;
+pa263734747;Receiver;Receiver;class;2;91;1;0;3;7;9;440;
+pa263734747;numTest;numTest;class;1;3;1;0;3;3;0;45;
+pa263734747;Test;Test;class;1;3;1;0;0;1;0;80;
+pa263734747;PacketHelp;PacketHelp;class;1;33;1;0;55;11;0;265;
+pa263734747;Sender;Sender;class;4;32;1;0;0;3;9;264;
+pa263734747;MyTimerTask;MyTimerTask;class;2;7;2;0;0;3;2;49;
+pa263734747;NullTest;NullTest;class;0;1;1;0;0;1;0;7;
+pa263734747;PacketInfo;PacketInfo;class;2;14;1;0;2;5;5;56;
+pa263734747;StatusTest;StatusTest;class;2;22;1;0;0;3;2;110;
+pa263734747;Nack;Nack;class;2;11;2;0;1;2;2;99;

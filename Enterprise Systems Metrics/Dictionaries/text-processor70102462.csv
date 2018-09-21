@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+text-processor70102462;model.Processor;Processor;class;3;43;1;0;46;12;11;176
+text-processor70102462;view.PopUpMenu;PopUpMenu;class;1;9;5;0;0;2;6;68
+text-processor70102462;controller.Main;Main;class;1;1;1;0;0;1;0;12
+text-processor70102462;view.InterfaceEditor;InterfaceEditor;class;6;64;6;0;141;26;9;252
+text-processor70102462;view.ToolBar;ToolBar;class;1;22;5;0;0;2;11;118
+text-processor70102462;view.MenuBar;MenuBar;class;1;34;5;0;0;2;20;149
+text-processor70102462;view.LanguageDialog;LanguageDialog;class;1;4;6;0;0;2;6;56
+text-processor70102462;view.LanguagePanel;LanguagePanel;class;2;9;5;0;0;4;3;67
+text-processor70102462;controller.FileManager;FileManager;class;1;26;1;0;21;6;0;226
+text-processor70102462;view.ContentPanel;ContentPanel;class;1;20;6;0;60;12;1;98
+text-processor70102462;ProcessorTest;ProcessorTest;class;2;10;2;0;0;6;3;92

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Monitoring-and-Communication-System72973542;SVR_DataTransfer;SVR_DataTransfer;class;0;9;1;0;0;4;1;53;
+Monitoring-and-Communication-System72973542;Teacher_GUI;Teacher_GUI;class;3;25;6;0;8;6;16;220;
+Monitoring-and-Communication-System72973542;T_DataTransfer;T_DataTransfer;class;3;20;1;0;2;5;7;151;
+Monitoring-and-Communication-System72973542;Exchange_Data;Exchange_Data;class;3;19;1;0;0;5;6;125;
+Monitoring-and-Communication-System72973542;T_ScrollPane_GUI;T_ScrollPane_GUI;class;3;23;5;0;18;12;12;160;
+Monitoring-and-Communication-System72973542;Student_GUI;Student_GUI;class;3;22;6;0;8;6;16;229;
+Monitoring-and-Communication-System72973542;T_Connect_GUI;T_Connect_GUI;class;1;17;5;0;19;5;9;165;
+Monitoring-and-Communication-System72973542;Key;Key;class;1;21;1;0;0;9;4;85;
+Monitoring-and-Communication-System72973542;Connection;Connection;class;3;5;1;0;1;3;5;44;
+Monitoring-and-Communication-System72973542;S_Connect_GUI;S_Connect_GUI;class;1;17;5;0;19;5;9;161;
+Monitoring-and-Communication-System72973542;S_DataTransfer;S_DataTransfer;class;3;29;1;0;5;7;9;203;
+Monitoring-and-Communication-System72973542;Client;Client;class;4;12;1;0;0;5;7;87;
+Monitoring-and-Communication-System72973542;S_ScrollPane_GUI;S_ScrollPane_GUI;class;3;27;5;0;15;13;12;173;
+Monitoring-and-Communication-System72973542;Exchange_ID;Exchange_ID;class;2;5;1;0;0;2;3;41;
+Monitoring-and-Communication-System72973542;S_Chat_GUI;S_Chat_GUI;class;2;28;5;0;50;9;10;213;
+Monitoring-and-Communication-System72973542;T_Chat_GUI;T_Chat_GUI;class;2;32;5;0;69;11;10;228;

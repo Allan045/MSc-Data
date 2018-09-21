@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+termux-tasker;com.termux.tasker.ExampleInstrumentedTest;ExampleInstrumentedTest;class;4;1;1;0;0;1;0;21;
+termux-tasker;com.termux.tasker.Constants;Constants;class;5;5;1;0;0;1;1;24;
+termux-tasker;com.termux.tasker.BundleScrubber;BundleScrubber;class;2;7;1;0;1;2;0;44;
+termux-tasker;com.twofortyfouram.locale.Intent;Intent;class;2;1;1;0;0;1;12;180;
+termux-tasker;com.termux.tasker.ExampleUnitTest;ExampleUnitTest;class;1;1;1;0;0;1;0;14;
+termux-tasker;com.termux.tasker.PluginBundleManager;PluginBundleManager;class;3;18;1;0;0;2;4;90;
+termux-tasker;com.termux.tasker.AbstractPluginActivity;AbstractPluginActivity;class;4;6;2;1;1;3;1;49;
+termux-tasker;com.termux.tasker.TaskerPlugin;TaskerPlugin;class;20;118;1;0;652;40;45;725;
+termux-tasker;com.termux.tasker.EditConfigurationActivity;EditConfigurationActivity;class;22;25;3;0;13;3;4;133;
+termux-tasker;com.twofortyfouram.locale.Constants;Constants;class;2;1;1;0;0;1;2;33;
+termux-tasker;com.termux.tasker.FireReceiver;FireReceiver;class;12;17;2;0;1;2;2;63;

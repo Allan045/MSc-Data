@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+feup-tne51941847;platform.predicates.Recommendation;Recommendation;class;0;8;1;0;10;8;3;18
+feup-tne51941847;recommender.RecommenderAlgorithm;RecommenderAlgorithm;class;1;1;2;0;0;1;0;7
+feup-tne51941847;recommender.RecommenderSystem;RecommenderSystem;class;4;58;1;0;17;15;9;261
+feup-tne51941847;platform.services.RateItem;RateItem;class;1;8;1;0;10;8;3;19
+feup-tne51941847;platform.predicates.Items;Items;class;1;4;1;0;0;4;1;14
+feup-tne51941847;recommender.utils.MapUtils;MapUtils;class;2;2;1;0;1;2;0;35
+feup-tne51941847;platform.predicates.Recommendations;Recommendations;class;2;6;1;0;3;6;2;16
+feup-tne51941847;platform.ontology.RecommendationOntology;RecommendationOntology;class;10;3;2;0;1;2;2;30
+feup-tne51941847;platform.services.ChangeTrust;ChangeTrust;class;1;8;1;0;10;8;3;19
+feup-tne51941847;platform.services.RequestItems;RequestItems;class;1;4;1;0;0;4;1;11
+feup-tne51941847;platform.Recommender;Recommender;class;31;39;3;0;15;10;5;183
+feup-tne51941847;platform.services.UpdateModel;UpdateModel;class;1;0;1;0;0;0;0;3
+feup-tne51941847;platform.services.RequestRecommendation;RequestRecommendation;class;1;6;1;0;3;6;2;15
+feup-tne51941847;platform.UserGUI;UserGUI;class;3;33;5;0;111;11;8;237
+feup-tne51941847;platform.User;User;class;23;27;3;0;0;10;7;143

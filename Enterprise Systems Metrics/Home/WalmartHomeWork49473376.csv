@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+WalmartHomeWork49473376;com.walmart.openapi.model.RecommendationResponse;RecommendationResponse;class;0;66;1;0;2079;66;33;238;
+WalmartHomeWork49473376;com.walmart.openapi.WalmartRecommendationTest;WalmartRecommendationTest;class;3;1;1;0;0;1;0;20;
+WalmartHomeWork49473376;com.walmart.openapi.model.ReviewResponse;ReviewResponse;class;5;46;1;0;631;38;18;193;
+WalmartHomeWork49473376;com.walmart.openapi.WalmartSearchTest;WalmartSearchTest;class;3;1;1;0;0;1;0;18;
+WalmartHomeWork49473376;com.walmart.openapi.model.Item;Item;class;1;50;1;0;1175;50;25;184;
+WalmartHomeWork49473376;com.walmart.openapi.model.Recommendation;Recommendation;class;1;3;1;0;0;3;1;20;
+WalmartHomeWork49473376;com.walmart.openapi.model.SearchResponse;SearchResponse;class;1;16;1;0;104;16;8;65;
+WalmartHomeWork49473376;com.walmart.openapi.model.Review;Review;class;2;26;1;0;275;26;13;113;
+WalmartHomeWork49473376;com.walmart.openapi.WalmartReviewTest;WalmartReviewTest;class;3;1;1;0;0;1;0;17;
+WalmartHomeWork49473376;com.walmart.openapi.delegate.WalmartDelegate;WalmartDelegate;class;5;6;1;0;0;1;0;55;
+WalmartHomeWork49473376;com.walmart.openapi.service.WalmartService;WalmartService;interface;3;3;1;0;3;3;0;14;
+WalmartHomeWork49473376;com.walmart.openapi.utils.RestFactory;RestFactory;class;0;6;1;0;0;1;0;39;
+WalmartHomeWork49473376;com.walmart.openapi.service.impl.WalmartServiceImpl;WalmartServiceImpl;class;8;12;1;0;3;3;0;83;
+WalmartHomeWork49473376;com.walmart.openapi.utils.ApiConstants;ApiConstants;class;0;0;1;0;0;0;9;16;
+WalmartHomeWork49473376;com.walmart.openapi.client.WalmartConsumer;WalmartConsumer;class;1;8;1;0;0;1;0;41;

@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant-Order-System42545430;Drink;Drink;class;0;5;1;0;0;5;1;23
+Restaurant-Order-System42545430;Homepage;Homepage;class;6;37;6;0;129;10;15;334
+Restaurant-Order-System42545430;TotalPrice;TotalPrice;class;0;9;1;0;24;9;4;35
+Restaurant-Order-System42545430;Person_Order;Person_Order;class;0;13;1;0;66;13;6;49
+Restaurant-Order-System42545430;Frame;Frame;class;7;58;6;0;401;13;25;462
+Restaurant-Order-System42545430;AdminPassword;AdminPassword;class;4;17;6;0;28;5;7;131
+Restaurant-Order-System42545430;Dessert;Dessert;class;0;5;1;0;0;5;1;23
+Restaurant-Order-System42545430;Employee;Employee;class;0;13;1;0;66;13;2;57
+Restaurant-Order-System42545430;MenuEditor;MenuEditor;class;10;154;6;0;2977;34;52;1072
+Restaurant-Order-System42545430;Order;Order;class;11;105;6;0;918;25;52;811
+Restaurant-Order-System42545430;database;database;class;0;36;1;0;0;16;10;219
+Restaurant-Order-System42545430;MenuClass;MenuClass;class;0;13;1;0;66;13;1;55
+Restaurant-Order-System42545430;Starter;Starter;class;0;5;1;0;0;5;1;23
+Restaurant-Order-System42545430;Main;Main;class;0;5;1;0;0;5;1;24

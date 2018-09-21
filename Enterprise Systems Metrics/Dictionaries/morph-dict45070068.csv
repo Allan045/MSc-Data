@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+morph-dict45070068;ru.koluch.morphDict.prefixTree.PrefixTree;PrefixTree;class;3;16;1;0;4;4;2;72
+morph-dict45070068;ru.koluch.morphDict.dictionary.data.ParadigmRule;ParadigmRule;class;0;1;1;0;0;1;3;24
+morph-dict45070068;ru.koluch.morphDict.lookup.data.Lexeme;Lexeme;class;1;1;1;0;0;1;2;29
+morph-dict45070068;ru.koluch.morphDict.dictionary.Attribute;Attribute;enum;0;0;1;0;0;0;0;90
+morph-dict45070068;ru.koluch.morphDict.prefixTree.Statistics;Statistics;class;3;18;1;0;3;3;0;53
+morph-dict45070068;ru.koluch.morphDict.lookup.LookupService;LookupService;interface;1;1;1;0;0;1;0;16
+morph-dict45070068;ru.koluch.morphDict.dictionary.DictionaryHelper;DictionaryHelper;class;7;28;3;0;41;10;3;898
+morph-dict45070068;ru.koluch.morphDict.lookup.data.WordForm;WordForm;class;0;3;1;0;0;3;4;36
+morph-dict45070068;TestLookup;TestLookup;class;10;3;1;0;0;3;1;84
+morph-dict45070068;ru.koluch.morphDict.dictionary.data.Dictionary;Dictionary;class;2;1;1;0;0;1;3;24
+morph-dict45070068;ru.koluch.morphDict.dictionary.data.LexemeRec;LexemeRec;class;0;1;1;0;0;1;6;30
+morph-dict45070068;ru.koluch.morphDict.lookup.PrefixTreeLookupService;PrefixTreeLookupService;class;9;6;1;0;0;2;2;70
+morph-dict45070068;ru.koluch.morphDict.lookup.data.LookupResult;LookupResult;class;2;1;1;0;0;1;2;47

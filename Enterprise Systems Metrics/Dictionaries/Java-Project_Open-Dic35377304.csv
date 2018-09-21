@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Java-Project_Open-Dic35377304;simmetrics.MathFuncs;MathFuncs;class;0;5;1;0;10;5;0;105
+Java-Project_Open-Dic35377304;Server;Server;class;3;61;7;0;102;10;15;285
+Java-Project_Open-Dic35377304;Client;Client;class;8;178;23;0;1978;18;90;967
+Java-Project_Open-Dic35377304;simmetrics.JaroWinkler;JaroWinkler;class;2;11;2;0;26;8;5;164
+Java-Project_Open-Dic35377304;simmetrics.AbstractStringMetric;AbstractStringMetric;class;2;13;1;2;36;9;0;160
+Java-Project_Open-Dic35377304;simmetrics.Jaro;Jaro;class;1;19;2;0;28;8;2;185
+Java-Project_Open-Dic35377304;simmetrics.InterfaceStringMetric;InterfaceStringMetric;interface;0;6;1;0;15;6;0;98

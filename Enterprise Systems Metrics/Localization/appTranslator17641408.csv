@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+appTranslator17641408;enums.Sexo;Sexo;enum;0;0;1;0;0;0;0;6
+appTranslator17641408;enums.TipoNotificacao;TipoNotificacao;enum;0;0;1;0;0;0;0;4
+appTranslator17641408;models.Frase;Frase;class;10;42;1;0;193;23;10;131
+appTranslator17641408;models.Notificacao;Notificacao;class;12;11;2;0;22;9;5;62
+appTranslator17641408;models.File;File;class;9;17;1;0;32;13;6;73
+appTranslator17641408;utils.VariaveisSistema;VariaveisSistema;class;0;0;1;0;0;0;1;4
+appTranslator17641408;models.Usuario;Usuario;class;10;61;1;0;1088;49;19;209
+appTranslator17641408;controllers.Application;Application;class;1;1;2;0;0;1;0;10
+appTranslator17641408;controllers.TesteController;TesteController;class;5;3;2;0;3;3;0;24
+appTranslator17641408;utils.OfyService;OfyService;class;6;3;1;0;1;2;0;22
+appTranslator17641408;utils.SendMail;SendMail;class;12;3;2;0;3;3;3;138
+appTranslator17641408;utils.Utilidades;Utilidades;class;13;73;1;0;136;17;0;269
+appTranslator17641408;controllers.UsuarioController;UsuarioController;class;9;44;2;0;45;10;1;141
+appTranslator17641408;controllers.TraducaoController;TraducaoController;class;5;12;2;0;28;8;0;71

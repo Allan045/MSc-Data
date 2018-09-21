@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+gamestores14822929;Negocio.Negocio;Negocio;class;3;9;1;0;0;6;1;94
+gamestores14822929;Proyecto.RevisarStock;RevisarStock;class;1;14;6;0;21;4;4;145
+gamestores14822929;Conexion.Conexion;Conexion;class;1;33;1;0;237;26;11;235
+gamestores14822929;Datos.ProductoComprado;ProductoComprado;class;0;24;1;0;172;24;11;180
+gamestores14822929;Datos.ProductoVendido;ProductoVendido;class;0;0;1;0;0;0;0;11
+gamestores14822929;Proyecto.BoletaVendedor;BoletaVendedor;class;1;12;6;0;10;3;25;251
+gamestores14822929;Proyecto.RevisarVentas;RevisarVentas;class;1;14;6;0;21;4;4;146
+gamestores14822929;Proyecto.MenuVendedor;MenuVendedor;class;2;24;6;0;136;9;28;363
+gamestores14822929;Proyecto.Principal;Principal;class;4;27;6;0;91;8;28;250
+gamestores14822929;Proyecto.MenuAdministrador;MenuAdministrador;class;5;85;6;0;628;19;30;660
+gamestores14822929;Datos.Administrador;Administrador;class;0;6;1;0;0;6;2;45
+gamestores14822929;Datos.Vendedor;Vendedor;class;0;8;1;0;0;8;3;57

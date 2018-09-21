@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+health_internal_service79224765;introsde.health.soap.model.Measurement;Measurement;class;13;18;1;0;93;15;7;193;
+health_internal_service79224765;introsde.health.soap.dao.EHealthDao;EHealthDao;enum;6;14;1;0;49;11;1;357;
+health_internal_service79224765;introsde.health.soap.model.Measure;Measure;class;10;7;1;0;9;7;3;98;
+health_internal_service79224765;introsde.health.soap.endpoint.PeoplePublisher;PeoplePublisher;class;1;5;1;0;0;1;0;30;
+health_internal_service79224765;introsde.health.soap.model.MeasurementHistory;MeasurementHistory;class;15;21;1;0;141;18;7;228;
+health_internal_service79224765;introsde.health.soap.ws.People;People;interface;5;21;1;0;210;21;0;251;
+health_internal_service79224765;introsde.health.soap.model.Person;Person;class;14;34;1;0;218;24;8;292;
+health_internal_service79224765;introsde.health.soap.model.Goal;Goal;class;14;44;1;0;318;28;9;362;
+health_internal_service79224765;introsde.health.soap.ws.PeopleImplementation;PeopleImplementation;class;6;26;1;0;210;21;0;314;

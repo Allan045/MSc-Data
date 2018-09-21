@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+HealthMission9272206;in.gov.pc.fyp.hm.ds.DSAddress;DSAddress;class;2;3;1;0;0;2;1;34;
+HealthMission9272206;in.gov.pc.fyp.hm.service.GetPeople;GetPeople;class;6;5;2;0;3;3;1;54;
+HealthMission9272206;in.gov.pc.fyp.hm.ds.hb.HibernateUtil;HibernateUtil;class;5;8;1;0;0;4;2;69;
+HealthMission9272206;in.gov.pc.fyp.hm.test.TestAddress;TestAddress;class;4;4;1;0;3;3;0;51;
+HealthMission9272206;in.gov.pc.fyp.hm.objects.People;People;class;0;25;1;0;276;25;12;196;
+HealthMission9272206;in.gov.pc.fyp.hm.ds.DSPeople;DSPeople;class;2;3;1;0;0;2;1;34;
+HealthMission9272206;in.gov.pc.fyp.hm.util.Utilities;Utilities;class;0;92;1;0;496;32;0;477;
+HealthMission9272206;in.gov.pc.fyp.hm.test.TestPeople;TestPeople;class;5;4;1;0;3;3;0;52;
+HealthMission9272206;in.gov.pc.fyp.hm.objects.Address;Address;class;0;29;1;0;378;29;14;227;
+HealthMission9272206;in.gov.pc.fyp.hm.service.GetAddress;GetAddress;class;6;5;2;0;3;3;1;54;
+HealthMission9272206;in.gov.pc.fyp.hm.test.TestImmunization;TestImmunization;class;4;4;1;0;3;3;0;36;
+HealthMission9272206;in.gov.pc.fyp.hm.objects.Immunization;Immunization;class;0;13;1;0;66;13;6;106;
+HealthMission9272206;in.gov.pc.fyp.hm.service.AddAddress;AddAddress;class;7;7;2;0;3;3;1;65;
+HealthMission9272206;in.gov.pc.fyp.hm.ds.IDS;IDS;interface;0;2;1;0;1;2;0;13;
+HealthMission9272206;in.gov.pc.fyp.hm.service.AddPeople;AddPeople;class;5;8;2;0;3;3;1;78;
+HealthMission9272206;in.gov.pc.fyp.hm.ds.DSImmunization;DSImmunization;class;2;3;1;0;0;2;1;34;

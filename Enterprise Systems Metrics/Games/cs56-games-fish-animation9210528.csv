@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.ScoreComparer;ScoreComparer;class;1;9;1;0;0;1;0;30
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Plankton;Plankton;class;1;7;3;0;3;7;5;100
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Shark;Shark;class;1;6;3;0;3;6;1;76
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Bubbles;Bubbles;class;1;7;3;0;1;7;2;80
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Character;Character;enum;0;2;1;0;0;2;1;12
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.JellyFish;JellyFish;class;1;11;3;0;19;11;4;91
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.ScumOfTheSea;ScumOfTheSea;class;1;5;2;1;10;5;2;50
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.GeneralPathWrapper;GeneralPathWrapper;class;0;14;1;1;0;14;1;76
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Menu;Menu;class;3;75;1;0;411;7;5;617
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Score;Score;class;1;5;1;0;2;5;4;26
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.ScoreManager;ScoreManager;class;3;27;1;0;0;7;6;111
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.FishAnimationEnvironment;FishAnimationEnvironment;class;14;146;11;0;209;25;53;750
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.Fish;Fish;class;1;10;3;0;20;8;4;121
+cs56-games-fish-animation9210528;edu.ucsb.cs56.projects.games.fish_animation.SoundEffect;SoundEffect;enum;1;20;1;0;0;7;2;65

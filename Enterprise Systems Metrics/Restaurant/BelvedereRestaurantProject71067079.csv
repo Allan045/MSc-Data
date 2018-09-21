@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BelvedereRestaurantProject71067079;belvedererestaurantproject.RandomGenerator;RandomGenerator;class;3;33;1;0;0;1;1;280
+BelvedereRestaurantProject71067079;belvedererestaurantproject.Main;Main;class;9;17;1;0;19;3;1;145
+BelvedereRestaurantProject71067079;belvedererestaurantproject.TableBuilder;TableBuilder;class;0;4;1;0;0;1;0;34
+BelvedereRestaurantProject71067079;belvedererestaurantproject.ActiveOrders;ActiveOrders;interface;4;216;1;0;0;1;4;1626
+BelvedereRestaurantProject71067079;belvedererestaurantproject.CanceledOrders;CanceledOrders;interface;3;4;1;0;0;1;6;92
+BelvedereRestaurantProject71067079;belvedererestaurantproject.MysqlConnect;MysqlConnect;class;2;11;1;0;0;5;9;68
+BelvedereRestaurantProject71067079;belvedererestaurantproject.LoginDialog;LoginDialog;class;0;8;6;0;0;4;7;88
+BelvedereRestaurantProject71067079;belvedererestaurantproject.Menu;Menu;class;0;1;1;0;0;1;3;15
+BelvedereRestaurantProject71067079;belvedererestaurantproject.Login;Login;class;0;3;1;0;0;1;1;21
+BelvedereRestaurantProject71067079;belvedererestaurantproject.CompletedOrders;CompletedOrders;interface;3;4;1;0;0;1;6;92
+BelvedereRestaurantProject71067079;belvedererestaurantproject.AddOrders;AddOrders;interface;6;92;1;0;8;7;38;739
+BelvedereRestaurantProject71067079;belvedererestaurantproject.Employees;Employees;interface;3;20;1;0;0;1;3;183
+BelvedereRestaurantProject71067079;belvedererestaurantproject.Statistics;Statistics;interface;10;57;1;0;24;3;2;416
+BelvedereRestaurantProject71067079;belvedererestaurantproject.ActiveOrdersRev;ActiveOrdersRev;interface;3;23;1;0;0;1;5;188

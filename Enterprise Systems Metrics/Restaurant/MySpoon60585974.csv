@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+MySpoon60585974;api.LoginServlet;LoginServlet;class;8;9;2;0;1;3;2;80
+MySpoon60585974;api.RecommendRestaurants;RecommendRestaurants;class;7;5;2;0;3;3;1;58
+MySpoon60585974;db.DBConnection;DBConnection;interface;2;11;1;0;55;11;0;75
+MySpoon60585974;api.SearchRestaurants;SearchRestaurants;class;8;7;2;0;3;3;1;58
+MySpoon60585974;model.Restaurant;Restaurant;class;4;39;1;0;218;28;11;181
+MySpoon60585974;db.DBYelpImport;DBYelpImport;class;0;5;1;0;0;1;0;58
+MySpoon60585974;api.VisitHistory;VisitHistory;class;9;20;2;0;6;4;1;113
+MySpoon60585974;db.MongoDBConnection;MongoDBConnection;class;14;33;1;0;13;12;3;183
+MySpoon60585974;db.MySQLDBConnection;MySQLDBConnection;class;7;61;1;0;61;14;2;259
+MySpoon60585974;model.RestaurantTest;RestaurantTest;class;9;6;1;0;8;5;2;69
+MySpoon60585974;yelp.TwoStepOAuth;TwoStepOAuth;class;2;3;2;0;3;3;0;20
+MySpoon60585974;api.LogoutServlet;LogoutServlet;class;5;5;2;0;3;3;1;38
+MySpoon60585974;db.MongoDBImport;MongoDBImport;class;3;1;1;0;0;1;0;18
+MySpoon60585974;yelp.YelpAPI;YelpAPI;class;11;7;1;0;8;5;10;75
+MySpoon60585974;db.DBUtil;DBUtil;class;0;0;1;0;0;0;6;10
+MySpoon60585974;api.RpcParser;RpcParser;class;5;7;1;0;3;3;0;51

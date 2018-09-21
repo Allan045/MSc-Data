@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+regulators52956794;eu.hansolo.fx.regulators.FeedbackRegulator;FeedbackRegulator;class;50;148;2;0;4115;62;47;553;
+regulators52956794;eu.hansolo.fx.regulators.GradientLookup;GradientLookup;class;5;37;1;0;25;11;1;113;
+regulators52956794;eu.hansolo.fx.regulators.Main;Main;class;13;13;2;0;4;4;5;128;
+regulators52956794;eu.hansolo.fx.regulators.Regulator;Regulator;class;46;127;2;0;3267;51;42;439;
+regulators52956794;eu.hansolo.fx.regulators.ColorRegulator;ColorRegulator;class;41;129;2;0;2412;51;44;483;
+regulators52956794;eu.hansolo.fx.regulators.ConicalGradient;ConicalGradient;class;18;93;1;0;286;28;7;281;
+regulators52956794;eu.hansolo.fx.regulators.ColorRegulatorBuilder;ColorRegulatorBuilder;class;18;91;1;0;0;32;1;233;
+regulators52956794;eu.hansolo.fx.regulators.RegulatorEvent;RegulatorEvent;class;5;2;2;0;1;2;3;30;
+regulators52956794;eu.hansolo.fx.regulators.RegulatorControl;RegulatorControl;interface;4;15;1;0;105;15;0;40;
+regulators52956794;eu.hansolo.fx.regulators.FeedbackRegulatorBuilder;FeedbackRegulatorBuilder;class;20;103;1;0;0;36;1;259;
+regulators52956794;eu.hansolo.fx.regulators.Fonts;Fonts;class;3;4;1;0;1;2;4;37;
+regulators52956794;eu.hansolo.fx.regulators.RegulatorBuilder;RegulatorBuilder;class;19;91;1;0;0;32;1;231;

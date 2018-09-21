@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+instantmessenger71513746;control.Main;Main;class;3;2;1;0;0;1;0;37
+instantmessenger71513746;vista.Usuario;Usuario;class;0;3;6;0;0;3;7;98
+instantmessenger71513746;vista.ventanaPrincipal;ventanaPrincipal;class;1;21;6;0;91;8;27;404
+instantmessenger71513746;control.ControlPrincipal;ControlPrincipal;class;6;11;1;0;8;5;3;62
+instantmessenger71513746;modelo.Usuario;Usuario;class;0;6;1;0;1;6;2;27
+instantmessenger71513746;vista.crear_usuario;crear_usuario;class;2;22;6;0;64;12;26;360
+instantmessenger71513746;conexion.Conexion;Conexion;class;0;38;1;0;7;7;3;124
+instantmessenger71513746;vista.VistaLogin;VistaLogin;class;1;11;6;0;5;7;5;129
+instantmessenger71513746;vista.VistaPrincipal;VistaPrincipal;class;3;11;6;0;35;10;22;279
+instantmessenger71513746;control.ControlLogin;ControlLogin;class;3;11;1;0;0;3;4;64

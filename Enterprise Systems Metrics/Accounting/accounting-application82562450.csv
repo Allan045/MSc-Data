@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+accounting-application82562450;application.Processing;Processing;class;4;56;1;0;19;19;6;256
+accounting-application82562450;application.Transaction;Transaction;class;0;0;1;0;0;0;2;5
+accounting-application82562450;application.Income;Income;class;1;7;2;0;21;7;0;26
+accounting-application82562450;application.Major;Major;class;50;86;2;0;36;21;13;566
+accounting-application82562450;application.Data;Data;class;0;4;1;0;2;4;2;29
+accounting-application82562450;application.Configuration;Configuration;class;1;4;1;0;4;4;2;15
+accounting-application82562450;application.Expense;Expense;class;1;7;2;0;21;7;0;26
+accounting-application82562450;application.Login;Login;class;16;15;2;0;6;5;3;108

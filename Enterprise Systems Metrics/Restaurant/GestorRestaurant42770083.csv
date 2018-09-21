@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+GestorRestaurant42770083;restaurante_sql.Insert;Insert;class;0;22;1;0;0;5;1;225
+GestorRestaurant42770083;restaurante_sql.Select;Select;class;0;27;1;0;6;4;1;174
+GestorRestaurant42770083;conexionMySQL.MySQL;MySQL;class;1;7;1;0;6;4;0;56
+GestorRestaurant42770083;restaurante_sql.JSONNoticias;JSONNoticias;class;0;12;1;0;3;3;1;120
+GestorRestaurant42770083;restaurante_sql.Delete;Delete;class;0;12;1;0;0;4;1;65
+GestorRestaurant42770083;restaurante_sql.RestApp;RestApp;class;0;45;1;0;0;6;4;263
+GestorRestaurant42770083;restaurante_sql.Update;Update;class;0;90;1;0;16;8;1;450

@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.ShibLoginFilter;ShibLoginFilter;class;8;10;2;0;1;2;1;79;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.GroupMapper;GroupMapper;class;2;34;1;0;10;9;5;204;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.ShibAuthConfigLoader;ShibAuthConfigLoader;class;5;111;1;0;0;6;1;382;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.ShibAuthConstants;ShibAuthConstants;class;0;0;1;0;0;0;33;170;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.StringUtil;StringUtil;class;3;23;1;0;4;4;2;109;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.RemoteUserAuthenticator;RemoteUserAuthenticator;class;32;408;2;0;103;34;3;1126;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.RemoteAuthenticatorTest;RemoteAuthenticatorTest;class;1;13;2;0;1;2;0;53;
+confluence_http_authenticator7789418;shibauth.confluence.authentication.shibboleth.ShibAuthConfiguration;ShibAuthConfiguration;class;0;66;1;0;1762;61;29;408;

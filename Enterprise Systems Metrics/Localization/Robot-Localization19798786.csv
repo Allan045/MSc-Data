@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Robot-Localization19798786;CommListener;CommListener;interface;0;3;1;0;3;3;0;11
+Robot-Localization19798786;OffScreenDrawing;OffScreenDrawing;class;1;51;5;0;231;20;18;381
+Robot-Localization19798786;MessageType;MessageType;enum;0;0;1;0;0;0;0;10
+Robot-Localization19798786;GridControlCommunicator;GridControlCommunicator;class;4;51;2;0;0;19;7;413
+Robot-Localization19798786;MissionControlGUI;MissionControlGUI;class;19;65;6;0;838;45;16;742

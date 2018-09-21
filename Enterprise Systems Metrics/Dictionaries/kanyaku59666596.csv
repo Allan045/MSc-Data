@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+kanyaku59666596;KanjidicRecord;KanjidicRecord;class;1;52;1;0;0;1;42;247
+kanyaku59666596;Format;Format;class;0;34;1;0;10;5;0;206
+kanyaku59666596;ReadingFilter;ReadingFilter;class;6;21;1;0;10;5;0;126
+kanyaku59666596;PhraseFilter;PhraseFilter;class;6;35;1;0;10;5;0;203
+kanyaku59666596;EdictCandidateValue;EdictCandidateValue;class;2;5;2;0;0;1;1;13
+kanyaku59666596;KanaUtil;KanaUtil;class;0;20;1;0;0;1;4;56
+kanyaku59666596;AsciiFilter;AsciiFilter;class;9;75;1;0;45;10;0;430
+kanyaku59666596;DBConnection;DBConnection;class;3;6;1;0;1;2;0;52
+kanyaku59666596;Edict2Record;Edict2Record;class;1;7;1;0;0;1;3;55
+kanyaku59666596;KeywordCandidateValue;KeywordCandidateValue;class;1;10;1;0;1;2;2;38
+kanyaku59666596;InitVelocity;InitVelocity;class;1;2;1;0;1;2;0;19
+kanyaku59666596;JDictPrepare;JDictPrepare;class;0;2;1;0;0;1;0;19
+kanyaku59666596;JDictSQL;JDictSQL;class;6;251;1;0;74;13;12;1041
+kanyaku59666596;KanjidicCandidateValue;KanjidicCandidateValue;class;2;5;2;0;0;1;1;13
+kanyaku59666596;VelocityContextFilter;VelocityContextFilter;class;7;3;1;0;3;3;0;27
+kanyaku59666596;JDictServlet;JDictServlet;class;5;1;2;0;0;1;0;16

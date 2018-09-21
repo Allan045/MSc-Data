@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SmartRoad53893103;event.Quest;Quest;class;1;9;1;0;22;9;7;58;
+SmartRoad53893103;smartcar.SpecialVehicle;SpecialVehicle;class;0;9;1;0;12;9;4;41;
+SmartRoad53893103;interfaces.IPanel;IPanel;interface;1;6;1;0;15;6;0;36;
+SmartRoad53893103;smartcar.Ambulance;Ambulance;class;6;18;2;0;4;5;1;97;
+SmartRoad53893103;smartcar.SmartCar;SmartCar;class;10;47;1;0;0;20;6;335;
+SmartRoad53893103;smartroad.Panel;Panel;class;2;10;1;0;0;10;5;74;
+SmartRoad53893103;smartroad.RoadAnswerRequest;RoadAnswerRequest;class;5;22;2;0;0;8;5;150;
+SmartRoad53893103;smartcity.SmartCity;SmartCity;class;12;73;1;0;122;21;8;353;
+SmartRoad53893103;environment.SetUp;SetUp;class;5;5;1;0;3;3;2;43;
+SmartRoad53893103;event.Emergency;Emergency;class;0;12;1;0;42;12;8;58;
+SmartRoad53893103;smartroad.Segment;Segment;class;8;32;1;0;147;22;8;141;
+SmartRoad53893103;smartroad.SmartRoad;SmartRoad;class;12;47;1;0;98;21;8;238;
+SmartRoad53893103;environment.EnvironmentOne;EnvironmentOne;class;6;8;1;0;0;1;0;82;
+SmartRoad53893103;smartcity.CityAnswerRequest;CityAnswerRequest;class;8;25;2;0;0;10;6;209;

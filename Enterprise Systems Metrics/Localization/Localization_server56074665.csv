@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Localization_server56074665;ServerHelper;ServerHelper;class;0;32;1;0;3;7;4;107
+Localization_server56074665;NoIP;NoIP;class;0;32;2;0;3;6;4;107
+Localization_server56074665;ClassifyThread;ClassifyThread;class;6;27;1;0;6;5;8;157
+Localization_server56074665;DbServerThread;DbServerThread;class;2;8;2;0;0;2;5;61
+Localization_server56074665;FileHelper;FileHelper;class;1;31;1;0;0;7;5;146
+Localization_server56074665;BuildingsInformations;BuildingsInformations;class;0;15;1;0;0;7;1;96
+Localization_server56074665;ClassifierService;ClassifierService;class;6;11;1;0;0;3;3;70
+Localization_server56074665;BuildArff;BuildArff;class;3;46;1;0;43;10;4;234
+Localization_server56074665;Base64;Base64;class;2;44;1;0;66;12;3;289
+Localization_server56074665;DatabaseHelper;DatabaseHelper;class;0;30;1;0;1;9;11;250
+Localization_server56074665;Main;Main;class;4;4;1;0;0;1;5;53

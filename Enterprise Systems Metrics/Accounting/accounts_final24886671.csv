@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+accounts_final24886671;accounts.HomeScreen;HomeScreen;class;7;97;6;0;324;15;86;1371
+accounts_final24886671;accounts.Accounts;Accounts;class;1;1;1;0;0;1;0;19
+accounts_final24886671;accounts.income_edit;income_edit;class;4;20;6;0;26;6;21;279
+accounts_final24886671;accounts.SignUpFrame;SignUpFrame;class;2;20;6;0;13;4;13;194
+accounts_final24886671;accounts.connect;connect;class;2;3;1;0;1;2;0;47
+accounts_final24886671;accounts.addCategory;addCategory;class;2;7;6;0;13;4;7;93
+accounts_final24886671;accounts.expense_edit;expense_edit;class;4;20;6;0;26;6;23;293
+accounts_final24886671;accounts.AccountPreview;AccountPreview;class;1;37;6;0;24;5;36;518
+accounts_final24886671;accounts.loginFrame;loginFrame;class;2;21;6;0;26;5;12;217

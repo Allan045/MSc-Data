@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+verba-console3053798;org.magnopere.lexicon.latin.Orthography;Orthography;class;0;2;1;0;1;2;0;48
+verba-console3053798;org.magnopere.lexicon.latin.Slurper;Slurper;class;1;7;1;0;8;5;1;63
+verba-console3053798;org.magnopere.lexicon.sql.DataRepository;DataRepository;class;5;26;1;0;0;10;12;224
+verba-console3053798;org.magnopere.lexicon.latin.MorphologyAnalysis;MorphologyAnalysis;class;9;49;1;0;261;27;12;200
+verba-console3053798;org.magnopere.lexicon.GetOpts;GetOpts;class;7;9;1;0;4;5;5;73
+verba-console3053798;org.magnopere.lexicon.ConsoleFormatter;ConsoleFormatter;class;3;19;1;0;6;4;1;99
+verba-console3053798;org.magnopere.lexicon.sql.SQLWriter;SQLWriter;class;3;13;1;0;0;6;6;121
+verba-console3053798;org.magnopere.lexicon.latin.RecordStack;RecordStack;class;2;10;1;0;9;7;2;68
+verba-console3053798;org.magnopere.lexicon.sql.PersistenceStrategy;PersistenceStrategy;interface;2;5;1;0;10;5;2;61
+verba-console3053798;org.magnopere.lexicon.sql.Compression;Compression;class;2;18;5;0;21;7;1;115
+verba-console3053798;org.magnopere.lexicon.sql.ResultFormatter;ResultFormatter;interface;2;1;1;0;0;1;0;39
+verba-console3053798;org.magnopere.lexicon.latin.LexiconEntry;LexiconEntry;class;1;55;1;0;130;21;8;167
+verba-console3053798;org.magnopere.lexicon.latin.LexiconParser;LexiconParser;class;10;59;2;0;823;42;10;307
+verba-console3053798;org.magnopere.lexicon.Verba;Verba;class;11;16;1;0;2;5;6;102
+verba-console3053798;org.magnopere.lexicon.latin.MorphologyParser;MorphologyParser;class;10;38;2;0;401;30;9;220
+verba-console3053798;org.magnopere.lexicon.sql.QueryResult;QueryResult;class;3;15;1;0;13;7;2;86

@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+FaceBox18936512;FBConsoleChatApp;FBConsoleChatApp;class;14;32;1;0;18;13;23;172;
+FaceBox18936512;Utils;Utils;class;1;9;3;0;0;4;3;75;
+FaceBox18936512;FileTest;FileTest;class;1;2;1;0;0;1;0;13;
+FaceBox18936512;CustomSASLDigestMD5Mechanism;CustomSASLDigestMD5Mechanism;class;2;4;2;0;6;4;0;35;
+FaceBox18936512;FBMessageListener;FBMessageListener;class;12;23;1;0;13;6;13;116;
+FaceBox18936512;FaceDrop;FaceDrop;class;2;18;1;0;3;3;0;100;
+FaceBox18936512;BasicDHExample;BasicDHExample;class;1;5;1;0;0;4;7;75;
+FaceBox18936512;TKey;TKey;class;0;0;1;0;0;0;2;5;
+FaceBox18936512;Base64Coder;Base64Coder;class;2;45;1;0;78;13;3;228;
+FaceBox18936512;DBTest;DBTest;class;6;15;1;0;0;8;3;139;
+FaceBox18936512;ControlPacket;ControlPacket;class;0;0;1;0;0;0;2;4;
+FaceBox18936512;ProxySecurity;ProxySecurity;class;1;10;1;0;0;9;5;131;
+FaceBox18936512;FileOps;FileOps;class;4;21;1;0;24;9;8;145;

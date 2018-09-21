@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+HelpMeOut44228912;se2xb3.AppState;AppState;enum;0;0;1;0;0;0;0;26
+HelpMeOut44228912;se2xb3.HMORecords;HMORecords;class;4;43;2;0;14;21;7;198
+HelpMeOut44228912;se2xb3.HMORecordsTest;HMORecordsTest;class;3;1;1;0;0;1;0;47
+HelpMeOut44228912;se2xb3.HMOUserInterface;HMOUserInterface;class;7;57;6;0;0;7;87;971
+HelpMeOut44228912;se2xb3.DataBaseGenerator;DataBaseGenerator;class;2;30;1;0;27;10;22;160
+HelpMeOut44228912;se2xb3.HMOProfile;HMOProfile;class;1;45;1;0;331;31;14;201
+HelpMeOut44228912;se2xb3.Queue;Queue;class;4;24;1;0;6;13;6;145
+HelpMeOut44228912;se2xb3.RedBlackBST;RedBlackBST;class;5;216;1;0;0;51;8;474
+HelpMeOut44228912;se2xb3.HMOController;HMOController;class;5;29;1;0;0;3;3;152
+HelpMeOut44228912;se2xb3.BoyerMoore;BoyerMoore;class;2;21;1;0;0;4;4;65
+HelpMeOut44228912;se2xb3.testClass;testClass;class;0;1;1;0;0;1;0;41
+HelpMeOut44228912;se2xb3.MergeX;MergeX;class;0;48;1;0;118;16;1;173
+HelpMeOut44228912;se2xb3.TST;TST;class;3;70;1;0;6;13;5;165

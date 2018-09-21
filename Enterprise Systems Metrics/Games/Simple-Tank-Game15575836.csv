@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Simple-Tank-Game15575836;net.rabbitfighter.game.Basic;Basic;class;1;16;1;1;43;14;7;109
+Simple-Tank-Game15575836;net.rabbitfighter.game.Box;Box;class;2;241;1;0;4;17;20;726
+Simple-Tank-Game15575836;net.rabbitfighter.game.Ex8;Ex8;class;4;121;2;0;0;11;14;371
+Simple-Tank-Game15575836;net.rabbitfighter.game.Triple;Triple;class;1;20;1;0;0;12;3;62

@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Gift47600090;org.cocos2dx.lib.Cocos2dxVideoHelper;Cocos2dxVideoHelper;class;16;91;2;0;121;34;23;382
+Gift47600090;org.cocos2dx.lib.Cocos2dxDownloader;Cocos2dxDownloader;class;14;65;3;0;126;23;18;253
+Gift47600090;org.cocos2dx.lib.Cocos2dxEditBox;Cocos2dxEditBox;class;8;29;2;0;47;11;21;210
+Gift47600090;org.cocos2dx.lib.Cocos2dxLuaJavaBridge;Cocos2dxLuaJavaBridge;class;0;4;1;0;6;4;0;27
+Gift47600090;org.cocos2dx.lib.GameControllerAdapter;GameControllerAdapter;class;0;22;1;0;99;11;1;63
+Gift47600090;org.cocos2dx.lib.Cocos2dxMusic;Cocos2dxMusic;class;5;63;1;0;0;15;9;228
+Gift47600090;com.chukong.cocosplay.client.CocosPlayClient;CocosPlayClient;class;1;8;1;0;28;8;0;43
+Gift47600090;org.cocos2dx.lib.GameControllerDelegate;GameControllerDelegate;interface;4;11;1;0;55;11;24;43

@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CrazyGames63964094;db.CrazyDBManager;CrazyDBManager;class;0;12;1;0;1;2;3;47
+CrazyGames63964094;test.testdao;testdao;class;5;1;1;0;0;1;0;21
+CrazyGames63964094;StringIndexOutOf;StringIndexOutOf;class;0;2;1;0;0;1;0;13
+CrazyGames63964094;dao.StateDAO;StateDAO;interface;1;2;1;0;1;2;0;8
+CrazyGames63964094;dao.GuessDAO;GuessDAO;interface;1;2;1;0;1;2;0;9
+CrazyGames63964094;util.CloudThread;CloudThread;class;0;5;2;0;0;2;2;26
+CrazyGames63964094;bean.State;State;class;0;4;1;0;2;4;2;17
+CrazyGames63964094;util.MoleThread;MoleThread;class;0;4;2;0;0;2;2;24
+CrazyGames63964094;ui.CrazyMainUI;CrazyMainUI;class;11;78;6;0;185;18;80;821
+CrazyGames63964094;ui.CrazyStartUI;CrazyStartUI;class;4;10;6;0;45;5;16;184
+CrazyGames63964094;dao.GuessDAOIMPL;GuessDAOIMPL;class;2;7;1;0;1;2;0;62
+CrazyGames63964094;dao.StateDAOIMPL;StateDAOIMPL;class;2;6;1;0;1;2;0;50
+CrazyGames63964094;bean.Guess;Guess;class;0;6;1;0;9;6;3;24
+CrazyGames63964094;ui.CrazyLoadingUI;CrazyLoadingUI;class;3;12;6;0;36;4;1;102

@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Bank_Account_Manager60881903;jdbcwithobjectpool.JDBCConnectionPool;JDBCConnectionPool;class;1;8;2;0;6;4;0;57
+Bank_Account_Manager60881903;management.Admin;Admin;class;8;13;6;0;15;4;2;156
+Bank_Account_Manager60881903;jdbcwithobjectpool.ObjectPool;ObjectPool;class;1;13;1;0;9;6;2;62
+Bank_Account_Manager60881903;management.Client;Client;class;22;518;6;0;1523;46;33;4038
+Bank_Account_Manager60881903;focustraversalpolicy.MyOwnFocusTraversalPolicy;MyOwnFocusTraversalPolicy;class;0;8;2;0;0;6;1;39
+Bank_Account_Manager60881903;management.OwnException;OwnException;class;0;2;3;0;1;2;1;17
+Bank_Account_Manager60881903;linecharttransactionsvalues.LineChartTransactions;LineChartTransactions;class;8;11;1;0;0;3;7;127
+Bank_Account_Manager60881903;management.Bank;Bank;class;1;2;1;0;0;1;0;22

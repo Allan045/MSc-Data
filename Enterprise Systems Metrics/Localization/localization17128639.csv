@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+localization17128639;com.polyu.location.Config;Config;class;8;5;1;0;0;1;6;69
+localization17128639;com.polyu.location.argorithm.LocationMathUtils;LocationMathUtils;class;6;31;1;0;36;9;1;132
+localization17128639;com.polyu.location.argorithm.LocationArgorithmFor2D;LocationArgorithmFor2D;class;12;53;1;0;20;9;14;345
+localization17128639;com.polyu.location.argorithm.Localization;Localization;class;5;3;1;0;1;3;11;46
+localization17128639;com.polyu.location.Loader;Loader;class;3;8;1;0;1;2;1;41
+localization17128639;com.polyu.location.App;App;class;13;32;1;0;33;10;14;354
+localization17128639;com.polyu.location.DistanceChart;DistanceChart;class;12;9;2;0;13;5;2;82
+localization17128639;com.polyu.location.PositionChart;PositionChart;class;13;10;2;0;8;5;4;120

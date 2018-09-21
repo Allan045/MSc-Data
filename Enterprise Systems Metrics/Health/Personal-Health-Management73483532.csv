@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Personal-Health-Management73483532;dbms.cli.Records;Records;class;0;15;1;0;6;4;0;118;
+Personal-Health-Management73483532;dbms.cli.UserProfile;UserProfile;class;1;25;1;0;136;21;8;112;
+Personal-Health-Management73483532;dbms.cli.Measure;Measure;class;0;16;1;0;104;16;8;61;
+Personal-Health-Management73483532;dbms.cli.Diagnosis;Diagnosis;class;0;91;1;0;0;9;4;365;
+Personal-Health-Management73483532;dbms.cli.SqlQueries;SqlQueries;class;0;0;1;0;0;0;35;46;
+Personal-Health-Management73483532;dbms.cli.Alerts;Alerts;class;1;30;1;0;0;5;13;167;
+Personal-Health-Management73483532;dbms.cli.ErrorMessages;ErrorMessages;enum;0;2;1;0;0;2;1;12;
+Personal-Health-Management73483532;dbms.cli.HealthSupporters;HealthSupporters;class;0;78;1;0;55;11;0;334;
+Personal-Health-Management73483532;dbms.cli.HealthApplication;HealthApplication;class;0;1;1;0;0;1;0;11;
+Personal-Health-Management73483532;dbms.cli.Login;Login;class;0;23;1;0;6;4;0;142;
+Personal-Health-Management73483532;dbms.connection.DatabaseConnection;DatabaseConnection;class;0;27;1;0;9;7;3;77;
+Personal-Health-Management73483532;dbms.cli.ListOfValue;ListOfValue;class;1;14;1;0;27;10;4;62;
+Personal-Health-Management73483532;dbms.cli.AddSpecificRecommendation;AddSpecificRecommendation;class;0;21;1;0;6;4;0;121;
+Personal-Health-Management73483532;dbms.cli.HomePage;HomePage;class;0;27;1;0;1;2;0;140;

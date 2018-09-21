@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+IRCBot45753488;MyThread;MyThread;class;3;101;2;0;0;2;9;307
+IRCBot45753488;PlaySound;PlaySound;class;4;3;2;0;3;2;0;22
+IRCBot45753488;PlayVideo;PlayVideo;class;8;3;2;0;3;2;1;50
+IRCBot45753488;ConnectIRC;ConnectIRC;class;4;6;2;0;0;5;10;56
+IRCBot45753488;InitNEWGAME;InitNEWGAME;class;10;9;2;0;1;2;3;75
+IRCBot45753488;InitJSON;InitJSON;class;12;27;2;0;0;7;13;212
+IRCBot45753488;CurrencyThread;CurrencyThread;class;9;23;2;0;7;5;9;119
+IRCBot45753488;InitGUI;InitGUI;class;17;41;2;0;0;3;8;314
+IRCBot45753488;InitTOOLTIP;InitTOOLTIP;class;6;5;1;0;1;2;3;31

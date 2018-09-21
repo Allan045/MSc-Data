@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+YoudaoDict11805474;com.mindfine.youdaodict.fetcher.Fetcher;Fetcher;interface;1;4;1;0;6;4;0;52
+YoudaoDict11805474;com.mindfine.youdaodict.speller.Speller;Speller;interface;0;1;1;0;0;1;0;8
+YoudaoDict11805474;com.mindfine.youdaodict.explain.YoudaoCollinsExplain;YoudaoCollinsExplain;class;3;123;1;0;398;32;14;395
+YoudaoDict11805474;com.mindfine.youdaodict.util.Timer;Timer;class;0;3;1;0;0;3;2;20
+YoudaoDict11805474;com.mindfine.youdaodict.pronouncer.YoudaoPronouncer;YoudaoPronouncer;class;4;29;1;0;39;11;3;77
+YoudaoDict11805474;com.mindfine.youdaodict.fetcher.YoudaoCollinsOfflineFetcher;YoudaoCollinsOfflineFetcher;class;4;31;1;0;17;7;6;143
+YoudaoDict11805474;com.mindfine.youdaodict.FetchWord;FetchWord;class;10;89;1;0;44;12;12;304
+YoudaoDict11805474;com.mindfine.youdaodict.pronouncer.Pronouncer;Pronouncer;interface;1;4;1;0;6;4;0;16
+YoudaoDict11805474;com.mindfine.youdaodict.fetcher.YoudaoCollinsFetcher;YoudaoCollinsFetcher;class;10;84;1;0;27;10;4;306
+YoudaoDict11805474;com.mindfine.youdaodict.pronouncer.YoudaoOfflinePronouncer;YoudaoOfflinePronouncer;class;3;22;1;0;24;8;2;54
+YoudaoDict11805474;com.mindfine.youdaodict.pronouncer.NetTool;NetTool;class;1;26;1;0;3;3;0;99

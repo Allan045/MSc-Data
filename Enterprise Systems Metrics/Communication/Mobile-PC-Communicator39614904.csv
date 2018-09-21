@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.core.bluetooth.BluetoothCommunicator;BluetoothCommunicator;class;5;15;1;0;25;9;9;161;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.core.bluetooth.BluetoothDeviceDB;BluetoothDeviceDB;class;2;6;1;0;0;2;2;73;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.core.bluetooth.BluetoothReader;BluetoothReader;class;1;7;1;0;2;5;3;78;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.gui.MainWindow;MainWindow;class;5;29;6;0;60;9;9;234;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.core.bluetooth.BluetoothMessage;BluetoothMessage;class;0;8;1;0;10;8;3;82;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.core.bluetooth.BluetoothCommunicator;BluetoothCommunicator;class;5;19;1;0;43;11;8;188;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.gui.MPCVisualMIDlet;MPCVisualMIDlet;class;23;81;2;0;170;21;13;426;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.core.bluetooth.BluetoothUI;BluetoothUI;interface;0;1;1;0;0;1;0;32;
+Mobile-PC-Communicator39614904;com.deepak.mpcclient.core.bluetooth.BluetoothMessage;BluetoothMessage;class;0;6;1;0;0;4;2;69;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.core.bluetooth.BluetoothReader;BluetoothReader;class;2;7;1;0;2;5;3;80;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.core.bluetooth.BluetoothUI;BluetoothUI;interface;0;1;1;0;0;1;0;32;
+Mobile-PC-Communicator39614904;com.deepak.mpcserver.main.Main;Main;class;1;9;1;0;1;1;0;63;

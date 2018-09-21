@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+restaurant-order-processor55160230;it.kApps.Pagoda;Pagoda;class;2;2;1;0;1;1;1;28
+restaurant-order-processor55160230;it.kApps.GUI.GUI;GUI;class;5;93;1;0;36;15;7;561
+restaurant-order-processor55160230;it.kApps.core.Console;Console;class;1;44;2;0;72;13;2;220
+restaurant-order-processor55160230;it.kApps.GUI.PrintingTask;PrintingTask;class;0;10;2;0;0;2;3;49
+restaurant-order-processor55160230;it.kApps.GUI.CashDeskFrame;CashDeskFrame;class;1;60;5;0;279;15;7;502
+restaurant-order-processor55160230;it.kApps.GUI.ManageProducts;ManageProducts;class;1;12;6;0;4;2;3;167
+restaurant-order-processor55160230;it.kApps.GUI.Menu;Menu;class;2;22;1;0;9;7;9;230
+restaurant-order-processor55160230;it.kApps.core.CashDesk;CashDesk;class;1;85;1;0;25;14;3;328
+restaurant-order-processor55160230;it.kApps.core.Product;Product;class;0;29;1;0;93;18;9;116
+restaurant-order-processor55160230;it.kApps.core.PagodaConstants;PagodaConstants;class;0;0;1;0;0;0;7;10
+restaurant-order-processor55160230;it.kApps.core.Database;Database;class;4;44;1;0;0;15;4;408

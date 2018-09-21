@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Java2D7312612;com.doobs.java2d.input.InputHandler;InputHandler;class;2;52;1;0;211;30;7;158
+Java2D7312612;com.doobs.java2d.test.MoveCube;MoveCube;class;3;6;1;0;0;6;2;32
+Java2D7312612;com.doobs.java2d.GameLoop;GameLoop;class;3;6;1;1;9;6;1;38
+Java2D7312612;com.doobs.java2d.input.WindowHandler;WindowHandler;class;1;12;1;0;54;12;2;48
+Java2D7312612;com.doobs.java2d.Game2D;Game2D;class;5;57;3;0;454;37;24;402
+Java2D7312612;com.doobs.java2d.test.Bitmaps;Bitmaps;class;2;3;1;0;0;3;2;17
+Java2D7312612;com.doobs.java2d.font.Font;Font;class;2;21;1;0;15;7;1;49
+Java2D7312612;com.doobs.java2d.gfx.Bitmap;Bitmap;class;2;124;1;1;0;16;2;219
+Java2D7312612;com.doobs.java2d.test.TestGame;TestGame;class;6;8;2;0;0;4;7;39
+Java2D7312612;com.doobs.java2d.gfx.Screen;Screen;class;1;1;2;0;0;1;1;11
+Java2D7312612;com.doobs.java2d.gfx.BitmapLoader;BitmapLoader;class;2;43;1;0;15;10;1;125

@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Homeworkduino655428;bzb.se.bridge.Link;Link;class;2;50;1;0;44;17;13;222
+Homeworkduino655428;bzb.se.bridge.offline.Feed;Feed;class;4;20;1;0;0;4;4;119
+Homeworkduino655428;bzb.se.bridge.online.Feed;Feed;class;6;37;1;0;0;5;8;181
+Homeworkduino655428;bzb.se.bridge.Flow;Flow;class;1;14;1;0;28;12;9;95
+Homeworkduino655428;bzb.se.Utility;Utility;class;0;5;1;0;3;3;0;34
+Homeworkduino655428;bzb.se.bridge.Bridge;Bridge;class;11;153;1;0;160;22;31;494
+Homeworkduino655428;bzb.se.ui.Graphical;Graphical;class;2;11;5;0;2;4;8;96
+Homeworkduino655428;bzb.se.bridge.JavaSRPC;JavaSRPC;class;5;75;3;0;50;16;17;367
+Homeworkduino655428;bzb.se.bridge.Lease;Lease;class;2;8;1;0;5;6;5;54
+Homeworkduino655428;bzb.se.ui.Command;Command;class;1;6;5;0;0;1;2;35
+Homeworkduino655428;bzb.se.bridge.Pair;Pair;class;1;6;1;0;0;4;2;29

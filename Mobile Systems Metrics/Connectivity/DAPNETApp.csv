@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+DAPNETApp;de.hampager.dapnetmobile.CustomOnItemSelectedListener;CustomOnItemSelectedListener;class;6;5;1;0;1;3;1;22;
+DAPNETApp;de.hampager.dapnetmobile.PostCallActivity;PostCallActivity;class;45;68;2;0;394;19;7;349;
+DAPNETApp;de.hampager.dapnetmobile.fragments.MapFragment;MapFragment;class;39;59;2;0;108;15;9;294;
+DAPNETApp;de.hampager.dapnetmobile.tokenautocomplete.CallsignsCompletionView;CallsignsCompletionView;class;10;5;2;0;10;5;0;33;
+DAPNETApp;de.hampager.dapnetmobile.tokenautocomplete.TransmitterGroupCompletionView;TransmitterGroupCompletionView;class;13;9;2;0;21;7;0;49;
+DAPNETApp;de.hampager.dapnetmobile.MainActivity;MainActivity;class;34;50;2;0;36;9;5;221;
+DAPNETApp;de.hampager.dapnetmobile.fragments.CallFragment;CallFragment;class;27;13;2;0;37;8;5;124;
+DAPNETApp;de.hampager.dapnetmobile.tokenautocomplete.TokenTextView;TokenTextView;class;3;2;2;0;1;2;0;12;
+DAPNETApp;de.hampager.dapnetmobile.ItemClickListener;ItemClickListener;interface;1;1;1;0;0;1;0;5;
+DAPNETApp;de.hampager.dapnetmobile.DAPNETApp;DAPNETApp;class;5;3;2;0;0;1;0;25;
+DAPNETApp;de.hampager.dapnetmobile.adapters.CustomFilter;CustomFilter;class;11;10;2;0;0;3;2;59;
+DAPNETApp;de.hampager.dapnetmobile.adapters.StatsAdapter;StatsAdapter;class;14;11;1;0;13;7;3;52;
+DAPNETApp;de.hampager.dapnetmobile.fragments.WelcomeFragment;WelcomeFragment;class;28;13;2;0;17;5;7;115;
+DAPNETApp;de.hampager.dapnetmobile.adapters.CallAdapter;CallAdapter;class;19;21;2;0;34;13;9;112;
+DAPNETApp;de.hampager.dapnetmobile.LoginActivity;LoginActivity;class;34;60;2;0;332;12;9;309;
+DAPNETApp;de.hampager.dapnetmobile.fragments.HelpFragment;HelpFragment;class;10;4;2;0;3;3;0;42;

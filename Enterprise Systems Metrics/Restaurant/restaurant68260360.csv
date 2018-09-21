@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+restaurant68260360;api.RpcParser;RpcParser;class;7;14;1;0;6;4;0;65
+restaurant68260360;db.MySQLDBConnection;MySQLDBConnection;class;8;75;1;0;0;15;2;348
+restaurant68260360;model.RestaurantTest;RestaurantTest;class;10;11;1;0;19;7;2;101
+restaurant68260360;api.SignupServlet;SignupServlet;class;8;6;2;0;3;3;2;69
+restaurant68260360;yelp.YelpAPI;YelpAPI;class;11;7;1;0;8;5;10;76
+restaurant68260360;api.LoginServlet;LoginServlet;class;8;9;2;0;1;3;2;85
+restaurant68260360;api.LogoutServlet;LogoutServlet;class;5;5;2;0;3;3;1;44
+restaurant68260360;yelp.TwoStepOAuth;TwoStepOAuth;class;2;3;2;0;3;3;0;20
+restaurant68260360;db.DBConnection;DBConnection;interface;2;12;1;0;66;12;0;82
+restaurant68260360;api.RecommendRestaurants;RecommendRestaurants;class;7;7;2;0;3;3;2;54
+restaurant68260360;db.DBConnectionTest;DBConnectionTest;class;2;2;1;0;0;1;0;30
+restaurant68260360;model.Restaurant;Restaurant;class;4;28;1;0;36;17;11;145
+restaurant68260360;db.DBUtil;DBUtil;class;0;0;1;0;0;0;6;11
+restaurant68260360;api.VisitHistory;VisitHistory;class;8;22;2;0;0;4;2;113
+restaurant68260360;db.MySQLImport;MySQLImport;class;0;5;1;0;0;1;0;75
+restaurant68260360;api.SearchRestaurants;SearchRestaurants;class;7;7;2;0;3;3;2;51

@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+healthdb31643889;edu.ucsb.cs.Allergies;Allergies;class;0;9;1;0;12;9;4;40;
+healthdb31643889;edu.ucsb.cs.InsuranceCompany;InsuranceCompany;class;0;11;1;0;25;11;5;48;
+healthdb31643889;edu.ucsb.cs.FamilyHistory;FamilyHistory;class;0;11;1;0;25;11;5;48;
+healthdb31643889;edu.ucsb.cs.Plan;Plan;class;0;9;1;0;12;9;4;41;
+healthdb31643889;edu.ucsb.cs.LabTestReport;LabTestReport;class;0;15;1;0;63;15;7;65;
+healthdb31643889;edu.ucsb.cs.Patient;Patient;class;0;21;1;0;150;21;10;89;
+healthdb31643889;edu.ucsb.cs.Author;Author;class;0;9;1;0;12;9;4;40;
+healthdb31643889;edu.ucsb.cs.Main;Main;class;8;141;1;0;231;22;0;719;
+healthdb31643889;edu.ucsb.cs.Guardian;Guardian;class;0;19;1;0;117;19;9;81;

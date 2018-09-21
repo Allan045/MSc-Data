@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Online-Health-Record-Drive77251104;Server.FileList;FileList;class;0;6;1;0;0;1;1;25;
+Online-Health-Record-Drive77251104;Server.Streaming;Streaming;class;2;10;1;0;0;1;0;82;
+Online-Health-Record-Drive77251104;Server.DownloadDetails;DownloadDetails;class;4;16;6;0;28;5;15;185;
+Online-Health-Record-Drive77251104;Client.ClientLogin;ClientLogin;class;6;22;6;0;66;7;7;180;
+Online-Health-Record-Drive77251104;Client.Download;Download;class;8;62;6;0;171;12;21;414;
+Online-Health-Record-Drive77251104;Server.ViewUsers;ViewUsers;class;4;16;6;0;28;5;15;185;
+Online-Health-Record-Drive77251104;Client.Signup;Signup;class;6;40;6;0;91;8;18;320;
+Online-Health-Record-Drive77251104;Client.Login;Login;class;6;32;6;0;64;7;16;297;
+Online-Health-Record-Drive77251104;Server.SOptions;SOptions;class;11;60;6;0;117;12;32;459;
+Online-Health-Record-Drive77251104;Client.COptions;COptions;class;6;19;6;0;54;7;12;210;
+Online-Health-Record-Drive77251104;Client.FileList;FileList;class;0;6;1;0;0;1;1;26;
+Online-Health-Record-Drive77251104;Server.NewClass;NewClass;class;1;5;6;0;3;2;0;47;
+Online-Health-Record-Drive77251104;Client.ViewRequests;ViewRequests;class;5;38;6;0;95;9;18;302;
+Online-Health-Record-Drive77251104;Connection.DB;DB;class;1;8;1;0;0;3;3;51;
+Online-Health-Record-Drive77251104;Client.DownloadDetails;DownloadDetails;class;5;27;6;0;51;7;17;218;
+Online-Health-Record-Drive77251104;Server.ServerLogin;ServerLogin;class;5;29;6;0;45;6;15;268;

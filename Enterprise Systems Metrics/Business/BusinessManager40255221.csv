@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BusinessManager40255221;Menu;Menu;class;1;11;1;0;0;2;4;73
+BusinessManager40255221;Keyboard;Keyboard;class;1;62;1;0;0;13;2;301
+BusinessManager40255221;Client;Client;class;1;20;1;0;136;20;3;85
+BusinessManager40255221;ClientMenu;ClientMenu;class;1;37;1;0;0;6;2;213
+BusinessManager40255221;Job;Job;class;1;15;1;0;55;15;3;65
+BusinessManager40255221;LoadData;LoadData;class;2;12;1;0;0;2;1;65
+BusinessManager40255221;BusinessManagerApp;BusinessManagerApp;class;0;3;1;0;0;1;0;33
+BusinessManager40255221;InputFile;InputFile;class;1;5;2;0;1;2;0;28
+BusinessManager40255221;JobMenu;JobMenu;class;1;44;1;0;0;7;2;296
+BusinessManager40255221;Invoice;Invoice;class;2;16;1;0;0;4;1;61

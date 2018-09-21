@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+swarms64231594;swarms.Room;Room;class;21;100;3;0;373;35;18;410;
+swarms64231594;swarms.Plotter;Plotter;class;12;19;2;0;1;3;1;108;
+swarms64231594;swarms.SwarmSim;SwarmSim;class;13;65;1;0;0;12;21;354;
+swarms64231594;swarms.Interactions;Interactions;class;3;12;1;0;6;4;7;82;
+swarms64231594;swarms.AgentComparator;AgentComparator;class;8;28;1;0;66;17;13;168;
+swarms64231594;swarms.MatPlotter;MatPlotter;class;8;9;1;0;0;4;6;88;

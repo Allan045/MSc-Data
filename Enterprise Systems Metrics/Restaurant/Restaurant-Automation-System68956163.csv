@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant-Automation-System68956163;StartGUI.ViewMenu;ViewMenu;class;3;25;6;0;41;5;6;171
+Restaurant-Automation-System68956163;StartGUI.Clerk;Clerk;class;4;17;6;0;45;6;3;120
+Restaurant-Automation-System68956163;StartGUI.ExpenseData;ExpenseData;class;1;11;6;0;6;3;0;74
+Restaurant-Automation-System68956163;StartGUI.Login;Login;class;3;19;6;0;15;4;9;182
+Restaurant-Automation-System68956163;StartGUI.Manager;Manager;class;7;24;6;0;120;9;7;181
+Restaurant-Automation-System68956163;StartGUI.SalesReceipt;SalesReceipt;class;1;11;6;0;6;3;0;74
+Restaurant-Automation-System68956163;StartGUI.EnterPurchase;EnterPurchase;class;3;47;6;0;169;10;21;408
+Restaurant-Automation-System68956163;StartGUI.SalesBarChart;SalesBarChart;class;1;8;6;0;6;3;0;51
+Restaurant-Automation-System68956163;StartGUI.IssueIngredients;IssueIngredients;class;2;28;6;0;45;6;7;202
+Restaurant-Automation-System68956163;StartGUI.SellItem;SellItem;class;3;46;6;0;103;8;13;326
+Restaurant-Automation-System68956163;StartGUI.UpdateMenu;UpdateMenu;class;3;54;6;0;116;8;9;345

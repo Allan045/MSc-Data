@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.templateProbe.TemplateActionExecutor;TemplateActionExecutor;class;5;1;1;0;0;1;0;33;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.templateProbe.TemplateProbe;TemplateProbe;class;5;4;1;0;6;4;0;30;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.applicationProbe.ApplicationProbe;ApplicationProbe;class;16;22;1;0;0;6;4;218;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.storageProbe.StorageProbe;StorageProbe;class;19;24;1;0;0;6;3;266;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.vimProbe.VimProbe;VimProbe;class;37;54;1;0;44;16;26;567;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.simpleProbe.SimpleProbe;SimpleProbe;class;20;5;1;0;0;4;1;272;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.fileProbe.FileProbe;FileProbe;class;31;88;1;0;0;9;23;547;
+vmturbo-sdk-examples34690852;com.vmturbo.sdk.examples.vimProbe.VimActionExecutor;VimActionExecutor;class;39;78;1;0;4;16;12;570;

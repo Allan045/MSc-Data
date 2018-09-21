@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+RestauranteJPA15738266;dao.ClienteDao;ClienteDao;class;5;18;1;0;66;12;2;248
+RestauranteJPA15738266;testes.TesteDao;TesteDao;class;2;1;1;0;0;1;0;125
+RestauranteJPA15738266;entities.Mesa;Mesa;class;11;14;1;0;4;9;3;71
+RestauranteJPA15738266;entities.PedidoItemPK;PedidoItemPK;class;6;15;1;0;0;9;2;63
+RestauranteJPA15738266;dao.ItemDao;ItemDao;class;5;16;1;0;45;10;2;212
+RestauranteJPA15738266;dao.MesaDao;MesaDao;class;5;16;1;0;45;10;2;212
+RestauranteJPA15738266;dao.PedidoItemDao;PedidoItemDao;class;5;16;1;0;45;10;2;208
+RestauranteJPA15738266;logic.Restaurante;Restaurante;class;4;6;1;0;0;1;0;28
+RestauranteJPA15738266;entities.Pedido;Pedido;class;16;28;1;0;193;23;9;137
+RestauranteJPA15738266;dao.PedidoDao;PedidoDao;class;5;16;1;0;45;10;2;212
+RestauranteJPA15738266;logic.PedidoLogic;PedidoLogic;class;3;7;1;0;6;4;0;48
+RestauranteJPA15738266;entities.Item;Item;class;11;21;1;0;62;16;6;102
+RestauranteJPA15738266;entities.Cliente;Cliente;class;11;19;1;0;35;14;5;94
+RestauranteJPA15738266;entities.PedidoItem;PedidoItem;class;13;20;1;0;33;15;6;95

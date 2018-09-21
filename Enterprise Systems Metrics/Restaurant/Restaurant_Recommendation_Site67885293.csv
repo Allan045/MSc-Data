@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant_Recommendation_Site67885293;offline.Purify;Purify;class;3;3;1;0;0;1;0;32
+Restaurant_Recommendation_Site67885293;offline.User;User;class;1;28;1;0;0;8;2;56
+Restaurant_Recommendation_Site67885293;db.DBConnection;DBConnection;interface;2;11;1;0;55;11;0;75
+Restaurant_Recommendation_Site67885293;db.DBUtil;DBUtil;class;0;0;1;0;0;0;6;11
+Restaurant_Recommendation_Site67885293;db.MySQLDBConnection;MySQLDBConnection;class;7;55;1;0;0;13;2;273
+Restaurant_Recommendation_Site67885293;db.MongoDBConnection;MongoDBConnection;class;14;33;1;0;13;12;3;192
+Restaurant_Recommendation_Site67885293;yelp.YelpAPI;YelpAPI;class;11;7;1;0;8;5;10;74
+Restaurant_Recommendation_Site67885293;api.RecommendRestaurants;RecommendRestaurants;class;7;5;2;0;3;3;2;53
+Restaurant_Recommendation_Site67885293;api.VisitHistory;VisitHistory;class;8;16;2;0;0;4;2;106
+Restaurant_Recommendation_Site67885293;api.SearchRestaurants;SearchRestaurants;class;7;5;2;0;3;3;2;56
+Restaurant_Recommendation_Site67885293;db.MongoDBImport;MongoDBImport;class;3;1;1;0;0;1;0;14
+Restaurant_Recommendation_Site67885293;yelp.TwoStepOAuth;TwoStepOAuth;class;2;3;2;0;3;3;0;20
+Restaurant_Recommendation_Site67885293;api.RpcParser;RpcParser;class;5;7;1;0;3;3;0;52
+Restaurant_Recommendation_Site67885293;offline.Prediction;Prediction;class;8;15;1;0;2;2;5;101
+Restaurant_Recommendation_Site67885293;db.DBYelpImport;DBYelpImport;class;0;5;1;0;0;1;0;60
+Restaurant_Recommendation_Site67885293;model.Restaurant;Restaurant;class;4;39;1;0;312;28;11;175

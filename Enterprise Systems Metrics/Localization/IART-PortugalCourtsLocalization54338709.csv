@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+IART-PortugalCourtsLocalization54338709;algorithms.Heuristic;Heuristic;class;3;31;1;0;9;6;4;152
+IART-PortugalCourtsLocalization54338709;algorithms.SimulatedAnnealing;SimulatedAnnealing;class;4;30;1;0;0;9;9;168
+IART-PortugalCourtsLocalization54338709;location.Place;Place;class;1;12;1;0;26;12;6;95
+IART-PortugalCourtsLocalization54338709;parser.cityParser;cityParser;class;7;40;1;0;34;13;4;286
+IART-PortugalCourtsLocalization54338709;algorithms.GeneticAlgorithm;GeneticAlgorithm;class;4;55;1;0;0;15;14;320
+IART-PortugalCourtsLocalization54338709;gui.Gui;Gui;class;2;1;1;0;0;1;0;12
+IART-PortugalCourtsLocalization54338709;source;source;class;4;3;1;0;0;1;0;50
+IART-PortugalCourtsLocalization54338709;gui.GuiMain;GuiMain;class;8;39;6;0;85;2;11;414

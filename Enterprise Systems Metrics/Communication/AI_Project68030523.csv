@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+AI_Project68030523;World_Map_Panel;World_Map_Panel;class;3;45;5;0;13;11;19;242;
+AI_Project68030523;World_Actor;World_Actor;class;3;75;4;0;124;21;11;267;
+AI_Project68030523;World_Actor_Data_Dialog;World_Actor_Data_Dialog;class;4;12;6;0;11;4;4;104;
+AI_Project68030523;World_Map_Frame;World_Map_Frame;class;7;33;6;0;27;9;7;237;
+AI_Project68030523;World_Map_Menu_Listener;World_Map_Menu_Listener;class;3;48;1;0;0;4;7;190;
+AI_Project68030523;Data_Dialog_Renderer;Data_Dialog_Renderer;class;0;2;6;0;0;2;2;38;
+AI_Project68030523;World_Building;World_Building;class;0;8;1;0;0;8;4;42;

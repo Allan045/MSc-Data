@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Kite-ORM4485236;com.kite.orm.test.Employee;Employee;class;5;21;1;0;150;21;10;132
+Kite-ORM4485236;com.kite.orm.dao.KiteDao;KiteDao;interface;1;5;1;0;10;5;0;55
+Kite-ORM4485236;com.kite.orm.test.CommonDaoImpl;CommonDaoImpl;class;4;1;2;0;0;1;0;11
+Kite-ORM4485236;com.kite.orm.test.Template;Template;class;6;23;1;0;195;23;11;222
+Kite-ORM4485236;com.kite.orm.dao.AbstractKiteDao;AbstractKiteDao;class;13;84;1;1;0;9;2;500
+Kite-ORM4485236;com.kite.orm.test.CommonDao;CommonDao;interface;2;0;1;0;0;0;0;5
+Kite-ORM4485236;com.kite.orm.test.Test;Test;class;5;17;1;0;0;6;2;126
+Kite-ORM4485236;com.kite.orm.test.KiteOrmExample;KiteOrmExample;class;5;29;1;0;338;29;14;260
+Kite-ORM4485236;com.kite.orm.util.ReflectionUtils;ReflectionUtils;class;5;18;1;0;3;3;1;108

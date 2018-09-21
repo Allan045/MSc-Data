@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Crawlers14129104;drugpostStruct.drugpostStruct;drugpostStruct;class;0;1;1;0;0;1;13;33;
+Crawlers14129104;extractpackage.Extract;Extract;class;6;41;1;0;1;2;0;186;
+Crawlers14129104;jbdcconnectpackage.ConnectionDB;ConnectionDB;class;4;88;1;0;83;14;2;468;
+Crawlers14129104;crawlpackage.Crawl;Crawl;class;6;66;1;0;37;11;7;361;
+Crawlers14129104;druguserStruct.drugUserStruct;drugUserStruct;class;0;1;1;0;0;1;2;10;
+Crawlers14129104;Main;Main;class;8;26;1;0;24;8;3;217;
+Crawlers14129104;urlStruct.urlStruct;urlStruct;class;0;1;1;0;0;1;2;10;

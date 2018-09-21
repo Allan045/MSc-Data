@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CardGamesServer14242181;server.UserSession;UserSession;class;0;13;2;0;3;10;5;123
+CardGamesServer14242181;common.Workspace;Workspace;class;2;12;1;0;26;12;7;55
+CardGamesServer14242181;common.InterfaceServer;InterfaceServer;interface;3;21;1;0;210;21;0;27
+CardGamesServer14242181;server.Server;Server;class;8;109;1;0;0;27;5;478
+CardGamesServer14242181;common.Card;Card;class;0;18;1;0;95;18;10;78
+CardGamesServer14242181;server.StorageHandler;StorageHandler;class;3;95;1;0;0;29;2;738
+CardGamesServer14242181;common.User;User;class;1;14;1;0;45;14;6;61
+CardGamesServer14242181;common.Protocol;Protocol;class;0;0;1;0;0;0;11;14
+CardGamesServer14242181;server.ThreadNewWorkspace;ThreadNewWorkspace;class;1;20;2;0;0;10;8;178

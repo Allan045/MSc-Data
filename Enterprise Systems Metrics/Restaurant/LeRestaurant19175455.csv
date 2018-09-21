@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+LeRestaurant19175455;app.PaiementRessource;PaiementRessource;class;5;1;1;0;0;1;0;16
+LeRestaurant19175455;app.CommandeElementAssoc;CommandeElementAssoc;class;13;21;1;0;156;20;7;125
+LeRestaurant19175455;app.ServLeRestaurant;ServLeRestaurant;class;9;11;2;0;45;10;0;73
+LeRestaurant19175455;app.SrvltCuisine;SrvltCuisine;class;3;1;2;0;0;1;0;15
+LeRestaurant19175455;app.PasswordHash;PasswordHash;class;2;24;1;0;36;9;7;220
+LeRestaurant19175455;app.SrvltService;SrvltService;class;3;1;2;0;0;1;0;15
+LeRestaurant19175455;app.ClientRessource;ClientRessource;class;9;9;1;0;3;3;0;53
+LeRestaurant19175455;app.Element;Element;class;5;7;1;0;7;7;3;40
+LeRestaurant19175455;app.SrvltQr;SrvltQr;class;3;1;2;0;0;1;0;15
+LeRestaurant19175455;app.CommandeRessource;CommandeRessource;class;10;4;1;0;6;4;0;73
+LeRestaurant19175455;app.SrvltAdmin;SrvltAdmin;class;3;1;2;0;0;1;0;15
+LeRestaurant19175455;app.Paiement;Paiement;class;11;13;1;0;25;10;4;71
+LeRestaurant19175455;app.CommandeElementAssocRessource;CommandeElementAssocRessource;class;8;2;1;0;1;2;0;41
+LeRestaurant19175455;app.MonHibernate;MonHibernate;class;5;2;1;0;1;2;0;20
+LeRestaurant19175455;app.Commande;Commande;class;16;35;1;0;171;22;6;184
+LeRestaurant19175455;app.Client;Client;class;7;17;1;0;74;16;6;97

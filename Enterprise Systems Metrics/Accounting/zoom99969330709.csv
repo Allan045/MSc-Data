@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+zoom99969330709;bean.returnObject;returnObject;class;4;1;1;0;0;1;1;24
+zoom99969330709;service.CoopInfoFacadeREST;CoopInfoFacadeREST;class;14;9;2;0;36;9;1;77
+zoom99969330709;bean.dateFormat;dateFormat;class;2;9;1;0;8;5;1;43
+zoom99969330709;bean.redirectBean;redirectBean;class;3;3;1;0;3;3;0;30
+zoom99969330709;bean.formHeader;formHeader;class;5;3;1;0;1;3;2;34
+zoom99969330709;bean.infoListModel;infoListModel;class;8;22;1;0;56;12;6;73
+zoom99969330709;service.AbstractFacade;AbstractFacade;class;3;9;1;1;16;9;1;51
+zoom99969330709;model.CoopInfo;CoopInfo;class;13;29;1;0;214;24;10;156
+zoom99969330709;bean.onBodyLoad;onBodyLoad;class;4;4;1;0;4;4;1;35
+zoom99969330709;bean.UAgentInfo;UAgentInfo;class;0;255;1;0;0;65;92;1156
+zoom99969330709;bean.coopFormLogo;coopFormLogo;class;6;3;1;0;1;3;2;33

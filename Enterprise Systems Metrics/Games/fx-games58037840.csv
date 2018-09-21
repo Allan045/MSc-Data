@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+fx-games58037840;Mario.Game;Game;class;12;26;1;0;2;4;9;128
+fx-games58037840;Saper.Main;Main;class;14;19;1;0;0;4;11;108
+fx-games58037840;Pickers.SpriteAnimation;SpriteAnimation;class;4;3;2;0;0;3;7;47
+fx-games58037840;Pickers.Main;Main;class;13;46;1;0;14;8;8;197
+fx-games58037840;Pickers.Character;Character;class;5;3;2;0;0;1;2;31
+fx-games58037840;Vectors.Bullet;Bullet;class;6;9;2;0;6;5;3;46
+fx-games58037840;FlappyBird.Pig;Pig;class;7;24;2;0;4;4;3;64
+fx-games58037840;FlappyBird.Flappy;Flappy;class;14;10;2;0;4;4;6;97
+fx-games58037840;Mario.LevelData;LevelData;class;0;0;1;0;0;0;2;27
+fx-games58037840;GameMenu;GameMenu;class;14;12;5;0;9;6;1;152
+fx-games58037840;Mario.SpriteAnimation;SpriteAnimation;class;4;2;2;0;0;2;7;44
+fx-games58037840;Vectors.Main;Main;class;9;5;1;0;1;2;3;68
+fx-games58037840;Mario.Character;Character;class;7;30;2;0;4;4;3;93
+fx-games58037840;Mario.Block;Block;class;5;8;2;0;0;1;0;55
+fx-games58037840;Saper.Cell;Cell;class;12;28;2;0;0;3;12;101

@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+wallaceRGB7439428;org.lantern.linux.Glib;Glib;interface;2;3;1;0;3;3;0;8;
+wallaceRGB7439428;wallaceled.Sequencer;Sequencer;class;6;67;3;0;127;22;23;257;
+wallaceRGB7439428;wallaceled.SerialConnect;SerialConnect;class;2;13;1;0;4;5;1;40;
+wallaceRGB7439428;org.lantern.linux.AppIndicator;AppIndicator;interface;11;29;5;0;406;29;27;95;
+wallaceRGB7439428;org.lantern.linux.Gobject;Gobject;interface;11;2;21;0;1;2;22;57;
+wallaceRGB7439428;wallaceled.LEDController;LEDController;class;5;53;1;0;24;16;10;223;
+wallaceRGB7439428;wallaceled.WallaceLED;WallaceLED;class;4;130;6;0;1822;37;71;1049;
+wallaceRGB7439428;org.lantern.linux.Gtk;Gtk;interface;2;8;1;0;28;8;2;15;
+wallaceRGB7439428;wallaceled.Ambient;Ambient;class;7;58;3;0;55;14;22;235;
+wallaceRGB7439428;org.lantern.AppIndicatorTray;AppIndicatorTray;class;14;29;1;0;121;18;18;192;

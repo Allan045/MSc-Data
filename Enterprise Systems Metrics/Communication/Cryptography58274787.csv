@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Cryptography58274787;alexkantas.cryptography.algorithms.RSA;RSA;class;4;7;1;0;0;7;4;294;
+Cryptography58274787;alexkantas.cryptography.messenger.Client;Client;class;0;7;1;0;0;1;0;216;
+Cryptography58274787;alexkantas.cryptography.messenger.Server_RSA;Server_RSA;class;3;4;1;0;0;1;0;232;
+Cryptography58274787;alexkantas.cryptography.functions.CryptFunction;CryptFunction;class;2;9;1;0;15;6;0;255;
+Cryptography58274787;alexkantas.cryptography.messenger.Server;Server;class;0;4;1;0;0;1;0;212;
+Cryptography58274787;alexkantas.cryptography.algorithms.Digest;Digest;class;3;6;1;0;4;5;1;223;
+Cryptography58274787;alexkantas.cryptography.messenger.Client_RSA;Client_RSA;class;4;10;1;0;0;1;0;241;
+Cryptography58274787;alexkantas.cryptography.algorithms.AES;AES;class;6;10;1;0;0;10;5;331;
+Cryptography58274787;alexkantas.cryptography.messenger.ClientAES;ClientAES;class;2;7;1;0;0;1;0;225;
+Cryptography58274787;alexkantas.cryptography.messenger.ServerAES;ServerAES;class;2;4;1;0;0;1;0;221;
+Cryptography58274787;alexkantas.cryptography.messenger.Cheat;Cheat;class;0;0;1;0;0;0;4;184;

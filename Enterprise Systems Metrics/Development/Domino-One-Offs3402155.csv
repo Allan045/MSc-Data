@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Domino-One-Offs3402155;mtc.ruby.RubyValueBinding;RubyValueBinding;class;3;5;2;0;8;5;1;47
+Domino-One-Offs3402155;com.raidomatic.xml.XMLDocument;XMLDocument;class;5;8;2;0;21;7;1;64
+Domino-One-Offs3402155;mcl.SortableMapView;SortableMapView;class;16;47;4;0;285;26;9;139
+Domino-One-Offs3402155;com.raidomatic.xml.XMLNode;XMLNode;class;9;69;1;0;318;33;4;165
+Domino-One-Offs3402155;com.raidomatic.xml.XMLNodeList;XMLNodeList;class;1;5;4;0;3;3;1;34
+Domino-One-Offs3402155;mtc.ruby.RubyBindingFactory;RubyBindingFactory;class;6;3;1;0;3;3;0;20
+Domino-One-Offs3402155;index.IndexManager;IndexManager;class;13;11;1;0;10;5;2;66
+Domino-One-Offs3402155;mtc.ruby.RubyViewHandler;RubyViewHandler;class;7;4;2;0;1;2;0;23
+Domino-One-Offs3402155;mcl.reports.DynamicViewCustomizer;DynamicViewCustomizer;class;36;216;5;0;339;30;22;788
+Domino-One-Offs3402155;frostillicus.DominoOutline;DominoOutline;class;18;58;2;0;139;19;11;205
+Domino-One-Offs3402155;mtc.ruby.RubyMethodBinding;RubyMethodBinding;class;3;4;2;0;4;4;1;43
+Domino-One-Offs3402155;config.AppConfig;AppConfig;class;2;12;1;0;8;5;2;41
+Domino-One-Offs3402155;mcl.RubyInterpreter;RubyInterpreter;class;13;9;2;0;13;6;2;65
+Domino-One-Offs3402155;controller.home;home;class;6;2;2;0;1;2;1;32
+Domino-One-Offs3402155;index.IndexEntry;IndexEntry;class;5;15;1;0;54;12;4;62

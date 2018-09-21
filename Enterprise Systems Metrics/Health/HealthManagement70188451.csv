@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+HealthManagement70188451;Login;Login;class;3;9;2;0;11;4;5;138;
+HealthManagement70188451;SignUp;SignUp;class;2;16;1;0;14;2;8;197;
+HealthManagement70188451;DBHandling;DBHandling;class;1;25;1;0;21;7;0;163;
+HealthManagement70188451;Patient;Patient;class;2;13;1;0;0;3;5;277;
+HealthManagement70188451;StartMenu;StartMenu;class;3;8;1;0;9;3;2;89;
+HealthManagement70188451;ConnectionToOracle;ConnectionToOracle;class;2;62;1;0;1590;57;1;306;

@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.WLMConversation;WLMConversation;class;1;10;1;0;0;6;2;52
+Google-wave-Wave-Live-Messenger339435;wavelivemessengerserver.Log;Log;class;0;24;1;0;0;5;8;131
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.BlipRender;BlipRender;class;10;26;1;0;29;11;2;205
+Google-wave-Wave-Live-Messenger339435;wavelivemessengerserver.WLMServer;WLMServer;class;5;7;1;0;1;3;7;104
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.CronEvent;CronEvent;class;10;42;1;0;0;11;3;236
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.WaveLiveMessengerProfileServlet;WaveLiveMessengerProfileServlet;class;1;3;2;0;3;3;1;42
+Google-wave-Wave-Live-Messenger339435;wavelivemessengerserver.WLMServerGarbageCollector;WLMServerGarbageCollector;class;3;12;2;0;0;4;5;106
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.InteractionEvent;InteractionEvent;class;11;35;1;0;0;8;3;182
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.WLMPost;WLMPost;class;0;7;1;0;9;7;4;58
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.ServerCommunication;ServerCommunication;class;1;10;1;0;0;7;1;138
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.Session;Session;class;2;21;1;0;162;21;10;131
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.WaveLiveMessengerServlet;WaveLiveMessengerServlet;class;9;7;2;0;0;3;22;158
+Google-wave-Wave-Live-Messenger339435;wavelivemessengerserver.WLMServerThread;WLMServerThread;class;9;41;2;0;0;15;11;312
+Google-wave-Wave-Live-Messenger339435;wavelivemessengerserver.WLMSessionData;WLMSessionData;class;2;18;1;0;14;8;7;155
+Google-wave-Wave-Live-Messenger339435;wavelivemessenger.WLMContact;WLMContact;class;0;7;1;0;3;7;3;47

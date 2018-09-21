@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BigData_CityRecommandation48262732;queries.CityList;CityList;class;1;6;1;0;0;4;1;34
+BigData_CityRecommandation48262732;query.Queryfinal1;Queryfinal1;class;17;19;4;0;13;6;2;98
+BigData_CityRecommandation48262732;IndexServelet;IndexServelet;class;5;1;2;0;0;1;1;33
+BigData_CityRecommandation48262732;queries.Business;Business;class;0;14;1;0;77;14;7;52
+BigData_CityRecommandation48262732;queries.GetConnection;GetConnection;class;0;2;1;0;0;2;3;25
+BigData_CityRecommandation48262732;CustomerServelet;CustomerServelet;class;9;44;2;0;6;4;1;135
+BigData_CityRecommandation48262732;queries.Query;Query;class;4;41;1;0;0;6;1;204
+BigData_CityRecommandation48262732;DetailsServelet;DetailsServelet;class;7;2;2;0;1;2;1;42
+BigData_CityRecommandation48262732;queries.Dummy;Dummy;class;1;1;1;0;0;1;0;8
+BigData_CityRecommandation48262732;queries.CityWithScore;CityWithScore;class;0;4;1;0;0;4;2;19
+BigData_CityRecommandation48262732;queries.SearchCritiria;SearchCritiria;class;0;21;1;0;150;21;10;85
+BigData_CityRecommandation48262732;dataimport.Utility;Utility;class;2;61;1;0;0;16;11;322
+BigData_CityRecommandation48262732;query.Queryfinal4;Queryfinal4;class;16;15;3;0;1;6;4;105
+BigData_CityRecommandation48262732;FilteredServelet;FilteredServelet;class;7;2;2;0;1;2;1;38
+BigData_CityRecommandation48262732;CityServelet;CityServelet;class;7;2;2;0;1;2;1;41

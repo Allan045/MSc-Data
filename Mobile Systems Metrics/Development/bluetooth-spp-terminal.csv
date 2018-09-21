@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.activity.SettingsActivity;SettingsActivity;class;13;11;2;0;6;4;0;62;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.bluetooth.DeviceConnector;DeviceConnector;class;17;101;3;0;0;17;21;327;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.DeviceData;DeviceData;class;3;11;1;0;16;9;6;46;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.bluetooth.BluetoothUtils;BluetoothUtils;class;15;34;1;0;4;4;3;176;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.bluetooth.DeviceListActivity;DeviceListActivity;class;29;29;2;0;0;5;11;159;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.Const;Const;class;0;0;1;0;0;0;1;8;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.activity.BaseActivity;BaseActivity;class;8;15;2;1;11;7;10;95;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity;DeviceControlActivity;class;38;110;4;0;114;18;18;383;
+bluetooth-spp-terminal;ru.sash0k.bluetooth_terminal.Utils;Utils;class;8;25;1;0;45;10;0;135;

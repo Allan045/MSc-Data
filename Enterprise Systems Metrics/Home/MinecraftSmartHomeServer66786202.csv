@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.command.SendCommand;SendCommand;class;4;1;1;0;0;1;0;19;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.net.NetworkInterfaceChecker;NetworkInterfaceChecker;class;0;42;1;0;15;7;1;138;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.rest.RestResource;RestResource;class;23;25;1;0;3;5;2;179;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingLocation;ThingLocation;class;2;5;1;0;0;5;3;29;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingType;ThingType;enum;0;2;1;0;0;2;1;32;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.rest.MessageType;MessageType;enum;0;2;1;0;0;2;1;25;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.SmartHome;SmartHome;class;13;11;2;0;0;4;6;113;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingComponentType;ThingComponentType;enum;0;2;1;0;0;2;1;40;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.rest.EventsBroadcasterResource;EventsBroadcasterResource;class;11;4;1;0;4;4;1;36;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingComponent;ThingComponent;class;1;0;1;0;0;0;2;5;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingCommand;ThingCommand;class;2;0;1;0;0;0;3;6;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.event.BlockChangeListener;BlockChangeListener;class;23;71;1;0;24;9;2;348;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.Thing;Thing;class;5;5;1;0;1;2;5;33;
+MinecraftSmartHomeServer66786202;biz.wolter.minecraft.bukkit.thing.ThingList;ThingList;class;5;24;4;0;20;8;2;82;

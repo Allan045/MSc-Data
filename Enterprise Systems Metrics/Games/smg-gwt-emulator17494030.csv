@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+smg-gwt-emulator17494030;org.smg.gwt.emulator.backend.GameState;GameState;class;9;44;1;0;9;11;5;155
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.GwtEmulatorGraphics;GwtEmulatorGraphics;class;65;150;4;0;1138;47;49;787
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.GwtEmulatorEntryPoint;GwtEmulatorEntryPoint;class;3;1;1;0;0;1;0;18
+smg-gwt-emulator17494030;org.smg.gwt.emulator.backend.ServerEmulator;ServerEmulator;class;20;101;1;0;0;24;24;455
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.PopupEditState;PopupEditState;class;10;7;2;0;0;3;3;89
+smg-gwt-emulator17494030;org.game_api.GameApi;GameApi;class;34;261;27;0;7649;134;46;978
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.EnhancedConsole;EnhancedConsole;class;25;42;9;0;140;16;10;218
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.PopupSaveState;PopupSaveState;class;10;10;2;0;4;3;1;64
+smg-gwt-emulator17494030;org.smg.gwt.emulator.linker.OfflineLinker;OfflineLinker;class;7;9;2;0;1;2;0;51
+smg-gwt-emulator17494030;org.smg.gwt.emulator.client.PopupLoadState;PopupLoadState;class;6;2;2;0;1;1;0;26

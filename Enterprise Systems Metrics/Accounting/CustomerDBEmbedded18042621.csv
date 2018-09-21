@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.DBManager;DBManager;class;2;14;1;0;5;7;8;97
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.TestDB;TestDB;class;4;32;1;0;0;5;3;171
+CustomerDBEmbedded18042621;org.eclipse.wb.swing.FocusTraversalOnArray;FocusTraversalOnArray;class;0;17;2;0;8;8;1;90
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.Customer;Customer;class;0;30;1;0;297;30;14;137
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.controller.MainApplication;MainApplication;class;4;12;1;0;10;4;2;64
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.InvoiceDAO;InvoiceDAO;class;1;15;1;0;0;8;7;130
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.EmailValidator;EmailValidator;class;0;1;1;0;0;1;3;15
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.CustomerDAO;CustomerDAO;class;1;15;1;0;0;8;7;170
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.view.MainGUI;MainGUI;class;3;32;6;0;27;7;31;525
+CustomerDBEmbedded18042621;uk.co.wilsonpcrepair.model.Invoice;Invoice;class;0;10;1;0;7;10;4;46

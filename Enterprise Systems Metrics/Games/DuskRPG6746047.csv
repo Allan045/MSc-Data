@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DuskRPG6746047;DuskObject;DuskObject;class;1;18;1;0;0;6;14;67
+DuskRPG6746047;in.groan.dusk.db.TransIOException;TransIOException;class;0;2;3;0;1;2;1;28
+DuskRPG6746047;SizeFrame;SizeFrame;class;2;27;5;0;33;9;10;159
+DuskRPG6746047;in.groan.dusk.DuskObject;DuskObject;class;2;18;1;0;0;6;17;64
+DuskRPG6746047;client.EditFrame;EditFrame;class;1;13;5;0;26;7;4;70
+DuskRPG6746047;in.groan.dusk.util.Log;Log;class;0;23;1;0;0;6;14;103
+DuskRPG6746047;client.Dusk;Dusk;class;14;423;1;0;370;40;38;1885
+DuskRPG6746047;Equipment;Equipment;class;1;0;1;0;0;0;1;25
+DuskRPG6746047;in.groan.dusk.action.Skill;Skill;class;0;1;1;0;0;1;2;25
+DuskRPG6746047;QueueObject;QueueObject;class;1;6;1;0;0;6;2;33

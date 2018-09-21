@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+hungerGames3354350;me.helmetk.hungerGames.hgBlockPopulator;hgBlockPopulator;class;5;7;2;0;1;3;2;36
+hungerGames3354350;me.helmetk.hungerGames.EventTimeDawn;EventTimeDawn;class;4;5;2;0;6;5;3;28
+hungerGames3354350;me.helmetk.hungerGames.ChunkUtil;ChunkUtil;class;7;78;1;0;78;13;0;199
+hungerGames3354350;spectator.SpectatorImpl;SpectatorImpl;class;7;18;1;0;35;11;3;59
+hungerGames3354350;me.helmetk.hungerGames.hgChunkGenerator;hgChunkGenerator;class;3;6;2;0;0;2;1;29
+hungerGames3354350;me.helmetk.hungerGames.hungerGames;hungerGames;class;18;98;2;0;115;15;13;367
+hungerGames3354350;me.helmetk.hungerGames.HungerListener;HungerListener;class;12;28;1;0;0;7;2;96
+hungerGames3354350;spectator.spectatorListeners;spectatorListeners;class;14;61;1;0;0;9;1;129
+hungerGames3354350;spectator.Spectator;Spectator;interface;2;9;1;0;36;9;0;14
+hungerGames3354350;me.helmetk.hungerGames.HungerGame;HungerGame;class;11;51;1;0;345;30;10;190

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SoftwareDevelopment-Assignment219483206;assign2.examples.ngram.SimpleNGramGenerator;SimpleNGramGenerator;class;3;5;1;0;0;1;2;66;
+SoftwareDevelopment-Assignment219483206;assign2.examples.jfreechart.ChartPanel;ChartPanel;class;2;5;2;0;10;5;0;47;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramStoreTest;NGramStoreTest;class;7;37;1;0;666;37;0;840;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramException;NGramException;class;0;2;3;0;1;2;0;40;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramStore;NGramStore;class;7;13;1;0;0;6;3;101;
+SoftwareDevelopment-Assignment219483206;assign2.examples.jfreechart.ChartDemo;ChartDemo;class;1;1;1;0;0;1;0;27;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramMap;NGramMap;interface;1;5;1;0;10;5;0;90;
+SoftwareDevelopment-Assignment219483206;assign2.gui.ChartPanel;ChartPanel;class;10;16;5;0;0;9;4;156;
+SoftwareDevelopment-Assignment219483206;assign2.gui.ResultPanel;ResultPanel;class;0;3;5;0;0;3;2;68;
+SoftwareDevelopment-Assignment219483206;assign2.gui.NGramGUI;NGramGUI;class;5;35;6;0;63;13;11;302;
+SoftwareDevelopment-Assignment219483206;assign2.examples.swing.SimpleFrame;SimpleFrame;class;1;9;6;0;6;5;6;91;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramNodeTest;NGramNodeTest;class;6;96;1;0;4560;96;0;1757;
+SoftwareDevelopment-Assignment219483206;assign2.gui.Suggestions;Suggestions;class;1;1;1;0;0;1;0;15;
+SoftwareDevelopment-Assignment219483206;assign2.examples.jfreechart.BarChart;BarChart;class;8;3;6;0;3;3;0;76;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramNode;NGramNode;class;2;52;1;0;8;12;3;242;
+SoftwareDevelopment-Assignment219483206;assign2.ngram.NGramContainer;NGramContainer;interface;0;8;1;0;28;8;1;128;

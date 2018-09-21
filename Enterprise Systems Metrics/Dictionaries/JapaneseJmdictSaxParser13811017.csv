@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.util.RubyAnnotation;RubyAnnotation;class;0;32;1;0;1;2;0;95
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.download.Downloader;Downloader;class;0;3;1;0;0;1;0;25
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.util.CompressFolder;CompressFolder;class;1;28;1;0;28;8;0;124
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesedictionary.enums.Lang;Lang;enum;1;4;1;0;3;3;1;58
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesedictionary.Main;Main;class;1;9;1;0;1;2;0;80
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.parser.SaxParser;SaxParser;class;6;18;1;0;3;3;1;119
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesedictionary.tatoeba.CsvParser;CsvParser;class;10;36;1;0;0;1;2;180
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.saxholder.SaxKanjidic2Holder;SaxKanjidic2Holder;class;19;99;2;0;0;8;31;339
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.CronTaskProvider;CronTaskProvider;class;2;10;1;0;0;6;6;108
+JapaneseJmdictSaxParser13811017;cz.muni.fi.japanesejmdictsaxparser.saxholder.SaxDataHolder;SaxDataHolder;class;17;88;2;0;1;7;33;305

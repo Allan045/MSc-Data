@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Projet6662034;Service.Table;Table;class;0;4;1;0;0;4;2;20
+Projet6662034;Service.MenuGUI;MenuGUI;class;1;13;6;0;15;5;4;98
+Projet6662034;Service.ProjectStart;ProjectStart;class;4;6;1;0;13;5;3;83
+Projet6662034;Service.Login;Login;class;3;20;6;0;13;5;7;144
+Projet6662034;Service.RestaurantGUI;RestaurantGUI;class;3;45;6;0;133;11;11;264
+Projet6662034;Service.RepasConvive;RepasConvive;class;0;0;1;0;0;0;0;3
+Projet6662034;Service.Facture;Facture;class;1;24;1;0;81;18;8;101
+Projet6662034;Service.ServiceGUI;ServiceGUI;class;5;35;6;0;33;7;5;168
+Projet6662034;NbMaxMenu;NbMaxMenu;class;1;8;1;0;13;6;2;46
+Projet6662034;Service.CuisineGUI;CuisineGUI;class;2;11;6;0;6;3;32;275

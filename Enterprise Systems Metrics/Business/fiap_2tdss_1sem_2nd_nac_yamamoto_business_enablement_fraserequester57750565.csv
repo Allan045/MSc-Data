@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.console.ControlFlow;ControlFlow;class;0;9;1;0;3;3;1;43
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.console.ConsoleViewVerUmaFrase;ConsoleViewVerUmaFrase;class;4;2;1;0;1;2;0;34
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.bo.FraseBOCallbackHandler;FraseBOCallbackHandler;class;1;5;1;0;4;5;1;50
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.bo.FraseBOStub;FraseBOStub;class;24;452;2;0;4063;91;21;1813
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.console.ConsoleViewCadastrarUmaFrase;ConsoleViewCadastrarUmaFrase;class;2;3;1;0;3;3;1;41
+fiap_2tdss_1sem_2nd_nac_yamamoto_business_enablement_fraserequester57750565;br.com.fiap.beans.FraseBeanMB;FraseBeanMB;class;8;17;1;0;10;8;2;114

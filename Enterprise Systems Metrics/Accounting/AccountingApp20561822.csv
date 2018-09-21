@@ -1,0 +1,4 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+AccountingApp20561822;accountingapp.DataBase;DataBase;class;0;50;1;0;0;16;3;393
+AccountingApp20561822;accountingapp.AccountingMain;AccountingMain;class;3;131;6;0;956;24;55;1134
+AccountingApp20561822;accountingapp.AccountingHelp;AccountingHelp;class;0;0;1;0;0;0;2;17

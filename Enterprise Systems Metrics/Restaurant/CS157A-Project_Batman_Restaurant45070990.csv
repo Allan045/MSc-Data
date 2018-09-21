@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CS157A-Project_Batman_Restaurant45070990;Operation;Operation;class;10;96;1;0;0;21;1;600
+CS157A-Project_Batman_Restaurant45070990;Model.ReservationInfo;ReservationInfo;class;4;13;1;0;42;13;6;63
+CS157A-Project_Batman_Restaurant45070990;Model.Customer;Customer;class;5;6;2;0;0;6;2;41
+CS157A-Project_Batman_Restaurant45070990;Model.Reservation;Reservation;class;4;10;1;0;15;10;4;45
+CS157A-Project_Batman_Restaurant45070990;Model.Table;Table;class;4;10;1;0;3;10;4;45
+CS157A-Project_Batman_Restaurant45070990;ConnectionFactory;ConnectionFactory;class;1;4;1;0;0;1;0;21
+CS157A-Project_Batman_Restaurant45070990;Model.Rating;Rating;class;4;9;1;0;0;9;3;42
+CS157A-Project_Batman_Restaurant45070990;Model.Menu;Menu;class;1;0;4;0;0;0;0;4
+CS157A-Project_Batman_Restaurant45070990;Model.Availability;Availability;class;4;5;1;0;0;5;2;26
+CS157A-Project_Batman_Restaurant45070990;Model.Item;Item;class;6;14;1;0;15;14;5;65
+CS157A-Project_Batman_Restaurant45070990;CustomerController;CustomerController;class;21;51;1;0;14;12;26;596
+CS157A-Project_Batman_Restaurant45070990;Main;Main;class;4;2;2;0;1;2;0;20
+CS157A-Project_Batman_Restaurant45070990;Model.Employee;Employee;class;3;6;2;0;0;6;2;37
+CS157A-Project_Batman_Restaurant45070990;Model.Person;Person;class;4;11;1;0;11;11;4;61
+CS157A-Project_Batman_Restaurant45070990;AdminController;AdminController;class;24;23;1;0;0;11;22;495
+CS157A-Project_Batman_Restaurant45070990;WelcomeController;WelcomeController;class;15;43;1;0;0;5;18;263

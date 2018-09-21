@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BestGameEver9725578;Attacks;Attacks;class;1;8;1;0;0;6;3;40
+BestGameEver9725578;ArenaFrame;ArenaFrame;class;5;48;6;0;0;7;22;292
+BestGameEver9725578;Arena;Arena;class;7;6;5;0;0;6;10;101
+BestGameEver9725578;Character;Character;class;1;72;1;0;203;26;13;296
+BestGameEver9725578;Circle;Circle;class;0;4;1;0;2;4;4;21
+BestGameEver9725578;Cloud;Cloud;class;0;2;1;0;0;2;3;30
+BestGameEver9725578;Environments;Environments;class;5;6;1;0;0;2;13;77
+BestGameEver9725578;Pyramid;Pyramid;class;0;3;1;0;0;2;2;21
+BestGameEver9725578;Smoke;Smoke;class;1;8;1;0;0;4;6;51
+BestGameEver9725578;Stars;Stars;class;0;4;1;0;0;3;7;46
+BestGameEver9725578;Building;Building;class;0;7;1;0;0;2;5;34

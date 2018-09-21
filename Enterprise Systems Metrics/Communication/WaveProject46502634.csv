@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+WaveProject46502634;UserInterface;UserInterface;class;2;105;1;0;317;31;121;728;
+WaveProject46502634;Receiver;Receiver;class;6;51;1;0;0;8;18;214;
+WaveProject46502634;EmergencyService;EmergencyService;class;2;18;2;0;11;6;5;65;
+WaveProject46502634;GeneralInfoService;GeneralInfoService;class;2;54;2;0;22;8;12;168;
+WaveProject46502634;Service;Service;class;1;31;1;1;0;9;2;107;
+WaveProject46502634;WaveManager;WaveManager;class;8;16;1;0;46;12;27;110;
+WaveProject46502634;BrakeService;BrakeService;class;2;44;2;0;22;8;7;128;
+WaveProject46502634;TrafficService;TrafficService;class;4;87;2;0;49;11;6;274;

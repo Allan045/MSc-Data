@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Bau-Projects47077568;mazegenerator.KeyHandler;KeyHandler;class;4;112;6;0;111;23;17;295;
+Bau-Projects47077568;Game.BallAnimater;BallAnimater;class;6;18;2;0;0;5;6;63;
+Bau-Projects47077568;mazegenerator.ButtonHandler;ButtonHandler;class;2;10;1;0;0;3;2;63;
+Bau-Projects47077568;Game.Devil;Devil;class;3;3;2;0;3;3;0;16;
+Bau-Projects47077568;Game.Bushy;Bushy;class;3;3;2;0;3;3;0;16;
+Bau-Projects47077568;Game.Game;Game;class;5;35;6;0;53;15;16;215;
+Bau-Projects47077568;Game.Cannon;Cannon;class;2;9;1;0;0;4;4;35;
+Bau-Projects47077568;Game.Crow;Crow;class;3;2;2;0;1;2;0;12;
+Bau-Projects47077568;StringMatching;StringMatching;class;1;30;1;0;1;6;4;115;
+Bau-Projects47077568;Game.VisualObject;VisualObject;interface;0;1;1;0;0;1;0;6;
+Bau-Projects47077568;Game.GameAnimater;GameAnimater;class;11;35;7;0;0;8;6;98;
+Bau-Projects47077568;Game.CreatureAnimater;CreatureAnimater;class;6;24;2;0;28;12;9;94;

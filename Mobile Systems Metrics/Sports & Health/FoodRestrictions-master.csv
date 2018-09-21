@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MainActivity;MainActivity;class;24;36;2;0;33;8;4;171;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodImageAdapter;FoodImageAdapter;class;9;7;2;0;4;5;2;51;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodIconSettings;FoodIconSettings;class;3;38;1;0;169;30;30;195;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodIconConfig;FoodIconConfig;class;11;54;2;0;1;2;15;279;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MessageLanguageSelector;MessageLanguageSelector;class;12;4;2;0;1;2;1;53;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodMessages;FoodMessages;class;24;17;2;0;7;5;6;160;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MessageVegan;MessageVegan;class;12;3;2;0;0;1;0;59;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodIconItem;FoodIconItem;class;0;9;1;0;28;9;4;49;
+FoodRestrictions-master;br.com.frs.foodrestrictions.AboutUs;AboutUs;class;20;8;2;0;6;3;0;87;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MessageVegetarian;MessageVegetarian;class;12;3;2;0;0;1;0;59;
+FoodRestrictions-master;br.com.frs.foodrestrictions.AppSettings;AppSettings;class;4;8;1;0;1;6;6;57;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MessagesTab;MessagesTab;class;15;21;3;0;8;5;1;93;
+FoodRestrictions-master;br.com.frs.foodrestrictions.MessageCannibal;MessageCannibal;class;12;3;2;0;0;1;0;57;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodIconList;FoodIconList;class;4;56;1;0;2;4;10;167;
+FoodRestrictions-master;br.com.frs.foodrestrictions.FoodIconGrid;FoodIconGrid;class;12;7;2;0;0;2;1;60;
+FoodRestrictions-master;br.com.frs.foodrestrictions.AppConfig;AppConfig;class;10;6;2;0;0;2;2;67;

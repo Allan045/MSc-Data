@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Project24307869;com.example.utility.ConnectionUtility;ConnectionUtility;class;0;1;1;0;0;1;0;12
+Project24307869;com.example.Dao.MenuDao;MenuDao;class;3;78;1;0;120;16;0;510
+Project24307869;com.example.controllers.RootController;RootController;class;2;1;1;0;0;1;0;11
+Project24307869;com.example.bean.ItemBean;ItemBean;class;0;12;1;0;54;12;6;45
+Project24307869;com.example.Dao.CustomerDao;CustomerDao;class;2;13;1;0;3;3;0;101
+Project24307869;com.example.form.CustomerForm;CustomerForm;class;0;16;1;0;104;16;8;59
+Project24307869;com.example.controllers.EmployeeController;EmployeeController;class;7;12;1;0;15;6;0;78
+Project24307869;com.example.Dao.LoginDao;LoginDao;class;3;14;1;0;3;3;0;112
+Project24307869;com.example.controllers.AdminController;AdminController;class;14;29;1;0;78;13;0;151
+Project24307869;com.example.Dao.EmployeeDao;EmployeeDao;class;2;7;1;0;0;1;0;45
+Project24307869;com.example.controllers.LoginController;LoginController;class;12;21;1;0;21;7;0;96
+Project24307869;com.example.bean.OrderBean;OrderBean;class;1;10;1;0;35;10;5;40
+Project24307869;com.example.controllers.CustomerController;CustomerController;class;14;25;1;0;66;12;0;181
+Project24307869;com.example.form.EmployeeForm;EmployeeForm;class;2;8;1;0;20;8;4;39
+Project24307869;com.example.form.LoginForm;LoginForm;class;2;6;1;0;9;6;3;30

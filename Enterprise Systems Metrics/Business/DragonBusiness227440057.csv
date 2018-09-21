@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.DBSystem.DBCompany;DBCompany;class;2;13;1;0;30;13;8;63
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.commands.Tools;Tools;class;8;106;1;0;18;17;4;258
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.EventHandlers.InventoryClosedHandler;InventoryClosedHandler;class;7;22;1;0;0;2;1;68
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.DBSystem.DBPlayer;DBPlayer;class;2;20;1;0;118;20;11;90
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.commands.Help;Help;class;5;75;1;0;0;27;5;205
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.commands.Config;Config;class;3;32;1;0;134;28;16;204
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.DBSystem.DBHandler;DBHandler;class;6;160;1;0;0;33;7;745
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.DragonBusiness2;DragonBusiness2;class;17;33;2;0;9;6;8;130
+DragonBusiness227440057;me.Magnusri.DragonBusiness2.commands.CmdExecutor;CmdExecutor;class;12;337;1;0;0;1;3;853

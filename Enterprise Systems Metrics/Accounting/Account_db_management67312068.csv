@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Account_db_management67312068;myPack.StudentRegistration;StudentRegistration;class;4;5;2;0;6;4;0;84
+Account_db_management67312068;org.apache.jsp.submit_005ffee_jsp;submit_005ffee_jsp;class;15;12;2;0;1;2;3;212
+Account_db_management67312068;org.apache.jsp.register_005fdirector_jsp;register_005fdirector_jsp;class;15;12;2;0;1;2;3;123
+Account_db_management67312068;org.apache.jsp.account_005fstaff_jsp;account_005fstaff_jsp;class;15;12;2;0;1;2;3;113
+Account_db_management67312068;myPack.Connectivity;Connectivity;class;0;2;1;0;0;1;1;29
+Account_db_management67312068;org.apache.jsp.about_005fdeveloper_jsp;about_005fdeveloper_jsp;class;15;9;2;0;1;2;3;125
+Account_db_management67312068;org.apache.jsp.student_005facoount_jsp;student_005facoount_jsp;class;15;9;2;0;1;2;3;184
+Account_db_management67312068;org.apache.jsp.new_005fstudent_005faccount_jsp;new_005fstudent_005faccount_jsp;class;15;12;2;0;1;2;3;111
+Account_db_management67312068;myPack.RegisterAccountStaff;RegisterAccountStaff;class;3;4;2;0;0;1;0;49
+Account_db_management67312068;myPack.Main;Main;class;4;19;2;0;6;4;0;120
+Account_db_management67312068;org.apache.jsp.admin_002dhome_jsp;admin_002dhome_jsp;class;15;9;2;0;1;2;3;109
+Account_db_management67312068;org.apache.jsp.logout_jsp;logout_jsp;class;15;9;2;0;1;2;3;68
+Account_db_management67312068;myPack.EditProfile;EditProfile;class;3;5;2;0;1;2;6;67
+Account_db_management67312068;myPack.FeeUpdate;FeeUpdate;class;4;5;2;0;6;4;0;129
+Account_db_management67312068;org.apache.jsp.edit_005fprofile_jsp;edit_005fprofile_jsp;class;15;13;2;0;1;2;3;137
+Account_db_management67312068;myPack.RegisterDirector;RegisterDirector;class;3;5;2;0;6;4;0;66

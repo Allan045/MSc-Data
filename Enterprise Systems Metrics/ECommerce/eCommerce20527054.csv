@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+eCommerce20527054;ECommerce;ECommerce;class;1;4;1;0;1;1;0;22
+eCommerce20527054;UserInterface;UserInterface;class;5;109;6;0;223;23;39;872
+eCommerce20527054;ProjectSummary;ProjectSummary;class;1;36;1;0;18;12;6;152
+eCommerce20527054;InternalExceptions;InternalExceptions;class;0;9;3;0;24;9;6;45
+eCommerce20527054;Product;Product;class;1;8;1;0;0;5;9;62
+eCommerce20527054;DoubleLinkedList;DoubleLinkedList;class;3;81;1;0;67;35;11;420
+eCommerce20527054;Category;Category;class;0;0;1;0;0;0;3;6

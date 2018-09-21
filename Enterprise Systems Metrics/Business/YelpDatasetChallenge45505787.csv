@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+YelpDatasetChallenge45505787;Task1.Category;Category;class;4;10;1;0;0;5;2;60
+YelpDatasetChallenge45505787;Task1.Evaluation;Evaluation;class;7;15;1;0;0;6;5;103
+YelpDatasetChallenge45505787;Task1.MainClass;MainClass;class;12;41;1;0;105;15;0;286
+YelpDatasetChallenge45505787;Task1.LuceneIndexWriter;LuceneIndexWriter;class;12;11;1;0;0;4;6;90
+YelpDatasetChallenge45505787;Task1.Search;Search;class;22;49;1;0;29;15;6;290
+YelpDatasetChallenge45505787;Task2.User;User;class;2;24;1;0;190;24;14;135
+YelpDatasetChallenge45505787;Task2.Influencers;Influencers;class;7;26;1;0;0;2;1;160
+YelpDatasetChallenge45505787;Task1.POSIndex;POSIndex;class;10;23;1;0;3;7;7;161
+YelpDatasetChallenge45505787;Task2.Attributes;Attributes;class;1;19;1;0;145;19;11;100
+YelpDatasetChallenge45505787;Task2.BusinessRating;BusinessRating;class;8;29;1;0;0;2;1;226
+YelpDatasetChallenge45505787;Task2.ReadData;ReadData;class;7;24;1;0;0;2;1;125
+YelpDatasetChallenge45505787;Task1.POSTagger;POSTagger;class;1;5;1;0;0;2;1;34
+YelpDatasetChallenge45505787;Task2.Category;Category;class;1;6;1;0;2;5;2;32

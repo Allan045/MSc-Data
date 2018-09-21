@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Database-for-Restaurant-Management77750996;guidesign.ALL;ALL;class;4;649;6;0;9084;72;231;4586
+Database-for-Restaurant-Management77750996;guidesign.Credits;Credits;class;1;11;6;0;6;3;1;70
+Database-for-Restaurant-Management77750996;guidesign.connectOracle;connectOracle;class;0;2;1;0;0;1;1;35
+Database-for-Restaurant-Management77750996;guidesign.queryResult;queryResult;class;1;13;6;0;15;4;0;84

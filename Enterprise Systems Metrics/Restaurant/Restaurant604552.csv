@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant604552;restaurant.login;login;class;3;26;5;0;55;7;11;245
+Restaurant604552;restaurant.RestaurantView;RestaurantView;class;10;59;2;0;811;24;26;488
+Restaurant604552;restaurant.RestaurantAboutBox;RestaurantAboutBox;class;4;3;6;0;3;3;1;90
+Restaurant604552;restaurant.welcomePanel;welcomePanel;class;3;6;5;0;15;4;3;103
+Restaurant604552;restaurant.orderedItem;orderedItem;class;0;5;1;0;0;5;6;38
+Restaurant604552;restaurant.RestaurantApp;RestaurantApp;class;9;4;2;0;6;4;6;50
+Restaurant604552;restaurant.waiterPanel;waiterPanel;class;3;2;5;0;1;2;1;54
+Restaurant604552;restaurant.menuItem;menuItem;class;0;9;1;0;14;9;6;50
+Restaurant604552;restaurant.oskPanel;oskPanel;class;0;2;5;0;1;2;0;42
+Restaurant604552;restaurant.chefPanel;chefPanel;class;3;2;5;0;1;2;1;54
+Restaurant604552;restaurant.customerPanel;customerPanel;class;6;84;5;0;1641;37;43;675
+Restaurant604552;restaurant.managerPanel;managerPanel;class;4;137;5;0;997;30;101;1480

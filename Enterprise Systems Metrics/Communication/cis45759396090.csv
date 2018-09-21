@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+cis45759396090;ServerThread;ServerThread;class;3;186;1;0;223;30;12;613;
+cis45759396090;Trie;Trie;class;2;72;1;0;37;15;4;371;
+cis45759396090;udpserver;udpserver;class;3;50;1;0;29;10;5;280;
+cis45759396090;trie;trie;class;1;9;1;0;1;6;5;64;
+cis45759396090;ClientThread;ClientThread;class;1;13;1;0;0;3;1;62;
+cis45759396090;clientRecieve;clientRecieve;class;3;13;1;0;0;5;8;94;
+cis45759396090;udpclient;udpclient;class;1;2;1;0;0;1;0;26;

@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+HealthInc68478205;bean.HospitalizationBean;HospitalizationBean;class;0;46;1;0;989;46;23;164;
+HealthInc68478205;controller.IndexController;IndexController;class;8;25;2;0;3;3;1;105;
+HealthInc68478205;bean.ClaimBean;ClaimBean;class;0;16;1;0;104;16;8;59;
+HealthInc68478205;controller.AdminController;AdminController;class;11;76;2;0;1;2;1;323;
+HealthInc68478205;controller.MasterController;MasterController;class;12;58;2;0;1;2;1;268;
+HealthInc68478205;util.DbTransaction;DbTransaction;class;0;7;1;0;0;2;4;39;
+HealthInc68478205;service.IndexService;IndexService;class;7;24;1;0;0;24;1;84;
+HealthInc68478205;bean.DomiciliaryBean;DomiciliaryBean;class;0;31;1;0;431;31;15;111;
+HealthInc68478205;bean.EmployeeBean;EmployeeBean;class;0;38;1;0;599;38;18;157;
+HealthInc68478205;bean.DependentBean;DependentBean;class;0;23;1;0;231;23;11;83;
+HealthInc68478205;dao.Dao;Dao;class;6;103;1;0;300;25;0;761;
+HealthInc68478205;bean.Hospital;Hospital;class;0;16;1;0;104;16;8;59;

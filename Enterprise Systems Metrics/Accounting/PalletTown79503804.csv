@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+PalletTown79503804;pallettown.AccountCreator;AccountCreator;class;3;81;1;0;8;8;8;301
+PalletTown79503804;pallettown.EmailVerifier;EmailVerifier;class;10;30;1;0;0;3;6;129
+PalletTown79503804;pallettown.PalletTown;PalletTown;class;6;90;1;0;11;11;23;361
+PalletTown79503804;pallettown.GUI;GUI;class;40;47;3;0;259;27;17;821
+PalletTown79503804;pallettown.PTCProxy;PTCProxy;class;0;13;1;0;4;8;6;66
+PalletTown79503804;pallettown.TOSAccept;TOSAccept;class;0;1;1;0;0;1;0;9
+PalletTown79503804;pallettown.RandomDetails;RandomDetails;class;1;9;1;0;15;6;4;70
+PalletTown79503804;pallettown.ProxyTester;ProxyTester;class;4;11;1;0;1;2;1;69
+PalletTown79503804;pallettown.UrlUtil;UrlUtil;class;0;4;1;0;0;1;0;32
+PalletTown79503804;test.pallettown.ProxyTest;ProxyTest;class;3;23;1;0;2;4;5;106

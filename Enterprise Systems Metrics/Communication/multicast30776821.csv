@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+multicast30776821;nodeInfo;nodeInfo;class;0;2;1;0;0;2;2;11;
+multicast30776821;createConnection;createConnection;class;0;0;1;0;0;0;0;2;
+multicast30776821;configFileParse;configFileParse;class;4;115;1;0;16;13;4;320;
+multicast30776821;Connection;Connection;class;5;24;1;0;0;3;15;145;
+multicast30776821;Manager;Manager;class;2;28;1;0;0;1;0;125;
+multicast30776821;Message;Message;class;4;27;1;0;20;12;17;123;
+multicast30776821;User;User;class;5;17;1;0;0;5;13;131;
+multicast30776821;VectorTimeStamp;VectorTimeStamp;class;2;26;1;0;0;8;3;91;
+multicast30776821;Multicast;Multicast;class;3;54;1;0;3;6;4;200;
+multicast30776821;Logger;Logger;class;5;19;1;0;0;3;11;109;
+multicast30776821;LogicalTimeStamp;LogicalTimeStamp;class;2;10;1;0;0;8;2;39;
+multicast30776821;MessagePasser;MessagePasser;class;8;68;1;0;0;10;23;327;

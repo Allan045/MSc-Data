@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+public-health-system30389492;businesslayer.ISurveyDAO;ISurveyDAO;interface;0;16;1;0;120;16;0;21;
+public-health-system30389492;dto.SurveyDTO;SurveyDTO;class;0;4;1;0;2;4;2;17;
+public-health-system30389492;businesslayer.BusinessLogic;BusinessLogic;class;3;23;1;0;66;12;0;116;
+public-health-system30389492;db.DBConnection;DBConnection;class;0;6;1;0;0;2;2;29;
+public-health-system30389492;org.apache.jsp.query5_jsp;query5_jsp;class;15;9;2;0;1;2;3;83;
+public-health-system30389492;service.ServiceLogic;ServiceLogic;class;1;19;1;0;45;10;0;95;
+public-health-system30389492;datalayer.SurveyDetailsDAO;SurveyDetailsDAO;class;2;144;1;0;120;16;0;519;
+public-health-system30389492;service.HealthServlet;HealthServlet;class;5;4;2;0;3;3;1;55;
+public-health-system30389492;dto.LocationDTO;LocationDTO;class;0;4;1;0;2;4;2;17;
+public-health-system30389492;dto.CitizenDTO;CitizenDTO;class;0;20;1;0;170;20;10;73;

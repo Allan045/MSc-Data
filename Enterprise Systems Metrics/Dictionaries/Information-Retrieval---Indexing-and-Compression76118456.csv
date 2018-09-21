@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Information-Retrieval---Indexing-and-Compression76118456;DocDetails;DocDetails;class;0;7;1;0;3;7;3;34
+Information-Retrieval---Indexing-and-Compression76118456;Compression;Compression;class;3;37;1;0;19;7;4;153
+Information-Retrieval---Indexing-and-Compression76118456;Stemmer;Stemmer;class;6;272;1;0;0;25;8;746
+Information-Retrieval---Indexing-and-Compression76118456;Tokenize;Tokenize;class;2;20;1;0;4;3;2;106
+Information-Retrieval---Indexing-and-Compression76118456;DictionaryClass;DictionaryClass;class;2;36;1;0;0;9;3;71
+Information-Retrieval---Indexing-and-Compression76118456;Lemmatize;Lemmatize;class;10;39;1;0;1;6;6;227
+Information-Retrieval---Indexing-and-Compression76118456;Timer;Timer;class;1;4;1;0;0;4;1;25

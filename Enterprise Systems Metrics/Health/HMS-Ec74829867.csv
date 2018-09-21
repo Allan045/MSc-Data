@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+HMS-Ec74829867;com.hms.model.Hospital;Hospital;class;1;7;1;0;3;7;3;38;
+HMS-Ec74829867;com.hms.controller.ReportsController;ReportsController;class;10;12;2;0;6;4;0;148;
+HMS-Ec74829867;com.hms.dao.AppointmentDAOImpl;AppointmentDAOImpl;class;9;15;1;0;0;8;3;111;
+HMS-Ec74829867;com.hms.controller.AuthenticationController;AuthenticationController;class;12;22;2;0;6;4;0;165;
+HMS-Ec74829867;com.hms.dao.UserDAOImpl;UserDAOImpl;class;7;38;1;0;0;11;6;212;
+HMS-Ec74829867;com.hms.controller.AppointmentController;AppointmentController;class;12;10;2;0;3;3;0;88;
+HMS-Ec74829867;com.hms.db.DataSouce;DataSouce;class;1;12;1;0;0;8;6;61;
+HMS-Ec74829867;com.hms.dao.UserDAO;UserDAO;interface;3;9;1;0;36;9;0;26;
+HMS-Ec74829867;com.hms.controller.HomeController;HomeController;class;8;8;2;0;6;4;0;94;
+HMS-Ec74829867;com.hms.model.Patient;Patient;class;1;8;2;0;16;8;2;41;
+HMS-Ec74829867;com.hms.model.Appointment;Appointment;class;3;13;1;0;30;13;5;63;
+HMS-Ec74829867;com.hms.dao.AppointmentDAO;AppointmentDAO;interface;4;7;1;0;21;7;0;25;
+HMS-Ec74829867;com.hms.model.DomainObject;DomainObject;class;0;8;1;3;20;8;4;40;
+HMS-Ec74829867;com.hms.model.User;User;class;1;27;1;0;193;27;11;132;
+HMS-Ec74829867;com.hms.model.Doctor;Doctor;class;1;14;2;0;49;14;4;69;
+HMS-Ec74829867;com.hms.model.Report;Report;class;1;10;1;0;21;10;4;48;

@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+invoice-report70753327;com.mwc.ext.InvoiceList;InvoiceList;class;2;20;1;0;0;7;3;78;
+invoice-report70753327;com.datacontainers.Service;Service;class;1;13;2;0;56;13;5;58;
+invoice-report70753327;com.datacontainers.Equipment;Equipment;class;1;8;2;0;16;8;2;38;
+invoice-report70753327;com.datacontainers.Consultation;Consultation;class;2;9;2;0;22;9;3;43;
+invoice-report70753327;com.mwc.ext.InvoiceReport;InvoiceReport;class;10;68;1;0;45;10;0;363;
+invoice-report70753327;com.datacontainers.Calculate;Calculate;interface;0;4;1;0;6;4;0;7;
+invoice-report70753327;com.datacontainers.Invoice;Invoice;class;4;45;1;0;500;36;18;178;
+invoice-report70753327;com.datacontainers.Product;Product;class;1;4;1;1;0;4;3;23;
+invoice-report70753327;com.datacontainers.Address;Address;class;0;11;1;0;25;11;5;48;
+invoice-report70753327;com.datacontainers.Person;Person;class;1;11;1;0;13;11;5;53;
+invoice-report70753327;com.datacontainers.Customer;Customer;class;2;9;1;0;14;9;5;41;
+invoice-report70753327;com.mwc.ext.InvoiceData;InvoiceData;class;0;46;1;0;105;15;0;423;
+invoice-report70753327;com.mwc.ext.InvoiceListNode;InvoiceListNode;class;2;6;1;0;3;6;2;25;

@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DBpedia-Game11473184;GetData.ReadFromFile;ReadFromFile;class;2;67;1;0;5;10;9;432
+DBpedia-Game11473184;GetData.Shuffle;Shuffle;class;0;6;1;0;1;2;0;20
+DBpedia-Game11473184;Games.Data;Data;class;1;13;6;0;10;3;3;121
+DBpedia-Game11473184;GetData.Jena;Jena;class;3;35;1;0;0;1;0;759
+DBpedia-Game11473184;Games.Game;Game;class;6;656;6;0;6844;71;95;3281

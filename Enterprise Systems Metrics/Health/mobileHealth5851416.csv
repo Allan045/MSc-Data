@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+mobileHealth5851416;mhealth.HealthL;HealthL;class;0;22;1;0;175;22;1;103;
+mobileHealth5851416;mhealth.Patient;Patient;class;2;172;1;0;3090;81;5;1074;
+mobileHealth5851416;mhealth.Hparameters;Hparameters;class;0;29;1;0;171;23;2;151;
+mobileHealth5851416;mhealth.Doctor;Doctor;class;0;17;1;0;55;14;1;84;
+mobileHealth5851416;mhealth.login;login;class;4;7;2;0;0;1;0;63;
+mobileHealth5851416;mhealth.PatientDependent;PatientDependent;class;0;13;1;0;21;10;1;62;
+mobileHealth5851416;mhealth.Database;Database;class;0;3;1;0;1;2;0;19;

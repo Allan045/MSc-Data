@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+JPsTale-Asset44592725;com.jme3.asset.maxase.app.TestLoadMonster;TestLoadMonster;class;27;27;2;0;36;9;1;193
+JPsTale-Asset44592725;com.jme3.asset.maxase.AseLoader;AseLoader;class;20;325;1;0;0;26;64;888
+JPsTale-Asset44592725;com.jme3.asset.maxase.mesh.AseScene;AseScene;class;2;19;1;0;46;13;8;66
+JPsTale-Asset44592725;com.jme3.asset.maxase.material.TextureMap;TextureMap;class;2;14;1;0;0;2;11;50
+JPsTale-Asset44592725;com.jme3.asset.maxase.animation.VertexAssignment;VertexAssignment;class;0;0;1;0;0;0;4;11
+JPsTale-Asset44592725;com.jme3.asset.maxase.AseKey;AseKey;class;4;4;2;0;6;4;0;28
+JPsTale-Asset44592725;com.jme3.asset.maxase.AseProcessor;AseProcessor;class;40;128;2;0;106;20;12;612
+JPsTale-Asset44592725;com.jme3.asset.maxase.FileLocator;FileLocator;class;7;12;2;0;0;4;2;66
+JPsTale-Asset44592725;com.jme3.asset.maxase.animation.Keyframe;Keyframe;class;5;15;1;0;0;4;4;39
+JPsTale-Asset44592725;com.jme3.asset.maxase.material.Mtl;Mtl;class;3;18;1;0;0;2;11;53
+JPsTale-Asset44592725;com.jme3.asset.maxase.mesh.Face;Face;class;0;0;1;0;0;0;6;13
+JPsTale-Asset44592725;com.jme3.asset.maxase.CONSTANT;CONSTANT;interface;2;0;1;0;0;0;38;127
+JPsTale-Asset44592725;com.jme3.asset.maxase.material.MatsScriptCode;MatsScriptCode;class;0;1;1;0;0;1;2;10
+JPsTale-Asset44592725;com.jme3.asset.maxase.app.TestLoadMob;TestLoadMob;class;20;21;2;0;4;4;5;130
+JPsTale-Asset44592725;com.jme3.asset.maxase.mesh.GeomObject;GeomObject;class;13;18;1;0;48;13;26;121

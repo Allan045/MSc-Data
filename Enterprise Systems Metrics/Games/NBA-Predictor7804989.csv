@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+NBA-Predictor7804989;TrainingExample;TrainingExample;class;1;18;1;0;11;14;6;93
+NBA-Predictor7804989;NBADataParser;NBADataParser;class;0;34;1;0;15;6;0;134
+NBA-Predictor7804989;Game;Game;class;1;17;1;0;28;12;10;97
+NBA-Predictor7804989;AdaBoostR;AdaBoostR;class;4;54;1;0;78;20;10;412
+NBA-Predictor7804989;HttpUtil;HttpUtil;class;0;15;1;0;3;3;0;143
+NBA-Predictor7804989;Point;Point;class;1;9;1;0;0;8;2;54
+NBA-Predictor7804989;NBAStatBrowser;NBAStatBrowser;class;4;30;1;0;165;18;7;168
+NBA-Predictor7804989;KMeans;KMeans;class;2;29;1;0;12;9;3;165
+NBA-Predictor7804989;TrainingSetTransformer;TrainingSetTransformer;class;3;36;1;0;10;8;9;168
+NBA-Predictor7804989;KMeansDriver;KMeansDriver;class;3;4;1;0;0;1;0;54
+NBA-Predictor7804989;WeakLearner;WeakLearner;class;2;46;1;0;60;16;10;286
+NBA-Predictor7804989;AdaBoostRT;AdaBoostRT;class;5;45;1;0;18;12;12;286
+NBA-Predictor7804989;DataParser;DataParser;class;3;20;1;0;18;9;5;119
+NBA-Predictor7804989;GameStatistics;GameStatistics;class;2;13;1;0;0;9;15;208
+NBA-Predictor7804989;NBAStatCalculator;NBAStatCalculator;class;3;43;1;0;3;11;5;211

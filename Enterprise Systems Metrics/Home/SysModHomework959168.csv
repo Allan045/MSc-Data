@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SysModHomework959168;ScenarioTest;ScenarioTest;class;10;82;2;0;910;49;30;781;
+SysModHomework959168;maumau.Player;Player;class;4;43;1;0;7;19;12;224;
+SysModHomework959168;maumauAllTests;maumauAllTests;class;5;3;1;0;1;2;0;39;
+SysModHomework959168;maumau.Suit;Suit;class;3;10;1;0;2;4;2;56;
+SysModHomework959168;maumau.Turn;Turn;class;3;10;1;0;2;4;2;56;
+SysModHomework959168;maumau.PlayingStack;PlayingStack;class;1;0;2;0;0;0;0;7;
+SysModHomework959168;Scenario_2Test;Scenario_2Test;class;9;97;2;0;1335;58;36;991;
+SysModHomework959168;Runner;Runner;class;4;2;1;0;0;1;1;28;
+SysModHomework959168;maumau.Stack;Stack;class;3;13;1;0;11;7;4;74;
+SysModHomework959168;maumau.Card;Card;class;5;43;1;0;125;19;12;224;
+SysModHomework959168;maumau.DrawingStack;DrawingStack;class;1;0;2;0;0;0;0;7;
+SysModHomework959168;Scenario_1Test;Scenario_1Test;class;9;87;2;0;1036;52;32;883;

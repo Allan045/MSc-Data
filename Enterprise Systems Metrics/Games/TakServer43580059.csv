@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+TakServer43580059;tak.TakServer;TakServer;class;2;8;2;0;4;3;1;58
+TakServer43580059;tak.Database;Database;class;1;2;1;0;0;1;2;28
+TakServer43580059;tak.ChatRoom;ChatRoom;class;3;22;1;0;4;12;3;75
+TakServer43580059;tak.Client;Client;class;9;240;2;0;122;19;89;802
+TakServer43580059;tak.IRCBridge;IRCBridge;class;1;19;1;0;0;2;10;102
+TakServer43580059;tak.Seek;Seek;class;4;18;1;0;23;9;9;83
+TakServer43580059;tak.Settings;Settings;class;5;5;1;0;0;4;1;68
+TakServer43580059;tak.Game;Game;class;11;338;1;0;1606;73;50;992
+TakServer43580059;tak.utils.Hashify;Hashify;class;0;2;1;0;0;1;0;24
+TakServer43580059;tak.TestGame;TestGame;class;4;36;1;0;1;3;5;121
+TakServer43580059;org.mindrot.jbcrypt.BCrypt;BCrypt;class;3;75;1;0;73;14;10;727
+TakServer43580059;tak.Player;Player;class;4;69;1;0;561;43;21;349
+TakServer43580059;tak.utils.ConcurrentHashSet;ConcurrentHashSet;class;1;13;1;0;0;13;2;72
+TakServer43580059;tak.Status;Status;class;0;6;1;0;0;5;2;30
+TakServer43580059;tak.EMail;EMail;class;5;4;1;0;1;2;4;59

@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+beg-java-8-games-dev71271699;invincibagel.Actor;Actor;class;5;28;1;8;300;28;13;112
+beg-java-8-games-dev71271699;invincibagel.Hero;Hero;class;2;26;2;0;291;26;2;84
+beg-java-8-games-dev71271699;invincibagel.Prop;Prop;class;2;2;2;0;1;2;0;13
+beg-java-8-games-dev71271699;invincibagel.PropV;PropV;class;2;2;2;0;1;2;0;15
+beg-java-8-games-dev71271699;invincibagel.Projectile;Projectile;class;2;2;2;0;1;2;0;16
+beg-java-8-games-dev71271699;invincibagel.CastingDirector;CastingDirector;class;1;14;1;0;0;10;3;53
+beg-java-8-games-dev71271699;invincibagel.PropB;PropB;class;2;2;2;0;1;2;0;17
+beg-java-8-games-dev71271699;invincibagel.GamePlayLoop;GamePlayLoop;class;2;4;2;0;4;4;1;21
+beg-java-8-games-dev71271699;invincibagel.Bagel;Bagel;class;10;91;3;0;3;10;10;155
+beg-java-8-games-dev71271699;invincibagel.Enemy;Enemy;class;3;62;2;0;0;7;17;194
+beg-java-8-games-dev71271699;invincibagel.PropH;PropH;class;2;2;2;0;1;2;0;15
+beg-java-8-games-dev71271699;invincibagel.InvinciBagel;InvinciBagel;class;32;49;2;0;446;33;25;299
+beg-java-8-games-dev71271699;invincibagel.Treasure;Treasure;class;2;2;2;0;1;2;0;15

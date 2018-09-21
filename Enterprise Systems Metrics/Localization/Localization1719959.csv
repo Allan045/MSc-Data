@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Localization1719959;Localizer;Localizer;class;4;100;2;0;25;22;10;481
+Localization1719959;LocGoto;LocGoto;class;7;27;1;0;1;2;0;138
+Localization1719959;Wanderer;Wanderer;class;8;21;2;0;0;5;10;101
+Localization1719959;Localization;Localization;class;7;29;1;0;3;3;5;142
+Localization1719959;PathPlanner;PathPlanner;class;2;45;1;0;2;8;5;212
+Localization1719959;AStarData;AStarData;class;2;8;1;0;0;4;2;51
+Localization1719959;GridMap;GridMap;class;1;16;10;0;0;6;3;73
+Localization1719959;Particle;Particle;class;1;20;1;0;0;15;4;71

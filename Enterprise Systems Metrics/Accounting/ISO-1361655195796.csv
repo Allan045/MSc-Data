@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ISO-1361655195796;org.jdtaus.iso13616.IbanFormat;IbanFormat;enum;0;0;1;0;0;0;0;62
+ISO-1361655195796;org.jdtaus.iso13616.test.IbanTest;IbanTest;class;2;165;1;0;4654;97;5;2059
+ISO-1361655195796;org.jdtaus.iso13616.IBAN;IBAN;class;8;265;1;0;496;44;32;1542
+ISO-1361655195796;org.jdtaus.iso13616.test.IbanCheckDigitsExceptionTest;IbanCheckDigitsExceptionTest;class;2;4;1;0;3;3;0;117
+ISO-1361655195796;org.jdtaus.iso13616.IbanSyntaxException;IbanSyntaxException;class;0;14;3;0;5;6;3;182
+ISO-1361655195796;org.jdtaus.iso13616.test.IbanSyntaxExceptionTest;IbanSyntaxExceptionTest;class;2;4;1;0;3;3;0;116
+ISO-1361655195796;org.jdtaus.iso13616.IbanCheckDigitsException;IbanCheckDigitsException;class;0;14;3;0;7;6;3;183

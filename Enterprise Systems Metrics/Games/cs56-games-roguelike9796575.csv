@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Beef;Beef;class;2;4;2;0;6;4;1;40
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.HealthPotion;HealthPotion;class;2;4;2;0;6;4;1;37
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.ItemTest;ItemTest;class;6;20;1;0;190;20;0;244
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.RoguePanel;RoguePanel;class;6;131;5;0;1025;55;31;626
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.GUI;GUI;class;1;10;1;0;45;6;0;116
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.GamePiece;GamePiece;interface;0;2;1;0;1;2;0;19
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Poison;Poison;class;2;4;2;0;6;4;1;42
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Player;Player;class;3;26;1;0;76;16;7;132
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Item;Item;class;3;12;1;1;28;12;6;112
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.LogicEngine;LogicEngine;class;10;126;1;0;83;30;12;502
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Sound;Sound;class;1;11;1;0;0;4;3;48
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Wall;Wall;class;1;4;1;0;2;4;2;17
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Monster;Monster;class;5;82;1;0;56;16;14;260
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.RogueController;RogueController;class;9;92;6;0;0;15;12;364
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.Elixir;Elixir;class;2;3;2;0;3;3;1;35
+cs56-games-roguelike9796575;edu.ucsb.cs56.projects.games.roguelike.LogicEngineTest;LogicEngineTest;class;3;11;1;0;55;11;0;117

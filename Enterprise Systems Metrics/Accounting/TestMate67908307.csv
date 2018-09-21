@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+TestMate67908307;SocketWrapper;SocketWrapper;class;2;26;1;0;0;5;7;101
+TestMate67908307;StringUtils;StringUtils;class;0;6;1;0;1;2;0;15
+TestMate67908307;database.DDBClient;DDBClient;class;28;33;1;0;4;12;8;311
+TestMate67908307;StaticPorts;StaticPorts;class;0;6;1;0;1;3;2;21
+TestMate67908307;database.TestJob;TestJob;class;4;12;1;0;54;12;6;59
+TestMate67908307;CommandListMap;CommandListMap;class;0;15;1;0;0;14;1;68
+TestMate67908307;HandleRequests;HandleRequests;class;7;65;1;0;33;10;11;411
+TestMate67908307;NoRepeat;NoRepeat;class;0;9;1;0;0;1;1;34
+TestMate67908307;CommunicationProtocol;CommunicationProtocol;class;0;17;1;0;0;3;9;60
+TestMate67908307;database.TestModule;TestModule;class;4;12;1;0;54;12;7;60
+TestMate67908307;controllers.mainControllerTest;mainControllerTest;class;1;2;1;0;1;2;0;15
+TestMate67908307;Main;Main;class;1;1;1;0;0;1;0;7
+TestMate67908307;database.DDBManager;DDBManager;class;0;1;1;0;0;1;0;6

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ToastyGames18522862;dreamwalker.Botones;Botones;class;0;13;1;0;16;13;3;129
+ToastyGames18522862;dreamwalker.Menu;Menu;class;2;18;1;0;22;8;6;89
+ToastyGames18522862;dreamwalker.Sky;Sky;class;3;44;2;0;1;6;5;203
+ToastyGames18522862;dreamwalker.Base;Base;class;3;20;1;3;118;20;5;187
+ToastyGames18522862;dreamwalker.gameOver;gameOver;class;2;23;1;0;28;9;5;111
+ToastyGames18522862;dreamwalker.DreamWalker;DreamWalker;class;1;1;1;0;0;1;0;16
+ToastyGames18522862;dreamwalker.BadGuys;BadGuys;class;2;34;2;0;313;30;9;299
+ToastyGames18522862;dreamwalker.HighScore;HighScore;class;2;35;1;0;0;13;4;207
+ToastyGames18522862;dreamwalker.Floor;Floor;class;2;20;1;0;70;16;34;269
+ToastyGames18522862;dreamwalker.JFrameDreamWalker;JFrameDreamWalker;class;14;216;6;0;124;20;56;794
+ToastyGames18522862;dreamwalker.FireBall;FireBall;class;2;19;2;0;52;17;9;180
+ToastyGames18522862;dreamwalker.Fox;Fox;class;2;44;2;0;251;30;7;296
+ToastyGames18522862;dreamwalker.Trophies;Trophies;class;4;16;1;0;15;7;4;91
+ToastyGames18522862;dreamwalker.Instructions;Instructions;class;2;15;1;0;15;7;5;81
+ToastyGames18522862;dreamwalker.Animacion;Animacion;class;1;28;1;0;12;17;6;187
+ToastyGames18522862;dreamwalker.SoundClip;SoundClip;class;0;23;1;0;37;14;5;169

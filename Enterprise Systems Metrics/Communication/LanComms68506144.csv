@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+LanComms68506144;Server;Server;class;5;53;1;0;4;2;10;210;
+LanComms68506144;ConnectedUser;ConnectedUser;class;0;2;1;0;1;2;4;22;
+LanComms68506144;ApplicationUsersDB;ApplicationUsersDB;class;0;18;1;0;15;6;3;95;
+LanComms68506144;MessageClass;MessageClass;class;1;6;1;0;15;6;5;29;
+LanComms68506144;BackUPChat;BackUPChat;class;2;6;1;0;3;3;3;53;
+LanComms68506144;ServerRead;ServerRead;class;3;20;2;0;1;2;7;83;
+LanComms68506144;retrieveChat;retrieveChat;class;4;12;1;0;3;3;5;60;
+LanComms68506144;UserGUI;UserGUI;class;36;170;2;0;845;20;27;948;

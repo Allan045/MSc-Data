@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Technical-Analysis-of-Stocks15693498;Day;Day;class;0;15;1;0;77;14;3;64
+Technical-Analysis-of-Stocks15693498;StocksList;StocksList;class;1;2;1;0;0;2;1;98
+Technical-Analysis-of-Stocks15693498;Driver;Driver;class;9;247;2;0;305;47;59;1119
+Technical-Analysis-of-Stocks15693498;Stock;Stock;class;1;4;1;0;2;4;2;21
+Technical-Analysis-of-Stocks15693498;SolutionHistory;SolutionHistory;class;1;2;1;0;0;2;3;17
+Technical-Analysis-of-Stocks15693498;AdaptiveStrategy;AdaptiveStrategy;class;7;172;1;0;22;17;13;601
+Technical-Analysis-of-Stocks15693498;Downloader;Downloader;class;2;8;1;0;0;2;7;65
+Technical-Analysis-of-Stocks15693498;DayAccount;DayAccount;class;0;20;1;0;154;20;5;72
+Technical-Analysis-of-Stocks15693498;Portfolio;Portfolio;class;6;77;1;0;341;34;11;400
+Technical-Analysis-of-Stocks15693498;PMSolution;PMSolution;class;0;2;1;0;0;2;2;17
+Technical-Analysis-of-Stocks15693498;Parser;Parser;class;1;13;1;0;0;1;2;64
+Technical-Analysis-of-Stocks15693498;DVS;DVS;class;0;10;1;0;3;10;4;44
+Technical-Analysis-of-Stocks15693498;DayInt;DayInt;interface;0;14;1;0;91;14;0;23
+Technical-Analysis-of-Stocks15693498;Strategy;Strategy;class;5;156;1;0;101;23;21;532

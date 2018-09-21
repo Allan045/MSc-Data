@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+MComm14033813;simulatepath.RandomDistribute;RandomDistribute;class;1;11;1;0;0;1;0;29;
+MComm14033813;simulatepath.Active;Active;class;5;147;5;0;40;11;25;533;
+MComm14033813;simulatepath.Distribution;Distribution;class;2;15;1;0;0;1;0;54;
+MComm14033813;simulatepath.Molecule;Molecule;class;3;26;1;0;146;21;9;101;
+MComm14033813;simulatepath.Collision;Collision;class;5;173;5;0;27;11;26;604;
+MComm14033813;simulatepath.Collision_v0;Collision_v0;class;5;149;5;0;23;10;25;534;
+MComm14033813;simulatepath.MicroTubule;MicroTubule;class;1;6;1;0;9;6;3;24;
+MComm14033813;simulatepath.Position;Position;class;1;9;1;0;18;9;3;35;

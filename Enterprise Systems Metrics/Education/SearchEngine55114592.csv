@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SearchEngine55114592;data.WordOccurencePerURL;WordOccurencePerURL;class;0;8;1;0;0;8;3;35;
+SearchEngine55114592;util.SegmentCreator;SegmentCreator;class;1;15;1;0;1;2;0;59;
+SearchEngine55114592;util.SegmentParser;SegmentParser;class;2;36;1;0;3;3;0;105;
+SearchEngine55114592;util.WordCount;WordCount;class;19;38;3;0;4;4;1;146;
+SearchEngine55114592;util.CopyOfSegmentParser;CopyOfSegmentParser;class;2;43;1;0;3;3;0;122;
+SearchEngine55114592;database.DatabaseHelper;DatabaseHelper;class;0;27;1;0;45;10;0;212;
+SearchEngine55114592;data.DataProvider;DataProvider;class;0;1;1;0;0;1;0;34;
+SearchEngine55114592;ru.search.FindUrls;FindUrls;class;1;1;1;0;0;1;0;14;
+SearchEngine55114592;ru.search.SimpleServlet;SimpleServlet;class;6;11;2;0;3;3;1;88;
+SearchEngine55114592;util.DataSchema;DataSchema;class;2;20;1;0;3;3;4;100;
+SearchEngine55114592;util.Test;Test;class;5;39;1;0;0;13;4;251;
+SearchEngine55114592;ru.search.spell;spell;class;0;4;1;0;1;2;0;26;
+SearchEngine55114592;util.Test_MT;Test_MT;class;5;36;1;0;0;13;5;240;

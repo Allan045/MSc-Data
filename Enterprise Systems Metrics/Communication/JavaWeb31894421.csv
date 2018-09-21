@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+JavaWeb31894421;com.thirdyearjavamaps.classes.User;User;class;6;44;1;0;330;32;9;218;
+JavaWeb31894421;com.thirdyearjavamaps.classes.History;History;class;0;10;1;0;35;10;5;38;
+JavaWeb31894421;com.thirdyearjavamaps.classes.DB;DB;class;3;92;1;0;153;39;6;584;
+JavaWeb31894421;com.thirdyearjavamaps.classes.Map;Map;class;0;4;1;0;4;4;2;17;
+JavaWeb31894421;com.thirdyearjavamaps.classes.UtilityTools;UtilityTools;class;6;14;1;0;1;2;5;81;
+JavaWeb31894421;com.thirdyearjavamaps.classes.Apartment;Apartment;class;0;51;1;0;1005;51;24;233;
+JavaWeb31894421;com.thirdyearjavamaps.servlets.Maps;Maps;class;4;3;2;0;3;3;1;33;
+JavaWeb31894421;com.thirdyearjavamaps.servlets.Api;Api;class;12;116;2;0;10;5;1;553;

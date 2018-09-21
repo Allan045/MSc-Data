@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+JAVA-SWING-GAMES79084348;data.CarGame1;CarGame1;class;2;46;3;0;4;5;2;136
+JAVA-SWING-GAMES79084348;data.GameLauncher;GameLauncher;class;3;59;2;0;87;11;8;400
+JAVA-SWING-GAMES79084348;data.Image_data;Image_data;class;0;8;1;0;0;1;56;144
+JAVA-SWING-GAMES79084348;data.ShooterGame1;ShooterGame1;class;2;142;3;0;48;9;8;502
+JAVA-SWING-GAMES79084348;data.BrickGame1;BrickGame1;class;2;95;3;0;0;7;4;315
+JAVA-SWING-GAMES79084348;data.Engine;Engine;class;3;37;7;1;43;8;8;214

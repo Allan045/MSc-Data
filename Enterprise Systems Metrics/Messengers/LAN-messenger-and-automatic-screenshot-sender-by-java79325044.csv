@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.main.Upload;Upload;class;1;13;1;0;0;2;6;46
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.sound.Sound;Sound;class;1;5;2;0;0;1;1;43
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;serverMain.ServerWindow;ServerWindow;class;2;11;6;0;6;3;6;115
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;serverMain.MainServer;MainServer;class;5;66;2;0;2;16;13;238
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.main.ConnectionMessage;ConnectionMessage;class;0;2;1;0;0;2;2;17
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.sound.ChatingTime;ChatingTime;class;0;2;1;0;0;2;1;18
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.window.Background;Background;class;4;25;10;0;52;7;23;339
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;serverMain.Download;Download;class;1;11;1;0;0;2;6;44
+LAN-messenger-and-automatic-screenshot-sender-by-java79325044;com.main.SocketClient;SocketClient;class;5;42;1;0;2;4;10;141

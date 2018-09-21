@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Hunger-Games42804577;Enemy;Enemy;class;4;65;5;0;0;9;4;126
+Hunger-Games42804577;SoundDriver;SoundDriver;class;0;9;1;0;0;5;2;47
+Hunger-Games42804577;Food;Food;class;1;2;5;0;0;2;1;21
+Hunger-Games42804577;Player2;Player2;class;2;23;5;0;0;5;3;54
+Hunger-Games42804577;Element;Element;class;0;14;4;4;14;8;4;57
+Hunger-Games42804577;Bullet;Bullet;class;1;1;5;0;0;1;0;15
+Hunger-Games42804577;HungerGames;HungerGames;class;1;1;1;0;0;1;0;20
+Hunger-Games42804577;Player;Player;class;2;24;5;0;1;6;3;57
+Hunger-Games42804577;TimerDriverV2;TimerDriverV2;class;0;7;2;0;0;7;2;48
+Hunger-Games42804577;GameComp;GameComp;class;8;361;2;0;0;13;22;964

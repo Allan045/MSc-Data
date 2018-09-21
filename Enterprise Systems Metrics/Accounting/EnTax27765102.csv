@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+EnTax27765102;tax.NewMonthPrompt;NewMonthPrompt;class;4;26;6;0;34;6;5;166
+EnTax27765102;tax.OpenMonthPrompt;OpenMonthPrompt;class;3;12;6;0;17;5;5;110
+EnTax27765102;tax.TabPolicy;TabPolicy;class;0;8;2;0;0;6;1;46
+EnTax27765102;tax.YearChooserPrompt;YearChooserPrompt;class;3;20;6;0;19;5;5;128
+EnTax27765102;tax.HelpForm;HelpForm;class;13;85;6;0;104;10;8;502
+EnTax27765102;tax.Util;Util;class;1;29;1;0;36;7;5;201
+EnTax27765102;tax.AliasPrompt;AliasPrompt;class;3;13;6;0;22;5;10;127
+EnTax27765102;tax.AboutForm;AboutForm;class;3;5;6;0;6;3;6;88
+EnTax27765102;tax.Completed;Completed;class;3;5;6;0;6;3;3;67
+EnTax27765102;tax.Printer;Printer;class;14;7;1;0;3;3;0;123
+EnTax27765102;tax.Tax;Tax;class;2;4;1;0;3;1;0;39
+EnTax27765102;Testing.AddingNameTest;AddingNameTest;class;0;0;1;0;0;0;0;15
+EnTax27765102;tax.MainForm;MainForm;class;14;259;6;0;4243;50;66;1373
+EnTax27765102;tax.Receipt;Receipt;class;0;9;1;0;12;9;4;46

@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+felix-eclipse32113712;au.com.forge.eclipse.pde.impl.ApacheFelixLaunchInitializer;ApacheFelixLaunchInitializer;class;2;1;2;0;0;1;0;40
+felix-eclipse32113712;au.com.forge.eclipse.osgi.urlhandler.impl.EclipseProjectURLHandler;EclipseProjectURLHandler;class;6;77;3;0;49;10;5;324
+felix-eclipse32113712;au.com.forge.eclipse.osgi.urlhandler.impl.EclipseProjectToOSGiBundleBuilder;EclipseProjectToOSGiBundleBuilder;class;4;64;1;0;0;7;5;309
+felix-eclipse32113712;au.com.forge.felix.eclipse_pde_launcher.impl.EclipsePDEFelixLauncher;EclipsePDEFelixLauncher;class;10;31;1;0;43;9;3;255
+felix-eclipse32113712;au.com.forge.eclipse.pde.impl.ApacheFelixLaunchConfiguration;ApacheFelixLaunchConfiguration;class;13;90;2;0;115;18;10;651
+felix-eclipse32113712;au.com.forge.eclipse.osgi.urlhandler.impl.EPURLHandlerActivator;EPURLHandlerActivator;class;5;2;1;0;0;2;2;64
+felix-eclipse32113712;au.com.forge.eclipse.osgi.autoupdater.impl.EclipseProjectURLAutoUpdater;EclipseProjectURLAutoUpdater;class;3;5;1;0;1;2;0;44

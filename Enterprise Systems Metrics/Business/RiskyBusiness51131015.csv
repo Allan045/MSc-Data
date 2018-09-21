@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+RiskyBusiness51131015;MapPanel;MapPanel;class;2;14;5;0;4;4;15;128
+RiskyBusiness51131015;GameData;GameData;class;1;1;1;0;0;1;19;81
+RiskyBusiness51131015;Parse;Parse;class;1;55;1;0;26;13;4;151
+RiskyBusiness51131015;Deck;Deck;class;2;12;1;0;0;5;14;71
+RiskyBusiness51131015;RiskyBusiness;RiskyBusiness;class;5;410;1;0;0;22;13;1058
+RiskyBusiness51131015;Card;Card;class;0;6;1;0;7;6;4;28
+RiskyBusiness51131015;UI;UI;class;8;118;1;0;200;29;9;336
+RiskyBusiness51131015;CommandPanel;CommandPanel;class;1;5;5;0;1;2;4;44
+RiskyBusiness51131015;Bot;Bot;interface;0;8;1;0;28;8;0;10
+RiskyBusiness51131015;Player;Player;class;4;36;1;0;232;25;8;137
+RiskyBusiness51131015;Board;Board;class;4;56;1;0;56;17;6;174
+RiskyBusiness51131015;PlayerAPI;PlayerAPI;interface;2;10;1;0;45;10;0;13
+RiskyBusiness51131015;InfoPanel;InfoPanel;class;0;2;5;0;0;2;7;26
+RiskyBusiness51131015;Sprint5;Sprint5;class;6;48;1;0;0;1;0;202
+RiskyBusiness51131015;BoardAPI;BoardAPI;interface;0;7;1;0;21;7;0;9

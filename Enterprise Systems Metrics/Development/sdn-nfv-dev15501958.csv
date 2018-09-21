@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+sdn-nfv-dev15501958;net.floodlightcontroller.pktinhistory.PktInHistoryResource;PktInHistoryResource;class;4;1;2;0;0;1;0;20;
+sdn-nfv-dev15501958;net.onrc.openvirtex.api.service.handlers.monitoring.GetPhysicalPort;GetPhysicalPort;class;8;13;2;0;6;4;1;116;
+sdn-nfv-dev15501958;net.onrc.openvirtex.messages.OVXFlowRemoved;OVXFlowRemoved;class;8;11;2;0;4;4;1;92;
+sdn-nfv-dev15501958;net.onrc.openvirtex.elements.datapath.PhysicalSwitch;PhysicalSwitch;class;27;62;2;0;296;28;7;321;
+sdn-nfv-dev15501958;net.floodlightcontroller.core.web.serializers.OFSwitchImplJSONSerializer;OFSwitchImplJSONSerializer;class;6;2;2;0;1;2;0;28;
+sdn-nfv-dev15501958;net.onrc.openvirtex.api.service.handlers.MonitoringHandler;MonitoringHandler;class;21;10;2;0;0;2;5;105;
+sdn-nfv-dev15501958;net.floodlightcontroller.pktinhistory.PktInHistoryWebRoutable;PktInHistoryWebRoutable;class;6;2;1;0;1;2;0;21;
+sdn-nfv-dev15501958;net.floodlightcontroller.pktinhistory.IPktinHistoryService;IPktinHistoryService;interface;3;1;1;0;0;1;0;6;
+sdn-nfv-dev15501958;net.onrc.openvirtex.core.cmd.CmdLineSettings;CmdLineSettings;class;1;10;1;0;45;10;20;167;
+sdn-nfv-dev15501958;net.onrc.openvirtex.api.service.handlers.monitoring.GetPhysicalFlowtable;GetPhysicalFlowtable;class;11;15;2;0;6;4;1;109;
+sdn-nfv-dev15501958;net.floodlightcontroller.pktinhistory.PktInHistory;PktInHistory;class;19;11;1;0;37;10;3;105;
+sdn-nfv-dev15501958;net.floodlightcontroller.pktinhistory.ConcurrentCircularBuffer;ConcurrentCircularBuffer;class;1;13;1;0;0;3;3;70;
+sdn-nfv-dev15501958;net.floodlightcontroller.mactracker.MACTracker;MACTracker;class;14;11;1;0;32;9;3;111;
+sdn-nfv-dev15501958;net.onrc.openvirtex.messages.OVXFlowMod;OVXFlowMod;class;16;42;2;0;6;8;4;225;

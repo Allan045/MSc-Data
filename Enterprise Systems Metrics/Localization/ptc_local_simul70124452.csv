@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ptc_local_simul70124452;AffineObject;AffineObject;class;0;4;1;0;0;4;5;27
+ptc_local_simul70124452;RemoteSimul;RemoteSimul;class;9;159;3;0;70;20;40;579
+ptc_local_simul70124452;Wall;Wall;class;0;1;1;0;0;1;4;13
+ptc_local_simul70124452;RobotSimul;RobotSimul;class;8;114;2;0;25;14;27;435

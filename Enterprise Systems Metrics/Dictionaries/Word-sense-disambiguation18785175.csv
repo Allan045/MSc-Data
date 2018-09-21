@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Word-sense-disambiguation18785175;DiscountedCumulativeGain;DiscountedCumulativeGain;class;2;18;1;0;13;7;3;90
+Word-sense-disambiguation18785175;SupervisedWSD;SupervisedWSD;class;10;56;1;0;6;8;6;277
+Word-sense-disambiguation18785175;NaiveBayes;NaiveBayes;class;3;15;1;0;0;3;2;56
+Word-sense-disambiguation18785175;Stats;Stats;class;0;2;1;0;0;2;5;57
+Word-sense-disambiguation18785175;com.cornell.edu.DictionaryHash;DictionaryHash;class;13;98;1;0;39;10;9;573
+Word-sense-disambiguation18785175;com.cornell.edu.dict;dict;class;1;2;1;0;0;1;0;19
+Word-sense-disambiguation18785175;SenseContext;SenseContext;class;1;0;1;0;0;0;3;6
+Word-sense-disambiguation18785175;com.cornell.edu.WordSense;WordSense;class;3;11;1;0;0;5;2;43

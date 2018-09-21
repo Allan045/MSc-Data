@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.WebConnector;WebConnector;class;15;67;2;0;184;24;40;394;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestClassLoaderService;TestClassLoaderService;class;3;1;2;0;0;1;0;11;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestSwaggerService;TestSwaggerService;class;10;8;2;0;9;6;1;50;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestVersionService;TestVersionService;class;9;3;2;0;3;3;0;30;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.util.NameLock;NameLock;class;0;5;1;0;0;3;1;37;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.WebConnectorTest;WebConnectorTest;class;18;38;1;0;0;18;13;413;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.client.ClientResponse;ClientResponse;class;0;7;1;0;11;7;3;30;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.WebConnectorServiceInfoTest;WebConnectorServiceInfoTest;class;13;7;1;0;0;3;13;132;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.client.MiniClient;MiniClient;class;1;25;1;0;6;5;2;156;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestSecurityContextService;TestSecurityContextService;class;12;7;2;0;10;5;0;53;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestService;TestService;class;12;10;2;0;28;8;0;71;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.WebConnectorRequestHandler;WebConnectorRequestHandler;class;35;135;1;0;17;22;8;600;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.classLoaderTest.TestResource;TestResource;class;2;1;1;0;0;1;0;11;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestMissingPathService;TestMissingPathService;class;1;1;2;0;0;1;0;8;
+las2peer-WebConnector16691813;i5.las2peer.webConnector.services.TestDeepPathService;TestDeepPathService;class;7;3;2;0;3;3;0;27;

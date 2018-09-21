@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.HangmanGameTest;HangmanGameTest;class;2;11;1;0;36;9;0;149
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.HangmanGame;HangmanGame;class;2;33;1;0;0;10;4;120
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.AlreadyTriedException;AlreadyTriedException;class;0;1;3;0;0;1;0;10
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.WordList;WordList;class;1;8;1;0;4;4;1;59
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.GUIMain;GUIMain;class;2;3;1;0;0;1;1;28
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.HangmanCLI;HangmanCLI;class;3;17;1;0;0;4;4;87
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.HangmanGUI;HangmanGUI;class;21;117;12;0;127;24;33;795
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.HangmanInterface;HangmanInterface;interface;0;1;1;0;0;1;0;7
+cs56-games-hangman10365900;edu.ucsb.cs56.projects.games.hangman.CLIMain;CLIMain;class;2;3;1;0;0;1;1;27

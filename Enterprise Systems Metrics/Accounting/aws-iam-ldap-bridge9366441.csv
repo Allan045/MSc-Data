@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+aws-iam-ldap-bridge9366441;com.denismo.apacheds.ApacheDSUtils;ApacheDSUtils;class;16;16;1;0;1;7;2;118
+aws-iam-ldap-bridge9366441;com.denismo.apacheds.Runner;Runner;class;30;39;1;0;21;11;5;269
+aws-iam-ldap-bridge9366441;com.denismo.apacheds.auth.AWSIAMAuthenticator;AWSIAMAuthenticator;class;23;37;2;0;0;11;12;168
+aws-iam-ldap-bridge9366441;com.denismo.aws.iam.IAMDualValidator;IAMDualValidator;class;6;5;1;0;0;2;2;29
+aws-iam-ldap-bridge9366441;com.denismo.aws.iam.IAMAccountPasswordValidator;IAMAccountPasswordValidator;class;13;9;1;0;1;2;1;88
+aws-iam-ldap-bridge9366441;com.denismo.aws.iam.IAMSecretKeyValidator;IAMSecretKeyValidator;class;10;8;1;0;1;2;1;64
+aws-iam-ldap-bridge9366441;com.denismo.aws.iam.LDAPIAMPoller;LDAPIAMPoller;class;43;148;1;0;0;31;20;646
+aws-iam-ldap-bridge9366441;com.denismo.aws.iam._IAMPasswordValidator;_IAMPasswordValidator;interface;1;1;1;0;0;1;0;29

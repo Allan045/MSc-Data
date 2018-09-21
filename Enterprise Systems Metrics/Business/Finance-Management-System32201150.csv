@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Finance-Management-System32201150;business.DBConnection;DBConnection;class;0;2;1;0;0;1;1;25
+Finance-Management-System32201150;business.Login;Login;class;3;25;6;0;53;7;11;230
+Finance-Management-System32201150;business.Home;Home;class;3;30;6;0;53;7;19;307
+Finance-Management-System32201150;business.saleProduct;saleProduct;class;3;13;6;0;15;4;17;258
+Finance-Management-System32201150;business.AddProduct;AddProduct;class;4;55;6;0;180;12;32;613

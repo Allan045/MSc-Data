@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CasinoProject70548696;mundo.Casilla;Casilla;class;0;11;1;0;5;7;5;54
+CasinoProject70548696;interfaz.PanelRuleta;PanelRuleta;class;1;87;5;0;0;3;33;439
+CasinoProject70548696;mundo.BaccaratMundo;BaccaratMundo;class;1;51;1;0;6;4;1;166
+CasinoProject70548696;interfaz.PanelBacara;PanelBacara;class;1;1;5;0;0;1;1;13
+CasinoProject70548696;interfaz.CasinoInterfaz;CasinoInterfaz;class;5;2;6;0;1;2;4;30
+CasinoProject70548696;mundo.RuletaMundo;RuletaMundo;class;1;276;1;0;514;40;60;1090

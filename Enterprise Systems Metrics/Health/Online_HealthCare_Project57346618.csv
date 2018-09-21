@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Online_HealthCare_Project57346618;com.ajax.ComposerData;ComposerData;class;6;5;1;0;0;2;1;58;
+Online_HealthCare_Project57346618;Pharmacy1;Pharmacy1;class;3;4;2;0;0;1;0;85;
+Online_HealthCare_Project57346618;signup;signup;class;9;21;2;0;0;1;0;120;
+Online_HealthCare_Project57346618;LoginValidate;LoginValidate;class;10;7;2;0;0;1;0;67;
+Online_HealthCare_Project57346618;Logout;Logout;class;4;1;2;0;0;1;0;29;
+Online_HealthCare_Project57346618;addMedicine;addMedicine;class;7;1;2;0;0;1;0;46;
+Online_HealthCare_Project57346618;FetchPatientPrescriptions;FetchPatientPrescriptions;class;10;12;2;0;1;3;2;89;
+Online_HealthCare_Project57346618;NewPatient;NewPatient;class;10;4;2;0;0;1;0;85;
+Online_HealthCare_Project57346618;Numbers;Numbers;class;1;2;2;0;0;2;1;25;
+Online_HealthCare_Project57346618;deletePharmacy;deletePharmacy;class;3;4;2;0;0;1;0;52;
+Online_HealthCare_Project57346618;com.ajax.Composer;Composer;class;0;5;1;0;2;5;4;25;
+Online_HealthCare_Project57346618;FetchPatientDetails;FetchPatientDetails;class;10;16;2;0;1;3;2;124;
+Online_HealthCare_Project57346618;UpdatePatientPrescriptions;UpdatePatientPrescriptions;class;10;6;2;0;0;1;0;111;
+Online_HealthCare_Project57346618;addPharmacy;addPharmacy;class;7;1;2;0;0;1;0;46;
+Online_HealthCare_Project57346618;com.ajax.AutoCompleteServlet;AutoCompleteServlet;class;7;21;2;0;0;2;3;95;

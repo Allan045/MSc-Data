@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Online-Time-Table-Generation35116515;Bean.Classroom;Classroom;class;0;6;1;0;9;6;3;33
+Online-Time-Table-Generation35116515;Bean.LecturerHasCourse;LecturerHasCourse;class;0;8;1;0;20;8;4;41
+Online-Time-Table-Generation35116515;Model.DepartmenthasCourseDAO;DepartmenthasCourseDAO;class;2;19;1;0;6;4;0;125
+Online-Time-Table-Generation35116515;Model.LecturerHasCourseDAO;LecturerHasCourseDAO;class;2;5;1;0;0;1;0;129
+Online-Time-Table-Generation35116515;Bean.Course;Course;class;0;6;1;0;9;6;3;33
+Online-Time-Table-Generation35116515;controller.TimeTableServlet;TimeTableServlet;class;19;174;2;0;0;24;2;929
+Online-Time-Table-Generation35116515;Model.FacultyDAO;FacultyDAO;class;3;38;1;0;21;7;0;211
+Online-Time-Table-Generation35116515;Utilities.DataManager;DataManager;class;2;18;1;0;85;14;3;81
+Online-Time-Table-Generation35116515;Bean.Department;Department;class;0;8;1;0;20;8;4;40
+Online-Time-Table-Generation35116515;Bean.DepartmentHasCourse;DepartmentHasCourse;class;0;4;1;0;2;4;2;26
+Online-Time-Table-Generation35116515;Model.ClassroomDAO;ClassroomDAO;class;3;26;1;0;10;5;0;138
+Online-Time-Table-Generation35116515;Bean.Faculty;Faculty;class;0;6;1;0;9;6;3;34
+Online-Time-Table-Generation35116515;Model.DepartmentDAO;DepartmentDAO;class;3;39;1;0;21;7;0;210
+Online-Time-Table-Generation35116515;Bean.Lecturer;Lecturer;class;0;14;1;0;77;14;7;61
+Online-Time-Table-Generation35116515;Model.CourseDAO;CourseDAO;class;3;49;1;0;36;9;0;291
+Online-Time-Table-Generation35116515;Model.LecturerDAO;LecturerDAO;class;4;68;1;0;66;12;0;367

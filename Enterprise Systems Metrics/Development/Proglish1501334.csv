@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Proglish1501334;Core.Proglish;Proglish;class;14;158;1;0;1891;61;14;1093;
+Proglish1501334;Core.TaggablePattern;TaggablePattern;class;3;121;1;0;109;23;6;319;
+Proglish1501334;Core.Tester;Tester;class;1;1;1;0;0;1;0;52;
+Proglish1501334;Fact;Fact;class;2;3;2;0;1;3;2;16;
+Proglish1501334;Relay;Relay;class;4;5;2;0;0;5;3;24;
+Proglish1501334;Core.Quantity;Quantity;class;0;2;1;0;0;2;2;18;
+Proglish1501334;Thing;Thing;class;3;15;2;0;0;9;3;64;
+Proglish1501334;Core.PatternRule;PatternRule;class;3;25;1;0;0;8;3;102;
+Proglish1501334;PNumber;PNumber;class;2;74;1;0;34;32;5;274;
+Proglish1501334;Everything;Everything;class;2;9;1;3;0;4;2;31;
+Proglish1501334;FileStringReader;FileStringReader;class;0;6;1;0;0;3;2;48;
+Proglish1501334;Core.Blank;Blank;class;2;39;1;0;0;14;6;133;
+Proglish1501334;Core.ProglishParser;ProglishParser;class;4;22;1;0;13;6;13;141;
+Proglish1501334;Core.Date;Date;class;0;7;1;0;0;7;6;44;
+Proglish1501334;inheritanceStopEvaluator;inheritanceStopEvaluator;class;7;5;1;0;0;2;2;45;

@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ComputerGames_CentBebop6712497;MusicKeyboard;MusicKeyboard;class;2;11;1;0;6;4;2;45
+ComputerGames_CentBebop6712497;Piece;Piece;class;4;30;1;1;231;22;17;172
+ComputerGames_CentBebop6712497;MidiSynth;MidiSynth;class;1;28;1;0;78;13;2;71
+ComputerGames_CentBebop6712497;BufferedApplet;BufferedApplet;class;0;18;5;1;0;6;6;60
+ComputerGames_CentBebop6712497;ImageBuffer;ImageBuffer;class;1;7;1;0;1;3;2;52
+ComputerGames_CentBebop6712497;HW3;HW3;class;5;107;7;0;20;17;15;424
+ComputerGames_CentBebop6712497;TextIO;TextIO;class;1;17;1;0;9;7;1;60
+ComputerGames_CentBebop6712497;GamePlatform;GamePlatform;class;4;137;6;2;621;39;28;489
+ComputerGames_CentBebop6712497;RectPiece;RectPiece;class;2;1;2;1;0;1;0;18
+ComputerGames_CentBebop6712497;CollisionDetector;CollisionDetector;class;1;10;1;0;1;2;0;30
+ComputerGames_CentBebop6712497;HW3_1;HW3_1;class;3;19;7;0;0;5;6;117
+ComputerGames_CentBebop6712497;RigidRectPiece;RigidRectPiece;class;2;2;3;0;1;2;2;17
+ComputerGames_CentBebop6712497;Tank;Tank;class;5;24;1;0;2;8;17;100
+ComputerGames_CentBebop6712497;DiskPiece;DiskPiece;class;2;2;2;0;0;1;0;15
+ComputerGames_CentBebop6712497;Bullet;Bullet;class;4;26;3;0;27;14;8;96

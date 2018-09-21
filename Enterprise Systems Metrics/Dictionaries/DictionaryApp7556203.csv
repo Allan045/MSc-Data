@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DictionaryApp7556203;com.naren.register.LogInBean;LogInBean;class;0;15;1;0;0;5;2;47
+DictionaryApp7556203;com.naren.register.JDBCHelper;JDBCHelper;class;0;15;1;0;6;4;0;69
+DictionaryApp7556203;com.naren.register.Model;Model;class;4;76;1;0;0;10;2;655
+DictionaryApp7556203;com.naren.register.RegBean;RegBean;class;0;19;1;0;3;7;1;63
+DictionaryApp7556203;com.naren.register.Constants;Constants;interface;0;0;1;0;0;0;7;10
+DictionaryApp7556203;com.naren.register.DictNameBean;DictNameBean;class;0;9;1;0;11;7;1;38
+DictionaryApp7556203;com.naren.register.ControllerServlet;ControllerServlet;class;10;40;2;0;6;4;1;237
+DictionaryApp7556203;com.naren.register.AddWordBean;AddWordBean;class;0;17;1;0;16;9;1;53

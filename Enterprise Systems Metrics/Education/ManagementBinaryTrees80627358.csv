@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.view.DialogWindow;DialogWindow;class;0;6;6;0;5;6;5;78;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.view.View;View;class;4;11;6;0;9;11;4;183;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.BinaryLinkedListTest;BinaryLinkedListTest;class;4;6;1;0;15;6;0;77;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.Load;Load;class;2;6;1;0;0;2;2;50;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.Save;Save;class;4;2;1;0;0;1;2;46;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.SinglyLinkedList;SinglyLinkedList;class;7;23;1;0;77;15;4;155;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.Main;Main;class;2;1;1;0;0;1;0;31;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.data.NodeData;NodeData;class;0;6;1;0;0;4;1;46;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.Listlabel;Listlabel;interface;5;15;1;0;105;15;0;94;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.BinaryLinkedList;BinaryLinkedList;class;11;157;1;0;7;22;12;638;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.data.DrawnLines;DrawnLines;class;0;5;1;0;2;5;4;44;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.Controller;Controller;class;17;21;1;0;0;15;3;249;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.data.ViewPosition;ViewPosition;class;0;6;1;0;0;6;3;64;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.OrderBy;OrderBy;enum;0;0;1;0;0;0;0;13;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.view.NodePanel;NodePanel;class;6;9;5;0;0;6;4;118;
+ManagementBinaryTrees80627358;com.linuxluigi.edu.list.PrevNodeDirection;PrevNodeDirection;enum;0;0;1;0;0;0;0;16;

@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SignalMatcher25442229;main.SimpleMP3;SimpleMP3;class;2;5;2;0;0;5;1;69;
+SignalMatcher25442229;main.FragmentMatcher;FragmentMatcher;class;1;3;1;0;0;3;1;23;
+SignalMatcher25442229;TestClass;TestClass;class;4;7;1;0;0;1;0;65;
+SignalMatcher25442229;main.LAME;LAME;class;0;2;1;0;0;1;0;41;
+SignalMatcher25442229;main.FilesCreator;FilesCreator;class;3;22;1;0;10;5;0;102;
+SignalMatcher25442229;SimpleWav;SimpleWav;class;2;19;1;0;14;9;11;145;
+SignalMatcher25442229;Wav;Wav;class;2;16;1;0;6;8;11;133;
+SignalMatcher25442229;main.Fragment;Fragment;class;2;15;1;0;0;5;2;51;
+SignalMatcher25442229;main.MusicFile;MusicFile;class;1;14;1;2;12;8;2;91;
+SignalMatcher25442229;main.SignalMatcher;SignalMatcher;class;2;21;1;0;3;3;0;109;
+SignalMatcher25442229;main.SimpleSpectrogramImage;SimpleSpectrogramImage;class;3;26;1;0;20;9;10;215;
+SignalMatcher25442229;main.FingerPrint;FingerPrint;class;2;14;1;0;25;11;5;94;
+SignalMatcher25442229;main.SimpleWav;SimpleWav;class;3;24;2;0;33;11;8;213;
+SignalMatcher25442229;main.Utils;Utils;class;0;2;1;0;1;2;0;9;
+SignalMatcher25442229;main.SpectrogramImage;SpectrogramImage;class;2;30;1;0;6;5;7;208;

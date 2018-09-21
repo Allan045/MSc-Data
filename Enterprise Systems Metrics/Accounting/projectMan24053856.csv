@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Location;Location;class;7;24;1;0;1;11;4;79
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.widgets.EventProvider;EventProvider;class;6;9;1;0;1;3;1;35
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Money;Money;class;2;4;1;0;0;4;1;23
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.widgets.CalendarWidget;CalendarWidget;class;10;5;2;0;0;3;4;65
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Event;Event;class;16;36;1;0;111;23;10;152
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Organization;Organization;class;10;28;1;0;13;15;6;103
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.widgets.EventBuilderWidget;EventBuilderWidget;class;19;9;2;0;18;9;20;265
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.SubCategory;SubCategory;class;14;36;1;0;10;16;7;118
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.widgets.CustomCalendarEvent;CustomCalendarEvent;class;2;14;1;0;61;14;1;63
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Contact;Contact;class;7;35;1;0;9;15;6;103
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Expense;Expense;class;15;45;1;0;216;25;11;162
+projectMan24053856;it.uniroma3.catenate.ExpenseManagerApp.model.Category;Category;class;9;26;1;0;18;13;5;92

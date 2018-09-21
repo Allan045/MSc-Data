@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+dict74821007;dbc;dbc;class;1;24;1;0;0;8;13;167
+dict74821007;WordCard;WordCard;class;0;23;6;0;22;8;17;294
+dict74821007;loginPanel;loginPanel;class;3;75;10;0;15;6;24;419
+dict74821007;getPage;getPage;class;0;17;2;0;0;4;4;115
+dict74821007;transPanel;transPanel;class;0;16;5;0;6;2;4;194
+dict74821007;Client;Client;class;4;78;1;0;6;10;16;377
+dict74821007;Server;Server;class;6;80;6;0;0;13;19;421
+dict74821007;Dict;Dict;class;9;60;7;0;10;7;26;432

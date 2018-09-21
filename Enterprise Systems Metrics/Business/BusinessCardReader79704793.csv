@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BusinessCardReader79704793;servlets.DisplayPicture;DisplayPicture;class;3;7;2;0;1;2;0;53
+BusinessCardReader79704793;storage.Index;Index;class;10;27;1;0;0;10;5;156
+BusinessCardReader79704793;servlets.ShowHomePage;ShowHomePage;class;3;1;2;0;0;1;0;13
+BusinessCardReader79704793;storage.Storage;Storage;class;9;49;1;0;144;21;15;222
+BusinessCardReader79704793;storage.AutoValue_Word;AutoValue_Word;class;4;25;3;0;0;11;4;90
+BusinessCardReader79704793;storage.TextApp;TextApp;class;17;21;1;0;5;7;5;184
+BusinessCardReader79704793;storage.AutoValue_ImageText;AutoValue_ImageText;class;6;29;3;0;0;13;6;115
+BusinessCardReader79704793;storage.Database;Database;class;1;28;1;0;0;8;1;58
+BusinessCardReader79704793;storage.Word;Word;class;3;6;1;0;15;6;0;20
+BusinessCardReader79704793;servlets.UploadPicture;UploadPicture;class;11;18;2;0;3;3;2;160
+BusinessCardReader79704793;storage.ImageText;ImageText;class;6;8;1;0;28;8;0;27

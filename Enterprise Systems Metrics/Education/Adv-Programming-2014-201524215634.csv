@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.redundancy.Hexagon;Hexagon;class;0;4;1;0;6;4;0;30;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.redundancy.Lantern;Lantern;class;0;5;1;0;10;5;0;25;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.staticPicture.IPhone;IPhone;class;1;5;1;0;0;1;0;61;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.staticPicture.bus;bus;class;1;3;1;0;0;1;1;27;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.redundancy.RocketShip;RocketShip;class;0;7;1;0;10;5;0;34;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.staticPicture.BasicStairs;BasicStairs;class;1;2;1;0;0;1;0;16;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.staticPicture.Colors;Colors;class;0;0;1;0;0;0;6;10;
+Adv-Programming-2014-201524215634;com.jhilden13.AdvProgramming20142015.redundancy.Spikey;Spikey;class;0;1;1;0;0;1;0;6;
+Adv-Programming-2014-201524215634;com.jhilden13.utilities.DrawingPanel;DrawingPanel;class;13;523;12;0;10482;156;118;2667;

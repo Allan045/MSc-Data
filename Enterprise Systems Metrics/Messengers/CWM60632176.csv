@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CWM60632176;cwm.net.client.Connection;Connection;class;0;20;1;0;0;6;4;65
+CWM60632176;cwm.main.Main;Main;class;0;24;1;0;8;5;1;97
+CWM60632176;cwm.manager.IOManager;IOManager;class;0;20;1;0;43;11;7;104
+CWM60632176;cwm.manager.PropertyManager;PropertyManager;class;1;14;1;0;0;10;2;82
+CWM60632176;cwm.manager.CommunikationManager;CommunikationManager;class;2;33;1;0;6;9;1;100
+CWM60632176;cwm.manager.FileManager;FileManager;class;0;25;1;0;0;6;6;53
+CWM60632176;cwm.manager.CommandManager;CommandManager;class;2;9;1;0;0;7;1;86
+CWM60632176;cwm.cmd.Command;Command;class;2;26;1;0;18;8;4;75
+CWM60632176;cwm.cmd.CmdMethods;CmdMethods;class;2;82;1;0;300;25;0;301
+CWM60632176;cwm.cmd.Colors;Colors;class;0;0;1;0;0;0;18;21
+CWM60632176;cwm.cmd.Reaction;Reaction;interface;0;1;1;0;0;1;0;5
+CWM60632176;cwm.net.server.Hoster;Hoster;class;1;47;1;0;114;21;10;161
+CWM60632176;cwm.manager.GUIManager;GUIManager;class;1;4;6;0;3;2;1;27
+CWM60632176;cwm.manager.ThreadManager;ThreadManager;class;0;15;1;0;6;9;3;51
+CWM60632176;cwm.net.server.Client;Client;class;1;29;1;0;9;10;6;90

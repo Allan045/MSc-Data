@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+IS-Erle38032636;is.erle.captain.IsErleCaptainActivity;IsErleCaptainActivity;class;4;120;2;0;259;24;16;1430;
+IS-Erle38032636;is.erle.waypoint.generator.IsErleWaypointGeneratorActivity;IsErleWaypointGeneratorActivity;class;2;94;2;0;96;16;11;663;
+IS-Erle38032636;is.erle.mavlink.MinMaxPair;MinMaxPair;class;1;4;1;0;0;4;2;65;
+IS-Erle38032636;is.erle.comm.serial.IsErleCommSerialActivity;IsErleCommSerialActivity;class;6;16;2;0;60;10;8;253;
+IS-Erle38032636;is.erle.waypoint.processor.IsErleWaypointProcessorActivity;IsErleWaypointProcessorActivity;class;2;21;2;0;49;10;8;213;
+IS-Erle38032636;is.erle.mavlink.XMLParamParser;XMLParamParser;class;5;45;1;0;0;11;18;322;
+IS-Erle38032636;is.erle.comms.IsErleCommsActivity;IsErleCommsActivity;class;9;24;2;0;62;11;14;344;
+IS-Erle38032636;is.erle.mavlink.IsErleMavlinkActivity;IsErleMavlinkActivity;class;116;826;2;0;1909;85;34;7163;
+IS-Erle38032636;is.erle.mavlink.Point3D;Point3D;class;1;41;1;0;174;25;4;400;
+IS-Erle38032636;is.erle.lg.IsErleLgActivity;IsErleLgActivity;class;1;8;2;0;28;8;0;39;

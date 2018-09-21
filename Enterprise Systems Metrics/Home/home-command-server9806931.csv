@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+home-command-server9806931;com.annuletconsulting.homecommand.module.QuestionModule;QuestionModule;class;10;37;2;0;71;14;9;149;
+home-command-server9806931;com.annuletconsulting.homecommand.server.NonJavaUserModuleLoader;NonJavaUserModuleLoader;class;1;1;1;0;0;1;0;25;
+home-command-server9806931;com.annuletconsulting.homecommand.module.MathModule;MathModule;class;1;116;3;0;510;37;26;421;
+home-command-server9806931;com.annuletconsulting.homecommand.server.HomeComandProperties;HomeComandProperties;class;1;16;1;0;22;9;8;99;
+home-command-server9806931;com.annuletconsulting.homecommand.module.MultiStepModule;MultiStepModule;class;1;11;2;0;55;11;0;47;
+home-command-server9806931;com.annuletconsulting.homecommand.module.Module;Module;class;1;18;1;6;103;15;8;53;
+home-command-server9806931;com.annuletconsulting.homecommand.module.HueLightModule;HueLightModule;class;2;98;2;0;134;21;5;355;
+home-command-server9806931;com.annuletconsulting.homecommand.module.NonCopyrightInfringingGenericSpaceExplorationTVShowModule;NonCopyrightInfringingGenericSpaceExplorationTVShowModule;class;2;16;2;0;50;12;3;94;
+home-command-server9806931;com.annuletconsulting.homecommand.module.ZigBeeLightModule;ZigBeeLightModule;class;1;11;2;0;49;11;2;67;
+home-command-server9806931;com.annuletconsulting.homecommand.test.HueLightModuleTest;HueLightModuleTest;class;1;1;1;0;0;1;0;27;
+home-command-server9806931;com.annuletconsulting.homecommand.module.MusicModule;MusicModule;class;2;11;2;0;37;11;3;74;
+home-command-server9806931;com.annuletconsulting.homecommand.server.HomeCommand;HomeCommand;class;11;70;1;0;41;11;14;288;
+home-command-server9806931;com.annuletconsulting.homecommand.module.HelpModule;HelpModule;class;1;11;2;0;43;11;1;69;
+home-command-server9806931;com.annuletconsulting.homecommand.module.SetUpModule;SetUpModule;class;1;11;2;0;43;11;1;69;

@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+EvaluationsDatabase19049975;models.Course;Course;class;4;33;2;0;188;21;2;139;
+EvaluationsDatabase19049975;tests.models.TestArticle;TestArticle;class;6;10;1;0;45;10;0;100;
+EvaluationsDatabase19049975;models.Bean;Bean;class;0;3;1;4;3;3;2;9;
+EvaluationsDatabase19049975;tests.models.TestInstitution;TestInstitution;class;7;14;1;0;91;14;0;152;
+EvaluationsDatabase19049975;models.Article;Article;class;3;33;2;0;147;19;3;130;
+EvaluationsDatabase19049975;tests.models.TestBook;TestBook;class;6;10;1;0;45;10;0;120;
+EvaluationsDatabase19049975;models.Evaluation;Evaluation;class;3;99;2;0;774;41;14;255;
+EvaluationsDatabase19049975;models.GenericBeanDAO;GenericBeanDAO;class;7;56;2;0;91;14;0;226;
+EvaluationsDatabase19049975;models.Institution;Institution;class;4;33;2;0;188;21;2;139;
+EvaluationsDatabase19049975;libraries.DataBaseStructures;DataBaseStructures;class;1;9;2;0;0;9;1;91;
+EvaluationsDatabase19049975;models.Book;Book;class;3;45;2;0;225;23;5;157;
+EvaluationsDatabase19049975;tests.models.TestEvaluation;TestEvaluation;class;9;9;1;0;36;9;0;183;
+EvaluationsDatabase19049975;libraries.DataBaseConnection;DataBaseConnection;class;1;3;1;2;0;3;4;23;
+EvaluationsDatabase19049975;tests.models.TestCourse;TestCourse;class;7;14;1;0;91;14;0;146;

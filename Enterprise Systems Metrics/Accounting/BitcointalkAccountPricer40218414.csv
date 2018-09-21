@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.Config;Config;class;11;16;1;0;0;2;7;103
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.client.PricingService;PricingService;interface;3;2;1;0;1;2;0;28
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.PricingServiceImpl;PricingServiceImpl;class;11;36;2;0;0;4;5;230
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.Section;Section;class;0;8;1;0;1;6;4;56
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.shared.FieldVerifier;FieldVerifier;class;0;3;1;0;0;1;0;56
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.client.Bitcointalk_Account_Pricer;Bitcointalk_Account_Pricer;class;19;39;1;0;16;2;3;317
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.ProcessPricing;ProcessPricing;class;2;4;1;0;0;2;3;63
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.Address;Address;class;3;28;1;0;18;9;6;154
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.ActivityDetail;ActivityDetail;class;0;6;1;0;0;2;5;63
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.client.PricingServiceAsync;PricingServiceAsync;interface;4;2;1;0;1;2;0;26
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.AccountPricer;AccountPricer;class;8;135;1;0;9;6;7;597
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.shared.QueueRequest;QueueRequest;class;1;31;1;0;360;29;14;153
+BitcointalkAccountPricer40218414;com.achow101.bctalkaccountpricer.server.QueueRequestDB;QueueRequestDB;class;3;32;1;0;291;30;13;184

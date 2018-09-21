@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.NewJFrame;NewJFrame;class;35;544;11;0;1664;42;75;2886
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.Ranking;Ranking;class;2;12;6;0;11;3;4;95
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.ClassifiersFrame;ClassifiersFrame;class;2;14;6;0;11;3;4;110
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.MainWelcome;MainWelcome;class;2;31;6;0;153;10;5;185
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.LoginFrame;LoginFrame;class;2;36;6;0;45;6;9;247
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.Dataset;Dataset;class;9;17;1;0;6;12;4;82
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.Knn;Knn;class;3;92;1;0;0;1;5;253
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.DatasetsFrame;DatasetsFrame;class;3;19;6;0;11;3;9;203
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.DROCA;DROCA;class;1;1;1;0;0;1;3;9
+Dynamic-Ranking-of-Classification-Algorithms77361050;droca.Comparison;Comparison;class;2;14;6;0;11;3;4;100

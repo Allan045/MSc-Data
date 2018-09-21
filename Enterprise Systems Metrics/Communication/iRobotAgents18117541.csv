@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+iRobotAgents18117541;iRobotCreate.ScoreGoalTop;ScoreGoalTop;class;11;115;3;0;267;25;13;443;
+iRobotAgents18117541;RobotAgent;RobotAgent;class;7;16;2;0;21;6;0;131;
+iRobotAgents18117541;iRobotCreate.ScoreGoalBottom;ScoreGoalBottom;class;11;115;3;0;267;25;13;443;
+iRobotAgents18117541;iRobotCreate.DefenseTop;DefenseTop;class;9;75;2;0;70;15;10;290;
+iRobotAgents18117541;iRobotCreate.DefenseBottom;DefenseBottom;class;9;73;2;0;70;15;10;280;

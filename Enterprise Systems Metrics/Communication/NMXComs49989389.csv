@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+NMXComs49989389;com.dynamicperception.nmx.Command;Command;class;5;143;1;0;247;40;188;870;
+NMXComs49989389;com.dynamicperception.nmx.ThreadManagement;ThreadManagement;class;0;1;1;0;0;1;0;10;
+NMXComs49989389;com.dynamicperception.nmx.NMXComs;NMXComs;class;4;67;1;0;88;16;19;324;
+NMXComs49989389;com.dynamicperception.nmx.Serial;Serial;class;8;120;1;0;443;38;14;425;

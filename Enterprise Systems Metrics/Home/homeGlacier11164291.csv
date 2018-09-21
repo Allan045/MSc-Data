@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+homeGlacier11164291;net.cleroy.glacier.restoring.ExpectedGlacierArchive;ExpectedGlacierArchive;class;2;4;1;0;0;3;2;44;
+homeGlacier11164291;net.cleroy.glacier.Options;Options;class;1;7;1;0;0;3;2;20;
+homeGlacier11164291;net.cleroy.glacier.archiving.Archiver;Archiver;class;9;108;1;0;44;16;2;405;
+homeGlacier11164291;net.cleroy.glacier.cmd;cmd;class;9;44;1;0;10;5;0;139;
+homeGlacier11164291;net.cleroy.glacier.config.ArchConfig;ArchConfig;class;7;46;1;0;12;17;6;182;
+homeGlacier11164291;net.cleroy.glacier.archiving.ArchiveUploader;ArchiveUploader;class;5;1;1;0;0;1;0;17;
+homeGlacier11164291;net.cleroy.glacier.CryptoMan;CryptoMan;class;2;20;1;0;15;6;1;92;
+homeGlacier11164291;net.cleroy.glacier.examples.Ex1;Ex1;class;13;10;1;0;0;6;7;111;
+homeGlacier11164291;net.cleroy.glacier.archiving.Archive;Archive;class;2;20;1;0;0;12;9;77;
+homeGlacier11164291;net.cleroy.glacier.restoring.RetrievalGlacierArchive;RetrievalGlacierArchive;class;0;1;1;0;0;1;5;16;
+homeGlacier11164291;net.cleroy.glacier.sqllite.InitialDb;InitialDb;class;2;15;1;0;3;3;0;97;
+homeGlacier11164291;net.cleroy.glacier.config.PartitionConfig;PartitionConfig;interface;0;9;1;0;36;9;0;12;
+homeGlacier11164291;net.cleroy.glacier.restoring.GlacierRequestor;GlacierRequestor;class;18;32;1;0;13;6;2;201;
+homeGlacier11164291;net.cleroy.glacier.archiving.ArchiveMember;ArchiveMember;class;1;0;1;0;0;0;5;12;
+homeGlacier11164291;net.cleroy.glacier.archiving.ArchivePath;ArchivePath;class;0;1;1;0;0;1;3;12;

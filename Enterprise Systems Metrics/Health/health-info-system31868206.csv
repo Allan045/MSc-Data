@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+health-info-system31868206;com.cmpsc.HealthInformationSystem;HealthInformationSystem;class;9;178;1;0;136;17;0;689;
+health-info-system31868206;com.cmpsc.LabWork;LabWork;class;1;18;1;0;9;14;6;94;
+health-info-system31868206;com.cmpsc.RecordedBy;RecordedBy;class;1;12;1;0;0;10;4;69;
+health-info-system31868206;com.cmpsc.MessagesParser;MessagesParser;class;11;32;1;0;1;2;0;140;
+health-info-system31868206;com.cmpsc.FamilyHistory;FamilyHistory;class;1;18;1;0;9;14;6;97;
+health-info-system31868206;com.cmpsc.Guardian;Guardian;class;1;25;1;0;66;20;9;146;
+health-info-system31868206;com.cmpsc.LabTestReport;LabTestReport;class;1;16;1;0;0;12;5;83;
+health-info-system31868206;com.cmpsc.Plan;Plan;class;1;16;1;0;0;12;5;89;
+health-info-system31868206;com.cmpsc.InsuranceCompany;InsuranceCompany;class;1;13;1;0;9;10;4;65;
+health-info-system31868206;com.cmpsc.Patient;Patient;class;1;28;1;0;136;24;11;156;
+health-info-system31868206;com.cmpsc.Allergy;Allergy;class;1;18;1;0;9;14;6;97;
+health-info-system31868206;com.cmpsc.Author;Author;class;1;16;1;0;0;12;5;86;
+health-info-system31868206;com.cmpsc.SQLEntry;SQLEntry;interface;0;2;1;0;1;2;0;9;

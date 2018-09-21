@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.Updater;Updater;class;2;7;1;0;1;2;0;47;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.vocabulary.VocabularyGenerator;VocabularyGenerator;class;7;44;2;0;15;7;1;181;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.util.LinkedProperties;LinkedProperties;class;0;2;4;0;0;2;2;16;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.vocabulary.ConceptSchemeGenerator;ConceptSchemeGenerator;class;12;32;2;0;37;10;6;207;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.Downloader;Downloader;class;1;25;1;0;21;7;1;110;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.vocabulary.OWLAxiomGenerator;OWLAxiomGenerator;class;2;17;2;0;6;4;0;95;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.DatasetMetadataUpdater;DatasetMetadataUpdater;class;28;135;1;0;186;32;18;569;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.vocabulary.UtilityWithOptionalArguments;UtilityWithOptionalArguments;class;0;35;1;1;12;9;9;121;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.HealthDataConstants;HealthDataConstants;class;0;0;1;0;0;0;22;25;
+healthdata_metadata_challenge5990224;org.healthdata.metadata.util.IdentityProperties;IdentityProperties;class;1;9;4;0;21;7;2;36;

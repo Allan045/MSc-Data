@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+gtpdcpProject63781543;HelpScreen;HelpScreen;class;1;2;6;0;1;2;4;29;
+gtpdcpProject63781543;GTPCP;GTPCP;class;8;6;6;0;9;6;6;85;
+gtpdcpProject63781543;MainScreen;MainScreen;class;9;21;6;0;11;7;7;156;
+gtpdcpProject63781543;chat2.Client;Client;class;4;44;2;0;2;8;6;230;
+gtpdcpProject63781543;User;User;class;0;1;1;0;0;1;0;4;
+gtpdcpProject63781543;chat2.ClientGUI;ClientGUI;class;2;21;5;0;0;4;10;170;
+gtpdcpProject63781543;CreateScreen;CreateScreen;class;5;4;6;0;0;4;6;87;
+gtpdcpProject63781543;ArchiveClass;ArchiveClass;class;2;3;6;0;1;3;10;64;
+gtpdcpProject63781543;chat2.ChatMessage;ChatMessage;class;0;3;1;0;0;3;4;30;
+gtpdcpProject63781543;FeatureScreen;FeatureScreen;class;10;22;6;0;10;8;5;164;
+gtpdcpProject63781543;chat2.Server;Server;class;4;54;2;0;6;12;13;291;
+gtpdcpProject63781543;chat2.ServerGUI;ServerGUI;class;3;19;7;0;60;13;5;127;
+gtpdcpProject63781543;SessionScreen;SessionScreen;class;6;5;6;0;2;5;6;78;

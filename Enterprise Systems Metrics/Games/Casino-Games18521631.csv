@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Casino-Games18521631;com.casino.slots.Symbol;Symbol;class;0;13;5;0;0;5;2;69
+Casino-Games18521631;com.casino.blackjack.Card;Card;class;0;13;5;0;4;8;3;53
+Casino-Games18521631;com.casino.craps.Player;Player;class;0;6;5;0;1;6;2;29
+Casino-Games18521631;com.casino.blackjack.Player;Player;class;2;24;5;0;29;14;4;94
+Casino-Games18521631;com.casino.blackjack.Blackjack;Blackjack;class;6;63;6;0;0;14;9;324
+Casino-Games18521631;com.casino.blackjack.InfoPanel;InfoPanel;class;3;8;5;0;6;8;5;120
+Casino-Games18521631;com.casino.craps.Craps;Craps;class;6;89;6;0;0;11;10;544
+Casino-Games18521631;com.casino.Game;Game;class;5;49;6;0;11;8;7;343
+Casino-Games18521631;com.casino.craps.InfoPanel;InfoPanel;class;1;3;5;0;0;3;3;54
+Casino-Games18521631;com.casino.slots.Wheel;Wheel;class;1;15;5;0;0;7;5;59
+Casino-Games18521631;com.casino.InfoPanel;InfoPanel;class;0;5;5;0;0;5;2;70
+Casino-Games18521631;com.casino.slots.Slots;Slots;class;4;9;6;0;5;4;4;132
+Casino-Games18521631;com.casino.blackjack.DiscardPile;DiscardPile;class;1;5;6;0;1;2;0;17
+Casino-Games18521631;com.casino.blackjack.Deck;Deck;class;2;15;5;1;0;8;1;79
+Casino-Games18521631;com.casino.craps.Dice;Dice;class;1;4;5;0;0;4;1;27

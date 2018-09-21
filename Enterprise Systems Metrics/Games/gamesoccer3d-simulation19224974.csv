@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+gamesoccer3d-simulation19224974;objetos.MallaArco;MallaArco;class;7;15;2;0;0;5;5;164
+gamesoccer3d-simulation19224974;gamesoccer3d.Escena3DGame;Escena3DGame;class;20;29;2;0;2;5;14;238
+gamesoccer3d-simulation19224974;uti.Utilitarios;Utilitarios;class;2;24;1;0;66;12;1;147
+gamesoccer3d-simulation19224974;objetos.Jugador;Jugador;class;20;15;2;0;87;15;14;242
+gamesoccer3d-simulation19224974;objetos.Balon;Balon;class;11;3;2;0;3;3;3;53
+gamesoccer3d-simulation19224974;uti.Metodosj3d;Metodosj3d;class;5;12;1;0;1;2;4;96
+gamesoccer3d-simulation19224974;objetos.Arcos;Arcos;class;11;3;2;0;0;3;7;104
+gamesoccer3d-simulation19224974;gamesoccer3d.GameSoccer3D;GameSoccer3D;class;6;10;6;0;6;3;3;75
+gamesoccer3d-simulation19224974;objetos.Campo;Campo;class;21;3;2;0;1;3;10;136
+gamesoccer3d-simulation19224974;objetos.Equipo;Equipo;class;4;32;1;0;0;5;6;102
+gamesoccer3d-simulation19224974;objetos.Jugada;Jugada;class;9;37;2;0;0;5;10;129

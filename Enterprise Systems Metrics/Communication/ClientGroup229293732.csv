@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+ClientGroup229293732;org.json.JSONObject;JSONObject;class;6;320;1;0;2216;69;4;1466;
+ClientGroup229293732;org.json.JSONWriter;JSONWriter;class;3;51;1;0;35;14;6;296;
+ClientGroup229293732;org.json.JSONTokener;JSONTokener;class;4;87;1;0;127;18;7;395;
+ClientGroup229293732;org.json.JSONArray;JSONArray;class;4;119;1;0;1086;49;1;887;
+ClientGroup229293732;org.json.JSONException;JSONException;class;0;3;4;0;1;3;2;37;
+ClientGroup229293732;clientgroup22.ClientGroup22;ClientGroup22;class;13;117;1;0;132;20;2;806;
+ClientGroup229293732;org.json.JSONStringer;JSONStringer;class;1;3;2;0;1;2;0;70;
+ClientGroup229293732;org.json.JSONString;JSONString;interface;0;1;1;0;0;1;0;18;

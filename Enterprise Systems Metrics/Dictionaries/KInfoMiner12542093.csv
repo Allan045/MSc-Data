@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+KInfoMiner12542093;kariminf.kinfominer.edict2.Parse2sqlite;Parse2sqlite;class;2;18;1;0;0;4;5;219
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.INFO;INFO;class;1;9;1;0;12;9;4;57
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.WORD;WORD;class;0;0;1;0;0;0;2;24
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.GLOSS;GLOSS;class;0;3;1;0;0;3;2;34
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.MEANS;MEANS;class;1;4;1;0;0;4;3;39
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.ENTRY;ENTRY;class;1;11;1;0;0;7;2;55
+KInfoMiner12542093;kariminf.kinfominer.edict2.TestParse;TestParse;class;3;8;1;0;0;1;0;58
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.Lexicography;Lexicography;class;0;14;1;0;3;3;4;173
+KInfoMiner12542093;kariminf.kinfominer.edict2.XMLinConsole;XMLinConsole;class;3;6;1;0;0;1;0;72
+KInfoMiner12542093;kariminf.kinfominer.edict2.lex.LINE;LINE;class;4;17;1;0;16;13;2;80
+KInfoMiner12542093;kariminf.kinfominer.edict2.VerbExtract;VerbExtract;class;2;24;1;0;0;4;6;232
+KInfoMiner12542093;kariminf.kinfominer.sqlite.SQLiteTest;SQLiteTest;class;1;4;1;0;1;2;1;50
+KInfoMiner12542093;kariminf.kinfominer.edict2.Parser;Parser;class;6;28;1;0;6;4;0;122
+KInfoMiner12542093;kariminf.kinfominer.edict2.FindVerbs;FindVerbs;class;1;17;1;0;13;6;8;102

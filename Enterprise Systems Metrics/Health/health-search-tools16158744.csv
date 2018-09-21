@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+health-search-tools16158744;servlet.Search3;Search3;class;9;4;2;0;6;4;0;370;
+health-search-tools16158744;servlet.Post;Post;class;0;17;1;0;120;17;8;83;
+health-search-tools16158744;servlet.Masking;Masking;class;8;22;2;0;15;6;0;308;
+health-search-tools16158744;servlet.Task;Task;class;4;65;2;0;10;5;0;424;
+health-search-tools16158744;servlet.UserAnswer;UserAnswer;class;4;327;2;0;10;5;0;1741;
+health-search-tools16158744;servlet.Conclusion;Conclusion;class;4;55;2;0;10;5;0;407;
+health-search-tools16158744;servlet.Ml1;Ml1;class;8;14;2;0;6;4;0;144;
+health-search-tools16158744;servlet.Search1;Search1;class;11;6;2;0;6;4;0;408;
+health-search-tools16158744;servlet.UserAgreement;UserAgreement;class;4;7;2;0;10;5;0;129;
+health-search-tools16158744;servlet.Ml3;Ml3;class;8;14;2;0;6;4;0;144;
+health-search-tools16158744;servlet.Attribute;Attribute;class;0;8;1;0;0;6;3;54;
+health-search-tools16158744;servlet.PostTask;PostTask;class;4;49;2;0;10;5;0;365;
+health-search-tools16158744;servlet.ModificationValues;ModificationValues;class;4;104;1;0;41;11;17;880;

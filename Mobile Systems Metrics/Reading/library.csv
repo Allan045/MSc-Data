@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+library;com.cgogolin.library.BaseBibtexEntry;BaseBibtexEntry;class;8;127;1;1;513;34;3;342;
+library;com.cgogolin.library.BibtexAdapter;BibtexAdapter;class;40;178;2;0;1142;24;17;686;
+library;com.cgogolin.library.BibtexEntry;BibtexEntry;class;7;64;2;0;64;12;3;146;
+library;com.cgogolin.library.LatexPrettyPrinter;LatexPrettyPrinter;class;8;16;1;0;4;4;5;1557;
+library;com.cgogolin.library.Library;Library;class;54;216;4;0;838;32;33;896;
+library;com.cgogolin.library.GroupsActivity;GroupsActivity;class;15;4;2;0;1;1;4;41;
+library;com.cgogolin.library.BibtexParser;BibtexParser;class;8;62;1;0;1;2;0;190;

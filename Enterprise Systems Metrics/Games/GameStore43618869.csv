@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+GameStore43618869;BancoDados;BancoDados;class;0;36;1;0;0;14;1;289
+GameStore43618869;CB_Item;CB_Item;class;1;4;5;0;0;1;0;18
+GameStore43618869;Main;Main;class;1;1;1;0;0;1;0;11
+GameStore43618869;Entidades;Entidades;class;0;1;1;0;0;1;0;5
+GameStore43618869;GameStoreRepository;GameStoreRepository;class;0;1;1;0;0;1;0;5
+GameStore43618869;ApplicationFrame;ApplicationFrame;class;3;86;6;0;609;5;28;1054
+GameStore43618869;IGameStore;IGameStore;class;0;1;1;0;0;1;0;5

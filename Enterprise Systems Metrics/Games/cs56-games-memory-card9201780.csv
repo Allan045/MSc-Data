@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryCard;MemoryCard;class;1;8;1;0;3;7;2;55
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryGameComponent;MemoryGameComponent;class;4;55;4;0;182;24;40;573
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.HighScoreBoard;HighScoreBoard;class;1;25;1;0;1;6;3;91
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryGameLevel;MemoryGameLevel;class;0;4;1;0;0;4;3;38
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryGrid;MemoryGrid;class;1;29;1;0;0;11;3;124
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryGameGui;MemoryGameGui;class;3;25;1;0;0;7;24;357
+cs56-games-memory-card9201780;edu.ucsb.cs56.projects.games.memorycard.MemoryGameTest;MemoryGameTest;class;3;16;1;0;28;8;0;88

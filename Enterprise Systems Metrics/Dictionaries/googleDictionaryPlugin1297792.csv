@@ -1,0 +1,7 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+googleDictionaryPlugin1297792;org.tonyx.GoogleDicProvider;GoogleDicProvider;class;6;3;1;0;3;3;0;30
+googleDictionaryPlugin1297792;org.tonyx.GoogleDicContentFilter;GoogleDicContentFilter;class;1;7;1;0;3;3;1;42
+googleDictionaryPlugin1297792;test.org.tonyx.ArabicGHtmlContent;ArabicGHtmlContent;class;0;0;1;0;0;0;1;469
+googleDictionaryPlugin1297792;acceptance.com.gdicplugin.GDicPluginTest;GDicPluginTest;class;14;9;1;0;8;5;4;85
+googleDictionaryPlugin1297792;test.org.tonyx.StubbedGHtmlContent;StubbedGHtmlContent;class;0;0;1;0;0;0;1;417
+googleDictionaryPlugin1297792;test.org.tonyx.GDicTranslatorPluginTest;GDicTranslatorPluginTest;class;14;2;1;0;0;2;5;50

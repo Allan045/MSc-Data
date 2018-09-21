@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+GamesInCommon12497456;gamesincommon.PlayerGui;PlayerGui;class;9;60;6;0;232;10;25;316
+GamesInCommon12497456;gamesincommon.GamesInCommonTest;GamesInCommonTest;class;3;2;1;0;0;2;1;18
+GamesInCommon12497456;gamesincommon.Gui;Gui;class;23;84;2;0;312;16;30;526
+GamesInCommon12497456;gamesincommon.FilterPanel;FilterPanel;class;1;6;5;0;0;2;2;30
+GamesInCommon12497456;gamesincommon.Console;Console;class;4;6;1;0;3;3;0;51
+GamesInCommon12497456;gamesincommon.Utils;Utils;class;3;15;1;0;3;3;0;74
+GamesInCommon12497456;gamesincommon.LogFormatter;LogFormatter;class;0;4;2;0;0;2;1;29
+GamesInCommon12497456;gamesincommon.FilterType;FilterType;enum;1;9;1;0;0;4;1;23
+GamesInCommon12497456;gamesincommon.GamesInCommon;GamesInCommon;class;4;45;1;0;11;8;4;297
+GamesInCommon12497456;gamesincommon.TextPaneHandler;TextPaneHandler;class;0;9;2;0;9;5;3;65
+GamesInCommon12497456;gamesincommon.PlayerListRenderer;PlayerListRenderer;class;2;4;6;0;0;1;1;26

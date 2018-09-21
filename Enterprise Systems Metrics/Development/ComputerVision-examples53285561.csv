@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.animalRecognition.AnimalsClassification;AnimalsClassification;class;29;4;1;0;0;1;15;258
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.mnist.DeepBigSimpleMnist;DeepBigSimpleMnist;class;10;1;1;0;0;1;10;43
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.TestModels.AlexNet;AlexNet;class;13;3;1;0;1;3;6;135
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.TestModels.DeepBigSimpleNet;DeepBigSimpleNet;class;7;2;1;0;0;2;6;92
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.TestModels.DeepFaceVariant;DeepFaceVariant;class;9;2;1;0;0;2;6;95
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.cifar10.Cifar;Cifar;class;16;6;1;0;0;1;29;212
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.msCelebrityFaceRecognition.CelebrityFaceClassification;CelebrityFaceClassification;class;21;6;1;0;1;2;12;145
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.labeledFacesWild.LFW;LFW;class;11;1;1;0;0;1;15;68
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.TestModels.CifarModeEnum;CifarModeEnum;enum;0;0;1;0;0;0;0;10
+ComputerVision-examples53285561;org.deeplearning4j.examples.cv.TestModels.CifarCaffeModels;CifarCaffeModels;class;20;14;1;0;0;8;19;593

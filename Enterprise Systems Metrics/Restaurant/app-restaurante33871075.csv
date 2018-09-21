@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+app-restaurante33871075;view.Pedidos;Pedidos;class;4;39;6;0;165;15;26;382
+app-restaurante33871075;view.Login;Login;class;3;19;6;0;28;5;10;177
+app-restaurante33871075;view.Mercadoria;Mercadoria;class;3;32;6;0;118;9;18;343
+app-restaurante33871075;controller.PedidoDAO;PedidoDAO;class;2;16;1;0;1;7;2;129
+app-restaurante33871075;model.Mercadoria;Mercadoria;class;0;10;1;0;35;10;5;77
+app-restaurante33871075;view.Usuarioi;Usuarioi;class;4;47;6;0;170;12;20;354
+app-restaurante33871075;model.Usuario;Usuario;class;0;8;1;0;20;8;4;64
+app-restaurante33871075;view.Menuprincipal;Menuprincipal;class;3;19;6;0;66;7;9;160
+app-restaurante33871075;controller.MercadoriaDAO;MercadoriaDAO;class;2;7;1;0;0;3;1;66
+app-restaurante33871075;controller.UsuarioDAO;UsuarioDAO;class;3;16;1;0;9;7;2;126
+app-restaurante33871075;controller.Conectar;Conectar;class;0;2;1;0;0;1;1;35
+app-restaurante33871075;model.Pedido;Pedido;class;0;20;1;0;170;20;10;83
+app-restaurante33871075;controller.Menu;Menu;class;0;0;1;0;0;0;0;12
+app-restaurante33871075;model.Login;Login;class;0;6;1;0;9;6;3;51
+app-restaurante33871075;controller.LoginDAO;LoginDAO;class;3;4;1;0;0;1;1;43

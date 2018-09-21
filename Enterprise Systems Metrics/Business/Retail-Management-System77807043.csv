@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Retail-Management-System77807043;RBMSAppDAO;RBMSAppDAO;class;9;179;1;0;227;22;4;779
+Retail-Management-System77807043;RBMS;RBMS;class;1;85;1;0;81;18;13;334
+Retail-Management-System77807043;RBMSDAO;RBMSDAO;class;2;189;1;0;284;25;5;723
+Retail-Management-System77807043;MonthlySale;MonthlySale;class;0;14;1;0;77;14;7;101
+Retail-Management-System77807043;RBMSAppServlet;RBMSAppServlet;class;12;79;2;0;48;16;14;453
+Retail-Management-System77807043;Employee;Employee;class;0;6;1;0;9;6;3;49
+Retail-Management-System77807043;Supply;Supply;class;0;10;1;0;35;10;5;76
+Retail-Management-System77807043;Product;Product;class;0;12;1;0;54;12;6;88
+Retail-Management-System77807043;Customer;Customer;class;0;10;1;0;35;10;5;76
+Retail-Management-System77807043;Suppliers;Suppliers;class;0;8;1;0;20;8;4;62
+Retail-Management-System77807043;Purchases;Purchases;class;0;14;1;0;77;14;7;102

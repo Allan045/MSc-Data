@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.RemoveCommandFromLayer;RemoveCommandFromLayer;class;37;94;40;0;1216;80;93;615
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.SceneScreen;SceneScreen;class;26;54;2;0;614;41;14;307
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.MainMenu;MainMenu;class;15;22;1;0;164;17;13;200
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.Main;Main;class;10;5;2;0;4;4;7;42
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.TimeTriggerHandler;TimeTriggerHandler;class;6;5;3;0;0;4;1;23
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.Transitionable;Transitionable;interface;3;1;1;0;0;1;0;7
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.desktop.DesktopLauncher;DesktopLauncher;class;3;1;1;0;0;1;0;13
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.SceneData;SceneData;class;2;0;1;0;0;0;31;44
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.SceneMaker;SceneMaker;class;3;1;1;0;0;1;1;11
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.GameChoiceMenu;GameChoiceMenu;class;6;4;4;0;0;4;5;40
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.FadeTransition;FadeTransition;class;9;20;1;0;44;12;17;140
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.Menu;Menu;class;14;25;3;0;83;16;17;172
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.AnimatedTextImmediateObserver;AnimatedTextImmediateObserver;class;9;13;3;0;0;7;7;76
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.LineTriggerObserver;LineTriggerObserver;class;1;5;1;0;0;2;1;21
+Visual-Novel-Toolkit23646764;com.oxca2.cyoat.AnimatedText;AnimatedText;class;6;58;2;0;2;6;20;263

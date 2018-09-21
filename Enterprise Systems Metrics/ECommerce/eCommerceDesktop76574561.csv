@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+eCommerceDesktop76574561;db.ProductData;ProductData;class;0;4;1;0;0;2;1;41
+eCommerceDesktop76574561;view.client.MainFrame;MainFrame;class;5;12;1;0;18;4;12;138
+eCommerceDesktop76574561;controller.CategoryController;CategoryController;class;0;2;1;0;0;2;6;38
+eCommerceDesktop76574561;view.signInForm.SignInDocumentListener;SignInDocumentListener;class;1;7;1;0;8;5;1;27
+eCommerceDesktop76574561;view.signUpForm.SignUp;SignUp;class;2;8;6;0;5;4;18;180
+eCommerceDesktop76574561;view.signInForm.SignIn;SignIn;class;2;7;6;0;4;4;8;113
+eCommerceDesktop76574561;db.LoginData;LoginData;class;0;4;1;0;0;2;1;37
+eCommerceDesktop76574561;model.User;User;class;0;16;1;0;102;16;8;64
+eCommerceDesktop76574561;db.DBConnectionProvider;DBConnectionProvider;class;0;4;1;0;0;1;1;26
+eCommerceDesktop76574561;model.Product;Product;class;0;11;1;0;41;11;5;44
+eCommerceDesktop76574561;view.admin.AdminPanel;AdminPanel;class;2;7;6;0;6;3;13;173
+eCommerceDesktop76574561;db.DBDataProvider;DBDataProvider;class;0;11;1;0;3;3;0;100
+eCommerceDesktop76574561;main.MainClass;MainClass;class;1;1;1;0;0;1;0;21
+eCommerceDesktop76574561;view.admin.AdminPanelActionListener;AdminPanelActionListener;class;1;7;1;0;8;5;1;31
+eCommerceDesktop76574561;view.signUpForm.SignUpDocumentListener;SignUpDocumentListener;class;1;7;1;0;8;5;1;33
+eCommerceDesktop76574561;db.UserData;UserData;class;0;4;1;0;0;2;1;38

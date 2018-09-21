@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+PizzaBasedRestaurant67794726;MenuUI;MenuUI;class;14;44;6;0;494;17;39;470
+PizzaBasedRestaurant67794726;PizzaSelectUIplovers;PizzaSelectUIplovers;class;1;36;6;0;36;6;23;321
+PizzaBasedRestaurant67794726;PizzaSelectUIppr;PizzaSelectUIppr;class;1;36;6;0;36;6;23;321
+PizzaBasedRestaurant67794726;PizzaSelectUIbbqm;PizzaSelectUIbbqm;class;1;36;6;0;36;6;23;321
+PizzaBasedRestaurant67794726;Pizza;Pizza;class;0;4;1;0;0;4;3;29
+PizzaBasedRestaurant67794726;PizzaSelectUIbbq;PizzaSelectUIbbq;class;1;36;6;0;36;6;23;327
+PizzaBasedRestaurant67794726;OrderSubmit;OrderSubmit;class;3;19;6;0;26;4;11;135
+PizzaBasedRestaurant67794726;PizzaSelectUIhamlovers;PizzaSelectUIhamlovers;class;1;36;6;0;36;6;23;321
+PizzaBasedRestaurant67794726;DrinksUIcola;DrinksUIcola;class;2;21;6;0;45;6;11;172
+PizzaBasedRestaurant67794726;PizzaSelectUIhawaian;PizzaSelectUIhawaian;class;1;36;6;0;36;6;23;321
+PizzaBasedRestaurant67794726;DrinksUIlemon;DrinksUIlemon;class;2;21;6;0;45;6;11;167
+PizzaBasedRestaurant67794726;PizzaBaseUI;PizzaBaseUI;class;2;13;6;0;15;4;2;90
+PizzaBasedRestaurant67794726;BBQbeef;BBQbeef;class;2;8;2;0;4;4;2;31
+PizzaBasedRestaurant67794726;PizzaDecoratorUI;PizzaDecoratorUI;class;2;88;6;0;1033;24;68;784

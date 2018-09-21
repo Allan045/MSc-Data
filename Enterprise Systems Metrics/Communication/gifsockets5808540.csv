@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+gifsockets5808540;LZWEncoder;LZWEncoder;class;2;44;1;0;17;10;25;244;
+gifsockets5808540;NeuQuant;NeuQuant;class;2;100;1;0;0;10;36;402;
+gifsockets5808540;GifDecoder;GifDecoder;class;4;156;1;0;105;26;40;688;
+gifsockets5808540;AnimatedGifEncoder;AnimatedGifEncoder;class;4;79;1;0;40;25;20;453;

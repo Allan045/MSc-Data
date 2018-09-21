@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SDIS-Chat-Application35999314;Connection.Server;Server;class;16;134;1;0;28;16;7;660;
+SDIS-Chat-Application35999314;Database.Database;Database;class;2;11;1;0;0;10;2;60;
+SDIS-Chat-Application35999314;GUI.LoginController;LoginController;class;12;14;1;0;4;4;9;105;
+SDIS-Chat-Application35999314;Connection.Client;Client;class;12;95;1;0;152;28;12;736;
+SDIS-Chat-Application35999314;GUI.RoomController;RoomController;class;8;8;1;0;0;3;7;56;
+SDIS-Chat-Application35999314;GUI.Main;Main;class;5;2;2;0;1;2;1;23;
+SDIS-Chat-Application35999314;GUI.RegisterController;RegisterController;class;6;11;1;0;1;2;4;62;
+SDIS-Chat-Application35999314;GUI.MainPageController;MainPageController;class;15;10;1;0;9;6;5;91;
+SDIS-Chat-Application35999314;Database.Channel;Channel;class;3;19;1;0;16;12;4;80;
+SDIS-Chat-Application35999314;GUI.RemoveFriendController;RemoveFriendController;class;8;5;1;0;1;2;5;52;
+SDIS-Chat-Application35999314;Connection.Request;Request;class;2;19;1;0;47;15;6;69;
+SDIS-Chat-Application35999314;GUI.AddFriendController;AddFriendController;class;8;5;1;0;1;2;5;51;
+SDIS-Chat-Application35999314;Database.Message;Message;class;0;6;1;0;0;6;3;37;
+SDIS-Chat-Application35999314;Database.User;User;class;2;28;1;0;96;20;6;88;

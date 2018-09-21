@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant_recommendation_engine23514182;dll.MemberDoubleLinkedList;MemberDoubleLinkedList;class;1;10;1;0;11;10;4;41
+Restaurant_recommendation_engine23514182;logic.RestaurantsRecommendation;RestaurantsRecommendation;class;10;78;1;0;58;12;2;246
+Restaurant_recommendation_engine23514182;gui.PhoenixRestaurants;PhoenixRestaurants;class;1;5;6;0;4;2;1;227
+Restaurant_recommendation_engine23514182;gui.FoundedRestaurants;FoundedRestaurants;class;0;63;6;0;1771;63;38;442
+Restaurant_recommendation_engine23514182;gui.PhoenixRestaurantsControler;PhoenixRestaurantsControler;class;8;150;1;0;220;24;1;456
+Restaurant_recommendation_engine23514182;logic.Controler;Controler;class;4;7;1;0;2;5;3;37
+Restaurant_recommendation_engine23514182;dll.DoubleLinkedList;DoubleLinkedList;class;1;19;1;0;0;4;1;69

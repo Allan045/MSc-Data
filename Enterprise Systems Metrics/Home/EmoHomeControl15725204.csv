@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+EmoHomeControl15725204;packages.EmoState;EmoState;interface;5;49;1;0;1146;49;4;441;
+EmoHomeControl15725204;packages.EmoHomeControl;EmoHomeControl;class;6;26;1;0;0;3;3;141;
+EmoHomeControl15725204;packages.EdkErrorCode;EdkErrorCode;enum;0;2;1;0;0;2;1;57;
+EmoHomeControl15725204;packages.Edk;Edk;interface;12;84;2;0;3482;84;8;882;

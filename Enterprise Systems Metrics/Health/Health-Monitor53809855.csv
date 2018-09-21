@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Health-Monitor53809855;GUI.Settings;Settings;class;1;42;5;0;311;7;11;236;
+Health-Monitor53809855;ECG.ECGController;ECGController;class;2;6;2;0;2;4;3;45;
+Health-Monitor53809855;ECG.ecgDrawPanel;ecgDrawPanel;class;0;12;5;0;5;6;5;97;
+Health-Monitor53809855;GUI.AddPatientPanel;AddPatientPanel;class;2;36;5;0;266;10;16;287;
+Health-Monitor53809855;port.input.DataInput;DataInput;class;2;10;1;0;0;2;2;64;
+Health-Monitor53809855;data.control.Patient;Patient;class;0;38;1;0;279;27;11;149;
+Health-Monitor53809855;health.monitor.HealthMonitor;HealthMonitor;class;1;1;1;0;0;1;0;19;
+Health-Monitor53809855;data.control.dataSheet;dataSheet;class;15;74;1;0;8;8;4;287;
+Health-Monitor53809855;GUI.Alarm;Alarm;class;0;12;1;0;2;5;5;60;
+Health-Monitor53809855;GUI.ViewPatientPanel;ViewPatientPanel;class;0;2;5;0;1;2;0;39;
+Health-Monitor53809855;GUI.EditPatientPanel;EditPatientPanel;class;2;36;5;0;221;9;15;261;
+Health-Monitor53809855;GUI.HomePanel;HomePanel;class;7;67;5;0;537;21;49;773;
+Health-Monitor53809855;data.control.DataController;DataController;class;3;20;1;0;10;8;6;106;
+Health-Monitor53809855;GUI.MainFrame;MainFrame;class;1;12;6;0;10;4;3;101;

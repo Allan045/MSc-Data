@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.requests.RequestFilter;RequestFilter;class;22;22;1;0;9;7;5;150;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.requests.RequestInformationImpl;RequestInformationImpl;class;1;5;1;0;4;5;3;40;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.bundles.BundleStatusImpl;BundleStatusImpl;class;11;33;1;0;0;6;4;155;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.requests.RequestSummaryServlet;RequestSummaryServlet;class;10;3;2;0;0;1;3;77;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.impl.providers.jcr.JcrObservationDelayProvider;JcrObservationDelayProvider;class;20;35;1;0;9;11;20;243;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.StatusCode;StatusCode;enum;0;2;1;0;0;2;1;44;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.impl.LoadbalancerStatus;LoadbalancerStatus;class;17;11;2;0;0;4;8;124;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.StatusProvider;StatusProvider;interface;1;2;1;0;1;2;1;17;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.StatusService;StatusService;interface;1;3;1;0;3;3;0;25;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.bundles.BundleStatusMBean;BundleStatusMBean;interface;0;4;1;0;6;4;0;34;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.requests.RequestInformationMBean;RequestInformationMBean;interface;0;3;1;0;3;3;0;21;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.impl.providers.MBeanStatusProvider;MBeanStatusProvider;class;12;78;1;0;0;9;13;310;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.osgi.OsgiEventCounterMBean;OsgiEventCounterMBean;interface;0;4;1;0;6;4;0;38;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.Status;Status;class;3;9;1;0;0;9;5;47;
+cq5-healthcheck5125831;de.joerghoh.cq5.jmx.osgi.OsgiEventCounter;OsgiEventCounter;class;8;11;1;0;2;5;7;78;
+cq5-healthcheck5125831;de.joerghoh.cq5.healthcheck.impl.HealthStatusServiceImpl;HealthStatusServiceImpl;class;12;14;1;0;3;6;5;101;

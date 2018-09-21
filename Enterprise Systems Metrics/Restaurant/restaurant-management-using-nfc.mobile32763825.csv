@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+restaurant-management-using-nfc.mobile32763825;domain.RecommendationManager;RecommendationManager;class;6;44;1;0;0;5;3;155
+restaurant-management-using-nfc.mobile32763825;communications.BluetoothClient;BluetoothClient;class;14;43;1;0;24;9;11;192
+restaurant-management-using-nfc.mobile32763825;domain.FileIO;FileIO;class;2;13;1;0;3;3;0;60
+restaurant-management-using-nfc.mobile32763825;domain.ProfileManager;ProfileManager;class;5;35;1;0;4;5;2;118
+restaurant-management-using-nfc.mobile32763825;domain.ProductsListManager;ProductsListManager;class;3;21;1;0;0;5;1;83
+restaurant-management-using-nfc.mobile32763825;presentation.MobiCarta;MobiCarta;class;34;270;2;0;2427;71;51;1123
+restaurant-management-using-nfc.mobile32763825;domain.Recommendation;Recommendation;class;0;9;1;0;12;9;2;47
+restaurant-management-using-nfc.mobile32763825;domain.BillManager;BillManager;class;6;38;1;0;3;3;0;114
+restaurant-management-using-nfc.mobile32763825;domain.Client;Client;class;1;10;1;0;3;10;2;50
+restaurant-management-using-nfc.mobile32763825;domain.Bill;Bill;class;0;21;1;0;150;21;4;86
+restaurant-management-using-nfc.mobile32763825;domain.BillItem;BillItem;class;0;13;1;0;42;13;3;59
+restaurant-management-using-nfc.mobile32763825;domain.Address;Address;class;0;12;1;0;18;12;2;56
+restaurant-management-using-nfc.mobile32763825;domain.Order;Order;class;1;12;1;0;0;6;2;40
+restaurant-management-using-nfc.mobile32763825;domain.RecProduct;RecProduct;class;1;18;1;0;30;12;3;60

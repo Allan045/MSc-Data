@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+sup43103265;org.common.Utils;Utils;class;2;12;1;0;21;7;7;136;
+sup43103265;org.client.ChatWindow;ChatWindow;class;1;9;6;0;2;4;5;117;
+sup43103265;org.client.LoginWindow;LoginWindow;class;1;18;6;0;0;4;4;135;
+sup43103265;org.client.AppTest;AppTest;class;7;5;2;0;10;5;0;50;
+sup43103265;org.common.TokenPair;TokenPair;class;0;1;1;0;0;1;2;15;
+sup43103265;org.client.MessageReceiver;MessageReceiver;class;1;12;1;0;0;3;4;68;
+sup43103265;org.client.ClientApp;ClientApp;class;4;19;1;0;0;10;7;202;
+sup43103265;org.server.ServerApp;ServerApp;class;1;1;1;0;0;1;1;14;
+sup43103265;org.common.UtilsTest;UtilsTest;class;6;6;2;0;15;6;0;78;
+sup43103265;org.server.Contacts;Contacts;class;1;16;1;0;0;8;2;117;
+sup43103265;org.server.AppTest;AppTest;class;6;11;2;0;15;6;0;131;
+sup43103265;org.server.SupServer;SupServer;class;2;44;1;0;37;10;5;335;

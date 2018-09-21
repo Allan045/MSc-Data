@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Level;net.androgames.level.orientation.Orientation;Orientation;enum;0;9;1;0;2;4;2;57;
+Level;net.androgames.level.config.Viscosity;Viscosity;enum;0;3;1;0;0;3;2;38;
+Level;net.androgames.level.orientation.OrientationProvider;OrientationProvider;class;16;65;1;0;50;13;31;301;
+Level;net.androgames.level.orientation.OrientationListener;OrientationListener;interface;1;3;1;0;3;3;0;25;
+Level;net.androgames.level.LevelPreferences;LevelPreferences;class;10;11;2;0;0;3;9;77;
+Level;net.androgames.level.painter.LevelPainter;LevelPainter;class;18;92;1;0;0;10;89;641;
+Level;net.androgames.level.config.DisplayType;DisplayType;enum;0;6;1;0;5;6;5;53;
+Level;net.androgames.level.Level;Level;class;22;27;2;0;45;12;10;171;
+Level;net.androgames.level.view.LevelView;LevelView;class;13;19;2;0;0;7;1;87;

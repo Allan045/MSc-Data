@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+NLP_Yelp7142120;YelpServlet.cafeInfo;cafeInfo;class;0;58;1;0;1595;58;29;236
+NLP_Yelp7142120;YelpServlet.Result;Result;class;2;1;1;0;0;1;4;19
+NLP_Yelp7142120;gate.qa.QualityAssurancePR;QualityAssurancePR;class;17;83;2;0;117;19;8;614
+NLP_Yelp7142120;YelpServlet.mainYelp;mainYelp;class;11;119;2;0;3;3;1;341
+NLP_Yelp7142120;gate.qa.Measure;Measure;enum;0;0;1;0;0;0;0;11
+NLP_Yelp7142120;YelpServlet.YelpGate;YelpGate;class;7;39;1;0;4;5;2;287
+NLP_Yelp7142120;yelpMongo.YelpMongo;YelpMongo;class;4;5;1;0;1;2;0;31
+NLP_Yelp7142120;gate.qa.AnnotationDiffExporter;AnnotationDiffExporter;class;6;53;1;0;0;8;20;338
+NLP_Yelp7142120;yelpMongo.cafeInfo;cafeInfo;class;0;58;1;0;1595;58;30;236
+NLP_Yelp7142120;yelpMongo.YelpApi2;YelpApi2;class;2;3;2;0;3;3;0;20
+NLP_Yelp7142120;yelpMongo.YelpGate;YelpGate;class;5;13;1;0;4;4;4;100
+NLP_Yelp7142120;yelpMongo.YelpAPI;YelpAPI;class;14;73;1;0;4;4;2;369

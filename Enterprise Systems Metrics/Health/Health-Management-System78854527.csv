@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Health-Management-System78854527;Login.HS_Manage;HS_Manage;class;0;35;1;0;10;5;0;147;
+Health-Management-System78854527;Login.Utility;Utility;class;0;3;1;0;0;1;1;13;
+Health-Management-System78854527;Login.ConnectionClass;ConnectionClass;class;0;9;1;0;0;2;3;38;
+Health-Management-System78854527;Login.HSMainPage;HSMainPage;class;0;17;1;0;1;2;0;95;
+Health-Management-System78854527;Login.HealthIndicators;HealthIndicators;class;0;31;1;0;10;5;0;218;
+Health-Management-System78854527;Login.Diagnosis;Diagnosis;class;0;39;1;0;6;4;0;159;
+Health-Management-System78854527;Login.User;User;class;0;8;1;0;2;4;2;23;
+Health-Management-System78854527;Login.StartMenu;StartMenu;class;0;15;1;0;10;5;0;89;
+Health-Management-System78854527;Login.LoginPage;LoginPage;class;0;10;1;0;0;1;0;49;
+Health-Management-System78854527;Login.PatientMainPage;PatientMainPage;class;0;9;1;0;0;1;0;40;
+Health-Management-System78854527;Login.Profile;Profile;class;0;34;1;0;1;2;0;144;
+Health-Management-System78854527;Login.Alerts;Alerts;class;0;23;1;0;3;3;0;115;
+Health-Management-System78854527;Login.DateUtils;DateUtils;class;0;2;1;0;0;1;0;17;
+Health-Management-System78854527;Login.HealthObservations;HealthObservations;class;0;17;1;0;3;3;0;111;

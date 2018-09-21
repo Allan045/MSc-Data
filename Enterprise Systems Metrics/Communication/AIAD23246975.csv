@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+AIAD23246975;model.DataLogger;DataLogger;class;2;22;1;0;16;8;18;175;
+AIAD23246975;model.ForestModel;ForestModel;class;24;118;3;0;1132;51;17;467;
+AIAD23246975;agent.Agent;Agent;class;5;56;2;2;31;10;11;215;
+AIAD23246975;model.ForestHeat;ForestHeat;class;2;14;1;0;0;5;2;39;
+AIAD23246975;agent.Captain;Captain;class;11;161;4;0;47;11;3;446;
+AIAD23246975;agent.Human;Human;class;10;183;3;1;97;18;13;558;
+AIAD23246975;model.ForestPath;ForestPath;class;3;6;2;0;4;4;1;28;
+AIAD23246975;model.Node;Node;class;1;7;1;0;9;7;4;34;
+AIAD23246975;agent.Robot;Robot;class;6;49;3;0;32;9;3;135;
+AIAD23246975;model.ForestElement;ForestElement;class;4;5;1;2;6;5;2;33;
+AIAD23246975;model.Pair;Pair;class;1;5;1;0;0;5;2;21;
+AIAD23246975;agent.Soldier;Soldier;class;4;6;4;0;4;4;2;39;
+AIAD23246975;model.ViewMap;ViewMap;class;1;3;1;0;0;1;2;16;
+AIAD23246975;test.AgentTests;AgentTests;class;1;1;1;0;0;1;0;11;
+AIAD23246975;model.ForestMap;ForestMap;class;1;13;1;0;0;6;2;57;
+AIAD23246975;model.ForestTree;ForestTree;class;3;6;2;0;4;4;1;28;

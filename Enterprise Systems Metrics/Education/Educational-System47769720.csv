@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Educational-System47769720;ProfInfo;ProfInfo;class;3;26;6;0;46;3;12;204;
+Educational-System47769720;Administer;Administer;class;4;8;6;0;0;1;1;86;
+Educational-System47769720;StudentInfo;StudentInfo;class;3;38;6;0;58;3;20;272;
+Educational-System47769720;Login;Login;class;6;28;6;0;5;2;8;204;
+Educational-System47769720;Grade;Grade;class;1;18;7;0;0;11;9;130;
+Educational-System47769720;Teacher;Teacher;class;4;29;6;0;123;3;11;212;
+Educational-System47769720;Student;Student;class;4;48;8;0;269;18;26;459;
+Educational-System47769720;Sect;Sect;class;3;21;6;0;36;3;11;166;
+Educational-System47769720;ConnectDatabase;ConnectDatabase;class;1;8;1;0;0;3;8;67;
+Educational-System47769720;CourseInfo;CourseInfo;class;3;26;6;0;46;3;12;200;

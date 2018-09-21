@@ -1,0 +1,4 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Yelp-Database-Challenge-201356958006;com.tutorial.hw4;hw4;class;13;48;1;0;63;8;22;601
+Yelp-Database-Challenge-201356958006;com.yelpdata.domain.populate;populate;class;4;105;1;0;105;15;3;669
+Yelp-Database-Challenge-201356958006;com.java.domain.Review;Review;class;3;103;6;0;161;15;40;1030

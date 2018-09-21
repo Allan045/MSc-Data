@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+kindle-nt-l10n-sk23699577;StringExtractor;StringExtractor;class;12;23;1;0;6;4;1;164
+kindle-nt-l10n-sk23699577;TranslationPacker;TranslationPacker;class;3;27;1;0;11;6;4;188
+kindle-nt-l10n-sk23699577;Translator;Translator;class;7;37;1;0;3;3;0;201
+kindle-nt-l10n-sk23699577;KeybFilter;KeybFilter;class;0;1;1;0;0;1;0;12
+kindle-nt-l10n-sk23699577;UnicodeInputStream;UnicodeInputStream;class;2;23;2;0;0;6;5;96
+kindle-nt-l10n-sk23699577;JAR4Filter;JAR4Filter;class;0;2;1;0;0;2;1;17
+kindle-nt-l10n-sk23699577;JarWalker;JarWalker;class;16;190;1;0;66;13;2;1067
+kindle-nt-l10n-sk23699577;JARFilter;JARFilter;class;0;1;1;0;0;1;0;12

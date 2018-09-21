@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Project-Syrup3827360;engine.Vector3D;Vector3D;class;1;2;1;0;0;2;3;15;
+Project-Syrup3827360;projectsyrup.EntityTeapot;EntityTeapot;class;2;2;2;0;0;2;1;13;
+Project-Syrup3827360;engine.SpringCam_CPP;SpringCam_CPP;class;1;1;1;0;0;1;1;27;
+Project-Syrup3827360;projectsyrup.KL2;KL2;class;0;9;1;0;1;2;1;21;
+Project-Syrup3827360;engine.Camera;Camera;class;2;12;1;0;8;8;8;54;
+Project-Syrup3827360;engine.Entity;Entity;class;2;8;1;3;9;7;3;48;
+Project-Syrup3827360;projectsyrup.EntityKirby;EntityKirby;class;2;4;2;0;2;4;1;62;
+Project-Syrup3827360;engine.SpringCam;SpringCam;class;5;49;1;0;903;43;29;325;
+Project-Syrup3827360;engine.assets.OBJLoader;OBJLoader;class;1;15;1;0;0;2;2;49;
+Project-Syrup3827360;engine.KeyListener;KeyListener;class;1;12;1;0;4;5;1;32;
+Project-Syrup3827360;engine.Quaternion;Quaternion;class;7;125;1;0;0;56;5;1075;
+Project-Syrup3827360;engine.MouseListener;MouseListener;class;1;20;1;0;4;5;1;45;
+Project-Syrup3827360;engine.Rendering;Rendering;class;2;18;1;0;13;6;7;131;
+Project-Syrup3827360;projectsyrup.ProjectSyrup;ProjectSyrup;class;4;11;1;0;8;3;4;49;
+Project-Syrup3827360;engine.Game;Game;class;1;2;1;0;1;2;1;9;
+Project-Syrup3827360;maps.test1;test1;class;2;2;2;0;0;2;1;13;

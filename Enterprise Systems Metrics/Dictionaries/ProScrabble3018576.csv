@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+ProScrabble3018576;capps.scrabble.AIPlayer;AIPlayer;class;8;251;1;0;6;12;3;519
+ProScrabble3018576;capps.scrabble.PlayScrabble;PlayScrabble;class;8;89;1;0;0;19;4;410
+ProScrabble3018576;capps.scrabble.ScrabbleException;ScrabbleException;class;0;2;3;0;1;2;0;9
+ProScrabble3018576;capps.scrabble.acm.GetBestMove;GetBestMove;class;0;0;1;0;0;0;0;4
+ProScrabble3018576;capps.scrabble.Main;Main;class;7;27;1;0;0;6;5;218
+ProScrabble3018576;capps.scrabble.BadStateException;BadStateException;class;0;2;3;0;1;2;0;9
+ProScrabble3018576;capps.scrabble.MoveScore;MoveScore;class;1;1;1;0;0;1;2;10
+ProScrabble3018576;capps.scrabble.ScrabbleDict;ScrabbleDict;class;1;36;1;0;12;8;6;106
+ProScrabble3018576;capps.scrabble.Square;Square;class;1;7;1;0;0;7;4;38
+ProScrabble3018576;capps.scrabble.acm.BestMoveMain;BestMoveMain;class;5;8;1;0;0;2;8;74
+ProScrabble3018576;capps.scrabble.WordBucket;WordBucket;class;2;11;1;0;15;11;4;52
+ProScrabble3018576;capps.scrabble.Rack;Rack;class;2;66;1;0;0;8;3;155
+ProScrabble3018576;capps.scrabble.ScrabbleBoard;ScrabbleBoard;class;5;195;1;0;0;20;8;489
+ProScrabble3018576;capps.scrabble.ScrabbleMove;ScrabbleMove;class;3;26;1;0;0;5;6;80
+ProScrabble3018576;capps.scrabble.ScrabbleConstants;ScrabbleConstants;class;2;63;1;0;20;8;15;142
+ProScrabble3018576;capps.scrabble.acm.Arbitrate;Arbitrate;class;7;25;1;0;0;3;9;157

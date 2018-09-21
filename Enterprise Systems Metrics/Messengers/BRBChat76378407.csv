@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+BRBChat76378407;Server.QuitListener;QuitListener;class;0;7;1;0;1;2;2;47
+BRBChat76378407;Client.ClientReceiver;ClientReceiver;class;0;19;1;0;2;4;3;106
+BRBChat76378407;Server.ServerSender;ServerSender;class;2;53;1;0;13;6;2;170
+BRBChat76378407;Server.BRBServer;BRBServer;class;5;9;1;0;1;3;9;112
+BRBChat76378407;Client.MainScreen;MainScreen;class;3;37;1;0;33;12;18;367
+BRBChat76378407;Server.ServerReceiver;ServerReceiver;class;1;45;1;0;28;12;10;240
+BRBChat76378407;Client.LoginScreen;LoginScreen;class;2;11;1;0;1;5;11;149
+BRBChat76378407;Server.Node;Node;class;2;9;1;0;0;9;3;93
+BRBChat76378407;Server.Queue;Queue;class;3;8;1;0;0;3;1;54
+BRBChat76378407;Client.BRBClient;BRBClient;class;5;14;1;0;0;3;9;137
+BRBChat76378407;Client.ClientSender;ClientSender;class;0;5;1;0;4;4;6;53
+BRBChat76378407;Client.User;User;class;0;18;1;0;19;11;4;118

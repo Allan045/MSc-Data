@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+bf-ui-health83067952;EndToEnd.AppTest;AppTest;class;5;3;1;0;0;1;0;294;
+bf-ui-health83067952;coordInput.CoordInputTest;CoordInputTest;class;6;7;1;0;0;4;4;145;
+bf-ui-health83067952;CoordInputTestRunner;CoordInputTestRunner;class;2;1;1;0;0;1;0;9;
+bf-ui-health83067952;MainScreenTestRunner;MainScreenTestRunner;class;2;1;1;0;0;1;0;9;
+bf-ui-health83067952;Login.LoginTest;LoginTest;class;7;12;1;0;0;6;4;79;
+bf-ui-health83067952;TenConcurrentUser.AppTest;AppTest;class;5;30;1;0;45;10;0;293;
+bf-ui-health83067952;TenConcurrentUser.BFUIJobsExcnVldtnTest;BFUIJobsExcnVldtnTest;class;10;26;1;0;0;10;26;413;
+bf-ui-health83067952;MainScreen.AppTest;AppTest;class;5;3;1;0;0;1;0;55;
+bf-ui-health83067952;lux.MultiThreadedRunner;MultiThreadedRunner;class;7;9;2;0;0;5;4;64;
+bf-ui-health83067952;Login.AppTest;AppTest;class;5;3;1;0;0;1;0;57;
+bf-ui-health83067952;LoginTestRunner;LoginTestRunner;class;2;1;1;0;0;1;0;9;
+bf-ui-health83067952;MainScreen.MainScreenTest;MainScreenTest;class;8;12;1;0;0;6;4;157;
+bf-ui-health83067952;EndToEndTestRunner;EndToEndTestRunner;class;2;1;1;0;0;1;0;9;
+bf-ui-health83067952;JUnitRunner;JUnitRunner;class;5;6;1;0;0;1;0;29;
+bf-ui-health83067952;coordInput.AppTest;AppTest;class;5;3;1;0;0;1;0;56;
+bf-ui-health83067952;EndToEnd.BFUIJobsExcnVldtnTest;BFUIJobsExcnVldtnTest;class;9;24;1;0;0;9;26;420;

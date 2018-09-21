@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Gothenburg-Restaurants60195883;ReviewController;ReviewController;class;14;16;4;0;18;8;7;145
+Gothenburg-Restaurants60195883;SignUpController;SignUpController;class;11;15;3;0;4;5;9;133
+Gothenburg-Restaurants60195883;OwnerRestaurantController;OwnerRestaurantController;class;14;36;3;0;8;9;26;257
+Gothenburg-Restaurants60195883;HomeController;HomeController;class;25;64;3;0;59;10;19;324
+Gothenburg-Restaurants60195883;Home;Home;class;4;2;2;8;1;2;20;48
+Gothenburg-Restaurants60195883;DBConnection;DBConnection;class;0;5;1;0;1;3;1;41
+Gothenburg-Restaurants60195883;SignInController;SignInController;class;11;11;3;0;6;4;5;102
+Gothenburg-Restaurants60195883;RestaurantController;RestaurantController;class;14;15;3;1;26;8;30;204
+Gothenburg-Restaurants60195883;ForgottenPassController;ForgottenPassController;class;11;8;3;0;3;3;7;83
+Gothenburg-Restaurants60195883;FAQController;FAQController;class;8;1;3;0;0;1;1;26
+Gothenburg-Restaurants60195883;AboutUsController;AboutUsController;class;8;1;3;0;0;1;1;27
+Gothenburg-Restaurants60195883;WriteReviewController;WriteReviewController;class;15;18;3;0;8;5;20;134
+Gothenburg-Restaurants60195883;RestaurantListController;RestaurantListController;class;14;9;3;0;6;3;4;99
+Gothenburg-Restaurants60195883;OwnerListController;OwnerListController;class;15;9;3;0;4;5;7;108

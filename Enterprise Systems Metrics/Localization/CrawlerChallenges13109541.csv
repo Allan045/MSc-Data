@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CrawlerChallenges13109541;org.sunspotworld.ThermoBroadcast;ThermoBroadcast;class;10;15;2;0;4;4;7;134
+CrawlerChallenges13109541;org.sunspotworld.lib.BlinkenLights;BlinkenLights;class;5;35;2;0;68;16;10;147
+CrawlerChallenges13109541;org.sunspotworld.Discovery;Discovery;class;17;96;2;0;69;11;37;519
+CrawlerChallenges13109541;org.sunspotworld.ServoSPOTonCar;ServoSPOTonCar;class;12;95;2;0;287;21;52;553
+CrawlerChallenges13109541;org.sunspotworld.demo.RadioStrength_FR;RadioStrength_FR;class;16;87;2;0;135;17;38;439
+CrawlerChallenges13109541;org.sunspotworld.lib.RadioDataIOStream;RadioDataIOStream;class;4;48;1;0;201;38;5;176
+CrawlerChallenges13109541;org.sunspotworld.common.TwoSidedArray;TwoSidedArray;class;6;33;3;0;68;16;9;161
+CrawlerChallenges13109541;org.sunspotworld.ThermoOnDesktop;ThermoOnDesktop;class;3;7;1;0;3;3;4;108
+CrawlerChallenges13109541;org.sunspotworld.lib.LedUtils;LedUtils;class;2;8;1;0;0;4;1;73
+CrawlerChallenges13109541;org.sunspotworld.ServoSPOTController;ServoSPOTController;class;14;17;2;0;8;5;14;145
+CrawlerChallenges13109541;org.sunspotworld.common.Globals;Globals;class;0;1;1;0;0;1;8;22
+CrawlerChallenges13109541;org.sunspotworld.RadioStrength_BS;RadioStrength_BS;class;4;23;1;0;26;6;4;135
+CrawlerChallenges13109541;org.sunspotworld.demo.SendDataDemoHostApplication;SendDataDemoHostApplication;class;3;18;1;0;15;6;8;147
+CrawlerChallenges13109541;org.sunspotworld.demo.SensorSampler;SensorSampler;class;6;6;2;0;3;3;2;93
+CrawlerChallenges13109541;org.sunspotworld.demo.RadioStrength;RadioStrength;class;16;82;2;0;113;16;25;415

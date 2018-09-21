@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+MulticastBank55984499;Client.MultipleTester;MultipleTester;class;2;14;1;0;5;6;7;64
+MulticastBank55984499;Communication.Message;Message;class;1;2;1;3;1;2;0;20
+MulticastBank55984499;Server.Server;Server;class;23;60;1;0;0;7;10;267
+MulticastBank55984499;Client.Client;Client;class;1;31;1;0;0;3;2;177
+MulticastBank55984499;Client.BankStub;BankStub;class;15;47;1;0;0;12;7;300
+MulticastBank55984499;Communication.StateTransfer;StateTransfer;class;3;7;2;0;5;7;5;27
+MulticastBank55984499;Client.ThreadClient;ThreadClient;class;1;12;1;0;0;2;2;57
+MulticastBank55984499;Bank.BankImpl;BankImpl;class;4;87;1;0;59;27;5;508
+MulticastBank55984499;Client.SimpleTester;SimpleTester;class;1;8;1;0;0;1;0;39
+MulticastBank55984499;Bank.Data;Data;class;1;7;1;0;0;5;2;50
+MulticastBank55984499;Communication.Operation;Operation;class;3;21;2;0;40;17;10;90
+MulticastBank55984499;Bank.Bank;Bank;interface;1;4;1;0;6;4;0;8
+MulticastBank55984499;Communication.CreateLogin;CreateLogin;class;2;9;2;0;8;9;7;39
+MulticastBank55984499;Communication.Response;Response;class;2;11;2;0;5;11;7;48

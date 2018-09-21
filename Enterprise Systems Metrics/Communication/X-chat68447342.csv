@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+X-chat68447342;xchat.XChatScreen;XChatScreen;class;6;119;7;0;433;25;28;702;
+X-chat68447342;xchat.Welcome;Welcome;class;2;13;6;0;15;4;3;120;
+X-chat68447342;xchat.XChatServer;XChatServer;class;3;17;1;0;0;2;2;90;
+X-chat68447342;xchat.FileDrop;FileDrop;class;3;100;1;0;418;26;11;800;
+X-chat68447342;xchat.ChoiceMenu;ChoiceMenu;class;3;14;6;0;21;5;2;112;
+X-chat68447342;xchat.XChatClient;XChatClient;class;1;15;1;0;0;1;4;79;
+X-chat68447342;xchat.Options;Options;class;2;62;6;0;570;18;53;672;
+X-chat68447342;xchat.WaitingClient;WaitingClient;class;1;13;6;0;10;4;4;123;

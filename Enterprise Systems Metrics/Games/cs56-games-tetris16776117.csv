@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.BlockTest;BlockTest;class;9;7;1;0;21;7;0;96
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.MenuButtons;MenuButtons;class;1;1;5;0;0;1;2;35
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.TetrisBoard;TetrisBoard;class;15;204;6;0;64;29;40;895
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type3;Type3;class;2;8;2;0;1;2;1;60
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type7;Type7;class;2;6;2;0;1;2;1;44
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Block;Block;class;2;15;1;7;4;5;1;39
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type5;Type5;class;2;4;2;0;1;2;1;44
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.BoardTest;BoardTest;class;0;0;1;0;0;0;0;59
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type2;Type2;class;2;8;2;0;1;2;1;65
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.HoldPanel;HoldPanel;class;2;18;5;0;0;7;4;69
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type4;Type4;class;2;8;2;0;1;2;1;60
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type6;Type6;class;2;6;2;0;1;2;1;41
+cs56-games-tetris16776117;edu.ucsb.cs56.projects.games.tetris.Type1;Type1;class;2;2;2;0;1;2;0;23

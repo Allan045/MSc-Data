@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Computer-Architecture-Simulator20668965;simulator.ALU;ALU;class;1;41;1;0;0;18;1;237;
+Computer-Architecture-Simulator20668965;simulator.ControlPanel;ControlPanel;class;11;127;6;0;1177;43;88;1136;
+Computer-Architecture-Simulator20668965;simulator.Register;Register;class;0;34;5;0;15;14;9;187;
+Computer-Architecture-Simulator20668965;simulator.Memory;Memory;class;2;28;1;0;9;7;3;146;
+Computer-Architecture-Simulator20668965;simulator.File;File;class;0;3;1;0;0;3;2;23;
+Computer-Architecture-Simulator20668965;simulator.Cache;Cache;class;2;36;1;0;3;10;3;271;
+Computer-Architecture-Simulator20668965;simulator.Input;Input;class;0;48;5;0;1108;7;44;576;
+Computer-Architecture-Simulator20668965;simulator.Instruction;Instruction;class;7;252;2;0;6108;113;19;1337;
+Computer-Architecture-Simulator20668965;simulator.RomLoader;RomLoader;class;4;17;1;0;6;8;4;133;
+Computer-Architecture-Simulator20668965;simulator.Decoder;Decoder;class;0;90;1;0;1;2;0;255;
+Computer-Architecture-Simulator20668965;simulator.PipelinedInstruction;PipelinedInstruction;class;8;295;2;0;5904;116;26;1580;
+Computer-Architecture-Simulator20668965;simulator.Output;Output;class;0;8;5;0;0;4;4;64;

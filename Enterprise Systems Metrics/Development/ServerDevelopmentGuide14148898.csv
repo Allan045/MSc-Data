@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+ServerDevelopmentGuide14148898;org.example.cmis.server.ContentRangeInputStream;ContentRangeInputStream;class;3;33;3;0;8;9;4;120;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeRepository;FileBridgeRepository;class;96;386;1;0;1570;60;13;1734;
+ServerDevelopmentGuide14148898;org.foo.CmisCustomLoggingServiceWrapper;CmisCustomLoggingServiceWrapper;class;10;7;2;0;1;3;1;71;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeUserManager;FileBridgeUserManager;class;3;13;1;0;0;6;1;81;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeCmisServiceFactory;FileBridgeCmisServiceFactory;class;16;29;2;0;2;5;14;177;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeCmisService;FileBridgeCmisService;class;31;41;2;0;652;37;2;358;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeUtils;FileBridgeUtils;class;8;29;1;0;28;8;0;129;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeTypeManager;FileBridgeTypeManager;class;16;24;1;0;0;9;4;155;
+ServerDevelopmentGuide14148898;org.example.cmis.server.FileBridgeRepositoryManager;FileBridgeRepositoryManager;class;3;10;1;0;0;5;1;72;

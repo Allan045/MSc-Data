@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Apache-Thrift-RPC-service54224385;server.ThriftServer;ThriftServer;class;127;956;28;0;100042;454;82;3470;
+Apache-Thrift-RPC-service54224385;server.MultiplicationServer;MultiplicationServer;class;7;5;1;0;0;2;2;37;
+Apache-Thrift-RPC-service54224385;server.DataTransfer;DataTransfer;class;0;19;1;0;0;6;2;105;
+Apache-Thrift-RPC-service54224385;server.ThriftServerImpl;ThriftServerImpl;class;2;5;1;0;0;5;1;29;

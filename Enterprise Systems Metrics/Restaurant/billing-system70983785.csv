@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+billing-system70983785;test.Title;Title;class;2;46;6;0;49;10;27;328
+billing-system70983785;test.Bill;Bill;class;2;21;6;0;1;3;16;256
+billing-system70983785;test.Billing;Billing;class;3;56;6;0;53;12;21;388
+billing-system70983785;test.Customer;Customer;class;1;14;6;0;0;4;10;164
+billing-system70983785;test.Employee_detail;Employee_detail;class;2;22;6;0;9;6;5;114
+billing-system70983785;test.Transactions;Transactions;class;1;26;6;0;18;4;11;213
+billing-system70983785;test.Manager;Manager;class;7;21;6;0;19;7;4;155
+billing-system70983785;test.New_account;New_account;class;1;12;6;0;1;3;12;160
+billing-system70983785;test.Manager_detail;Manager_detail;class;2;12;6;0;1;3;8;175
+billing-system70983785;test.Employee;Employee;class;3;25;6;0;24;8;11;235
+billing-system70983785;test.Inventory;Inventory;class;1;24;6;0;0;4;13;232
+billing-system70983785;test.Menu;Menu;class;1;24;6;0;0;4;12;231
+billing-system70983785;test.Home;Home;class;4;29;6;0;1;3;9;202

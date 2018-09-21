@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SDFSp21905912;Delegate;Delegate;class;0;3;1;0;0;1;0;78;
+SDFSp21905912;CertificateDatabase;CertificateDatabase;class;0;1;1;0;0;1;2;19;
+SDFSp21905912;OnDisk;OnDisk;class;0;4;1;0;1;2;0;34;
+SDFSp21905912;SDFS;SDFS;class;1;34;1;0;0;1;5;262;
+SDFSp21905912;CertificationAuthority;CertificationAuthority;class;8;19;1;0;0;5;11;225;
+SDFSp21905912;PutFile;PutFile;class;0;1;1;0;0;1;0;55;
+SDFSp21905912;StartFSsession;StartFSsession;class;1;15;1;0;3;2;3;146;
+SDFSp21905912;Certificates;Certificates;class;3;1;1;0;0;1;8;33;
+SDFSp21905912;HashGen;HashGen;class;1;6;1;0;1;2;0;38;
+SDFSp21905912;Clients;Clients;class;4;44;1;0;31;16;13;720;
+SDFSp21905912;GetFile;GetFile;class;1;38;1;0;35;7;4;469;
+SDFSp21905912;PublicKeyEncryption;PublicKeyEncryption;class;3;4;1;0;4;4;4;54;
+SDFSp21905912;Server;Server;class;5;58;1;0;0;20;15;878;

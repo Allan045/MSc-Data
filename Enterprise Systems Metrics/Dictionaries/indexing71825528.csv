@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+indexing71825528;CompressedPostingFile;CompressedPostingFile;class;1;9;1;0;12;9;4;37
+indexing71825528;Stemmer;Stemmer;class;2;245;1;0;0;22;3;373
+indexing71825528;Lemmatizing;Lemmatizing;class;6;106;1;0;89;18;6;512
+indexing71825528;Constants;Constants;class;0;0;1;0;0;0;8;13
+indexing71825528;Stemming;Stemming;class;6;116;1;0;126;20;6;529
+indexing71825528;Document;Document;class;0;7;1;0;3;7;3;28
+indexing71825528;PostingFile;PostingFile;class;0;5;1;0;0;5;2;21
+indexing71825528;CompressedDictionaryModel;CompressedDictionaryModel;class;2;7;1;0;3;7;3;29
+indexing71825528;StanfordLemmatizer;StanfordLemmatizer;class;6;4;1;0;0;2;1;30

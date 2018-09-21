@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+eclipedu45171253;plugin.swt.windows.StartTest;StartTest;class;12;9;1;0;0;3;6;115;
+eclipedu45171253;plugin.swt.dialogs.FinishTestDialog;FinishTestDialog;class;9;11;2;0;0;3;3;107;
+eclipedu45171253;plugin.git.JGitMethods;JGitMethods;class;7;24;1;0;0;13;3;193;
+eclipedu45171253;plugin.swt.dialogs.DijalogPocni;DijalogPocni;class;10;14;2;0;25;9;6;112;
+eclipedu45171253;plugin.eclipse.wb.swt.SWTResourceManager;SWTResourceManager;class;14;69;1;0;111;18;12;444;
+eclipedu45171253;plugin.Activator;Activator;class;4;5;2;0;4;5;2;52;
+eclipedu45171253;plugin.git.JGit;JGit;class;6;22;1;0;0;12;3;172;
+eclipedu45171253;plugin.configuration.Config;Config;class;1;6;1;0;0;4;1;38;
+eclipedu45171253;plugin.handlers.SampleHandler;SampleHandler;class;3;2;2;0;1;2;0;29;
+eclipedu45171253;org.eclipse.wb.swt.SWTResourceManager;SWTResourceManager;class;14;69;1;0;111;18;12;444;
+eclipedu45171253;plugin.handlers.FinishButtonHandler;FinishButtonHandler;class;4;1;2;0;0;1;0;17;
+eclipedu45171253;plugin.swt.dialogs.StartDialog;StartDialog;class;10;16;2;0;21;9;7;142;

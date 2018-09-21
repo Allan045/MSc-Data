@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+WonderGames30624441;MCQDisplay;MCQDisplay;class;4;37;5;0;15;2;0;139
+WonderGames30624441;Til;Til;class;3;11;1;0;2;5;3;31
+WonderGames30624441;Opp;Opp;class;6;24;2;0;2;5;3;90
+WonderGames30624441;Map;Map;class;5;64;5;0;8;9;21;282
+WonderGames30624441;EndScreen;EndScreen;class;0;4;5;0;0;1;2;29
+WonderGames30624441;Character;Character;class;0;29;1;1;86;17;10;101
+WonderGames30624441;MCQ;MCQ;class;1;15;1;0;36;12;5;68
+WonderGames30624441;Menu;Menu;class;2;64;5;0;219;4;3;261
+WonderGames30624441;Driver;Driver;class;1;1;1;0;0;1;1;18

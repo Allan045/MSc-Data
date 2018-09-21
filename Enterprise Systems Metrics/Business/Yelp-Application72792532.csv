@@ -1,0 +1,4 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Yelp-Application72792532;com.hw3.UI;UI;class;2;20;6;0;92;15;19;179
+Yelp-Application72792532;com.hw3.CatPanelCheckBoxActionHandler;CatPanelCheckBoxActionHandler;class;2;80;1;0;680;27;20;598
+Yelp-Application72792532;com.JsonParsing;JsonParsing;class;4;98;1;0;0;12;1;557

@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Login;Login;class;7;42;2;0;10;5;1;252
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.GetQRCode;GetQRCode;class;6;3;2;0;3;3;1;58
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Delete;Delete;class;7;17;2;0;3;3;1;127
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.BitIdentity;BitIdentity;class;2;37;1;0;99;18;5;126
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Cid;Cid;class;6;26;2;0;6;4;2;161
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Wellcome;Wellcome;class;6;15;2;0;3;3;1;126
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.SessionLongPollWait;SessionLongPollWait;class;5;15;2;0;3;3;1;98
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.SessionJanitor;SessionJanitor;class;3;2;1;0;0;2;1;26
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.BitcoinKeyPair;BitcoinKeyPair;class;3;9;1;0;0;6;1;38
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.User;User;class;0;6;1;0;9;6;3;25
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Create;Create;class;6;17;2;0;3;3;2;149
+CryptoIDDemo15359423;fi.kotipalo.h.CryptoID.Utils;Utils;class;5;43;1;0;53;11;2;174

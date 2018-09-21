@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Restaurant-Recommendation-Service49482982;db.DBConnection;DBConnection;class;6;75;1;0;0;14;9;362
+Restaurant-Recommendation-Service49482982;db.DBImport;DBImport;class;3;14;1;0;6;4;0;150
+Restaurant-Recommendation-Service49482982;laiproject.RecommendRestaurants;RecommendRestaurants;class;7;8;2;0;1;3;2;66
+Restaurant-Recommendation-Service49482982;db.DBConnectionDBUnit;DBConnectionDBUnit;class;11;8;2;0;21;7;0;81
+Restaurant-Recommendation-Service49482982;yelp.Restaurant;Restaurant;class;3;15;1;0;26;12;10;80
+Restaurant-Recommendation-Service49482982;yelp.YelpAPI;YelpAPI;class;11;7;1;0;8;5;10;77
+Restaurant-Recommendation-Service49482982;laiproject.SetVisitedRestaurants;SetVisitedRestaurants;class;7;9;2;0;1;3;2;73
+Restaurant-Recommendation-Service49482982;db.CategoryImport;CategoryImport;class;0;12;1;0;0;1;1;57
+Restaurant-Recommendation-Service49482982;yelp.TwoStepOAuth;TwoStepOAuth;class;2;3;2;0;3;3;0;20
+Restaurant-Recommendation-Service49482982;db.DBConnectionTest;DBConnectionTest;class;4;4;1;0;1;2;0;53
+Restaurant-Recommendation-Service49482982;laiproject.GetRestaurantsNearby;GetRestaurantsNearby;class;7;10;2;0;1;3;2;78
+Restaurant-Recommendation-Service49482982;db.DBYelpImport;DBYelpImport;class;2;13;1;0;6;4;0;96

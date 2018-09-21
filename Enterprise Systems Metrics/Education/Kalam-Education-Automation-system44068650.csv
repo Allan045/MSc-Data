@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Kalam-Education-Automation-system44068650;org.kalam.viewer.StChildFactory;StChildFactory;class;6;6;3;0;4;4;1;41;
+Kalam-Education-Automation-system44068650;org.kalam.cviewer.CRootNode;CRootNode;class;3;2;2;0;1;2;0;24;
+Kalam-Education-Automation-system44068650;org.kalam.viewer.Bundle;Bundle;class;1;6;1;0;15;6;0;41;
+Kalam-Education-Automation-system44068650;org.kalam.viewer.stRootRefreshAction;stRootRefreshAction;class;3;1;1;0;0;1;0;19;
+Kalam-Education-Automation-system44068650;org.kalam.ceditor.CeditorTopComponent;CeditorTopComponent;class;27;46;2;0;608;13;26;471;
+Kalam-Education-Automation-system44068650;org.kalam.cviewer.CviewerTopComponent;CviewerTopComponent;class;17;16;2;0;96;13;11;204;
+Kalam-Education-Automation-system44068650;org.kalam.editor.Bundle;Bundle;class;1;5;1;0;10;5;0;34;
+Kalam-Education-Automation-system44068650;org.kalam.editor.NewAction;NewAction;class;4;1;1;0;0;1;0;23;
+Kalam-Education-Automation-system44068650;org.kalam.viewer.viewerTopComponent;viewerTopComponent;class;15;26;2;0;116;16;15;335;
+Kalam-Education-Automation-system44068650;org.kalam.viewer.stRootNode;stRootNode;class;3;2;2;0;1;2;0;24;
+Kalam-Education-Automation-system44068650;org.kalam.cviewer.CRootRefreshAction;CRootRefreshAction;class;3;1;1;0;0;1;0;19;
+Kalam-Education-Automation-system44068650;org.kalam.ceditor.CNewAction;CNewAction;class;4;1;1;0;0;1;0;23;
+Kalam-Education-Automation-system44068650;org.kalam.cviewer.Bundle;Bundle;class;1;6;1;0;15;6;0;41;
+Kalam-Education-Automation-system44068650;org.kalam.ceditor.Bundle;Bundle;class;1;5;1;0;10;5;0;34;
+Kalam-Education-Automation-system44068650;org.kalam.cviewer.CChildFactory;CChildFactory;class;6;6;3;0;4;4;1;41;
+Kalam-Education-Automation-system44068650;org.kalam.editor.editorTopComponent;editorTopComponent;class;23;62;2;0;1154;17;32;607;

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+TravelExpress78456664;com.Business.businessLayer;businessLayer;class;4;26;1;0;0;13;1;108
+TravelExpress78456664;com.IDao.IDao;IDao;interface;1;13;1;0;78;13;0;23
+TravelExpress78456664;com.model.Bus;Bus;class;0;4;1;0;2;4;2;23
+TravelExpress78456664;com.Controller.NewUser;NewUser;class;7;5;2;0;3;3;2;50
+TravelExpress78456664;com.Controller.WelcomePage;WelcomePage;class;8;11;2;0;3;3;3;69
+TravelExpress78456664;com.model.Itinerary;Itinerary;class;0;22;1;0;209;22;11;93
+TravelExpress78456664;com.Controller.NewPassword;NewPassword;class;7;4;2;0;1;2;2;33
+TravelExpress78456664;com.Dao.Dao;Dao;class;6;126;1;0;0;14;4;433
+TravelExpress78456664;com.Controller.PreConfirmation;PreConfirmation;class;7;2;2;0;1;2;1;36
+TravelExpress78456664;com.Controller.SelectRegion;SelectRegion;class;13;10;2;0;1;2;2;83
+TravelExpress78456664;com.model.Rail;Rail;class;0;4;1;0;2;4;2;23
+TravelExpress78456664;com.IBusiness.Ibusiness;Ibusiness;interface;1;13;1;0;78;13;0;22
+TravelExpress78456664;com.model.Air;Air;class;0;4;1;0;2;4;2;26
+TravelExpress78456664;com.Controller.hotel;hotel;class;10;2;2;0;1;2;2;45
+TravelExpress78456664;com.Controller.Confirmation;Confirmation;class;9;16;2;0;3;3;3;83
+TravelExpress78456664;com.model.hoteModel;hoteModel;class;0;8;1;0;20;8;4;31

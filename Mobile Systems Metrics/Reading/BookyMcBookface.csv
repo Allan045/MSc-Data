@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+BookyMcBookface;com.quaap.bookymcbookface.book.TxtBook;TxtBook;class;21;34;2;0;28;8;2;155;
+BookyMcBookface;com.quaap.bookymcbookface.book.BookMetadata;BookMetadata;class;3;8;1;0;20;8;4;45;
+BookyMcBookface;com.quaap.bookymcbookface.SortOrder;SortOrder;enum;0;0;1;0;0;0;0;14;
+BookyMcBookface;com.quaap.bookymcbookface.Zip;Zip;class;11;12;1;0;0;1;0;59;
+BookyMcBookface;com.quaap.bookymcbookface.ExampleUnitTest;ExampleUnitTest;class;1;1;1;0;0;1;0;14;
+BookyMcBookface;com.quaap.bookymcbookface.GetBooksActivity;GetBooksActivity;class;18;20;2;0;12;5;4;124;
+BookyMcBookface;com.quaap.bookymcbookface.book.Book;Book;class;15;67;1;3;644;45;15;239;
+BookyMcBookface;com.quaap.bookymcbookface.book.HtmlBook;HtmlBook;class;20;29;2;0;19;7;5;142;
+BookyMcBookface;com.quaap.bookymcbookface.FsTools;FsTools;class;45;124;1;0;274;18;1;397;
+BookyMcBookface;com.quaap.bookymcbookface.ReaderActivity;ReaderActivity;class;37;109;3;0;605;26;17;482;
+BookyMcBookface;com.quaap.bookymcbookface.book.EpubBook;EpubBook;class;44;85;2;0;153;19;16;362;
+BookyMcBookface;com.quaap.bookymcbookface.BookyApp;BookyApp;class;5;5;2;0;0;3;1;31;
+BookyMcBookface;com.quaap.bookymcbookface.BookDb;BookDb;class;21;46;2;0;23;19;23;252;
+BookyMcBookface;com.quaap.bookymcbookface.BookListActivity;BookListActivity;class;54;152;5;0;908;37;19;576;

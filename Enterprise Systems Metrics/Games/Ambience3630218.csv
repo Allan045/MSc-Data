@@ -1,0 +1,9 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Ambience3630218;g5.ambience.model.BundleEntity;BundleEntity;class;10;11;1;0;45;11;6;60
+Ambience3630218;g5.ambience.controller.ItemController;ItemController;class;7;70;1;0;1400;60;25;454
+Ambience3630218;g5.ambience.test.UserEntityTest;UserEntityTest;class;8;47;1;0;978;45;1;349
+Ambience3630218;g5.ambience.model.UserEntity;UserEntity;class;7;40;1;0;718;40;20;183
+Ambience3630218;g5.ambience.util.Auth;Auth;class;0;13;1;0;0;5;5;141
+Ambience3630218;g5.ambience.controller.UserController;UserController;class;13;58;1;0;543;39;16;349
+Ambience3630218;g5.ambience.model.ItemEntity;ItemEntity;class;7;36;1;0;532;36;18;173
+Ambience3630218;g5.ambience.model.BundleEntityPK;BundleEntityPK;class;4;13;1;0;4;9;4;60

@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+HomecontrolFX20017844;me.Christian.other.OtherStuff;OtherStuff;class;2;15;1;0;19;7;5;83;
+HomecontrolFX20017844;me.Christian.networking.Crypter;Crypter;class;1;30;1;0;1;3;6;90;
+HomecontrolFX20017844;me.Christian.other.ConfigFileStuff;ConfigFileStuff;class;0;37;1;0;3;3;0;224;
+HomecontrolFX20017844;me.Christian.other.MySQL;MySQL;class;0;18;1;0;0;4;2;125;
+HomecontrolFX20017844;me.Christian.other.ChangeOutStream;ChangeOutStream;class;0;6;1;0;1;1;0;25;
+HomecontrolFX20017844;me.Christian.pack.GuiVariables;GuiVariables;class;0;0;1;0;0;0;0;3;
+HomecontrolFX20017844;me.Christian.networking.CheckMessage;CheckMessage;class;0;19;1;0;0;1;2;36;
+HomecontrolFX20017844;me.Christian.networking.ServerThread;ServerThread;class;1;31;1;0;0;2;2;137;
+HomecontrolFX20017844;me.Christian.other.UnlockTimer;UnlockTimer;class;0;6;2;0;0;2;1;19;
+HomecontrolFX20017844;me.Christian.other.FeedReader;FeedReader;class;9;101;1;0;0;3;9;251;
+HomecontrolFX20017844;me.Christian.networking.Server;Server;class;1;15;1;0;0;5;2;76;
+HomecontrolFX20017844;me.Christian.pack.Main;Main;class;61;782;2;0;619;16;77;2769;
+HomecontrolFX20017844;me.Christian.threads.Thread_GetWeather;Thread_GetWeather;class;2;13;1;0;0;2;3;64;

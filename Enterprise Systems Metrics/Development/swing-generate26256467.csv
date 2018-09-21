@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+swing-generate26256467;org.unique.generator.model.Database;Database;class;1;8;1;0;20;8;4;51;
+swing-generate26256467;org.unique.generator.CodeGenerator;CodeGenerator;class;5;3;1;0;0;1;2;59;
+swing-generate26256467;org.unique.generator.StringUtil;StringUtil;class;0;28;1;0;21;7;0;148;
+swing-generate26256467;org.unique.generator.model.Column;Column;class;0;30;1;0;183;22;11;136;
+swing-generate26256467;org.unique.generator.VelocityInfoOp;VelocityInfoOp;class;3;11;1;0;1;2;0;78;
+swing-generate26256467;org.unique.generator.GetDBInfo;GetDBInfo;class;1;10;1;0;1;2;0;136;
+swing-generate26256467;org.unique.generator.model.Table;Table;class;1;27;1;0;133;18;8;132;
+swing-generate26256467;org.unique.generator.DatabaseInfoOp;DatabaseInfoOp;class;3;35;1;0;0;5;6;184;
+swing-generate26256467;org.unique.generator.ui.MainFrame;MainFrame;class;4;34;6;0;43;8;13;295;

@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+business_project11406921;wsc_application.WilliamsSpecialtyGUI;WilliamsSpecialtyGUI;class;6;381;5;0;7773;67;226;2900
+business_project11406921;wsc_application.Employee;Employee;class;2;47;1;0;249;26;8;300
+business_project11406921;wsc_application.InventoryItem;InventoryItem;class;2;43;1;0;177;23;7;251
+business_project11406921;wsc_application.QAReport;QAReport;class;4;61;1;0;316;29;12;288
+business_project11406921;wsc_application.OrderVerify;OrderVerify;class;4;79;1;0;570;37;16;349
+business_project11406921;wsc_application.Login;Login;class;2;10;1;0;0;3;8;96
+business_project11406921;wsc_application.MysqlConn;MysqlConn;class;0;16;1;0;0;5;6;96
+business_project11406921;wsc_application.Customer;Customer;class;2;56;1;0;290;29;11;295
+business_project11406921;wsc_application.Messaging;Messaging;class;0;3;1;0;3;3;0;23
+business_project11406921;wsc_application.SrProject;SrProject;class;2;2;1;0;1;2;1;44
+business_project11406921;wsc_application.Order;Order;class;7;62;1;0;390;33;14;378

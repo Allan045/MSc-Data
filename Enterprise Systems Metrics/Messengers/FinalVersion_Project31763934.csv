@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+FinalVersion_Project31763934;model.ChatMessage;ChatMessage;class;0;3;1;0;0;3;6;30
+FinalVersion_Project31763934;model.Server;Server;class;4;54;2;0;6;12;13;291
+FinalVersion_Project31763934;EmailChecker;EmailChecker;class;1;2;1;0;0;1;0;12
+FinalVersion_Project31763934;Controller.PasswordChecker;PasswordChecker;class;0;10;1;0;0;1;0;27
+FinalVersion_Project31763934;View.Starter;Starter;class;2;1;1;0;0;1;0;14
+FinalVersion_Project31763934;model.Client;Client;class;4;44;2;0;2;8;6;224
+FinalVersion_Project31763934;model.User;User;class;0;5;1;0;0;5;2;22
+FinalVersion_Project31763934;View.ServerGUI;ServerGUI;class;5;20;7;0;73;14;5;131
+FinalVersion_Project31763934;View.ClientGUI;ClientGUI;class;1;20;6;0;2;5;8;182
+FinalVersion_Project31763934;Controller.DBWrapper;DBWrapper;class;1;12;1;0;0;5;5;157
+FinalVersion_Project31763934;View.LogIn;LogIn;class;6;9;6;0;9;3;5;110
+FinalVersion_Project31763934;View.Register;Register;class;13;6;2;0;2;2;6;74

@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DBMS-Online-Messenger20182860;Notification;Notification;class;1;6;1;0;0;4;5;25
+DBMS-Online-Messenger20182860;ChatPane;ChatPane;class;0;10;7;0;0;3;1;54
+DBMS-Online-Messenger20182860;ChatBarResponder;ChatBarResponder;class;4;113;1;0;71;15;2;351
+DBMS-Online-Messenger20182860;Command;Command;class;0;1;1;0;0;1;4;12
+DBMS-Online-Messenger20182860;Messenger;Messenger;class;1;62;1;0;394;29;1;498
+DBMS-Online-Messenger20182860;Chat;Chat;class;4;30;1;0;31;10;8;101
+DBMS-Online-Messenger20182860;Message;Message;class;1;9;1;0;0;3;8;40
+DBMS-Online-Messenger20182860;MessengerUser;MessengerUser;class;1;3;1;0;0;1;7;19
+DBMS-Online-Messenger20182860;Messenger_GUI;Messenger_GUI;class;22;147;19;0;1732;63;23;791
+DBMS-Online-Messenger20182860;GhostText;GhostText;class;1;23;3;0;19;15;8;156
+DBMS-Online-Messenger20182860;Main;Main;class;1;33;2;0;3;3;1;158

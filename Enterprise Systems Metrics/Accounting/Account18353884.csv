@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Account18353884;account.DataBase;DataBase;class;1;24;1;0;66;12;6;156
+Account18353884;account.ViewDetails;ViewDetails;class;3;45;6;0;62;6;16;282
+Account18353884;account.Billing;Billing;class;5;71;6;0;402;18;43;531
+Account18353884;account.DataEntry;DataEntry;class;6;50;6;0;272;13;23;430
+Account18353884;account.Home;Home;class;5;19;6;0;103;9;4;152

@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+WarGames21908225;Logger.WarFormatter;WarFormatter;class;0;1;2;0;0;1;0;19
+WarGames21908225;WarWeapons.Launcher;Launcher;class;6;43;2;0;54;19;11;260
+WarGames21908225;Main.Program;Program;class;1;2;1;0;0;1;1;27
+WarGames21908225;Main.War;War;class;6;32;1;0;71;18;12;205
+WarGames21908225;WarWeapons.Destructor;Destructor;class;8;37;2;0;5;14;9;162
+WarGames21908225;WarWeapons.Missile;Missile;class;4;35;2;0;122;20;12;188
+WarGames21908225;Logger.ObjectFilter;ObjectFilter;class;0;9;1;0;0;3;1;36
+WarGames21908225;Main.Menu;Menu;class;4;54;1;0;0;10;3;284
+WarGames21908225;Main.Statistics;Statistics;class;0;19;1;0;44;17;5;92
+WarGames21908225;XML.ReadXMLFile;ReadXMLFile;class;9;18;1;0;10;5;0;214

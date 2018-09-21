@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+3d-sound-localization32187273;ConcurrencyUtils;ConcurrencyUtils;class;2;39;1;0;221;23;8;273
+3d-sound-localization32187273;Signal;Signal;class;2;10;1;0;0;6;3;71
+3d-sound-localization32187273;CipicDownloader;CipicDownloader;class;2;19;1;0;1;2;0;109
+3d-sound-localization32187273;WavFile;WavFile;class;7;189;1;0;330;40;22;598
+3d-sound-localization32187273;DoubleFFT_1D;DoubleFFT_1D;class;3;741;1;0;485;74;14;6255
+3d-sound-localization32187273;Create_Customization_Files;Create_Customization_Files;class;1;18;1;0;0;1;0;69
+3d-sound-localization32187273;Convolution;Convolution;class;2;27;1;0;6;4;0;136
+3d-sound-localization32187273;WavFileException;WavFileException;class;0;4;3;0;6;4;0;19
+3d-sound-localization32187273;Run;Run;class;1;20;1;0;0;1;0;76
+3d-sound-localization32187273;Interpolation;Interpolation;class;1;117;1;0;91;15;7;415

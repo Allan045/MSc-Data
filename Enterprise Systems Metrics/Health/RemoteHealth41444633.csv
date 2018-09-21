@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+RemoteHealth41444633;KioskClient;KioskClient;class;2;66;1;0;27;15;4;360;
+RemoteHealth41444633;server.RHErrors;RHErrors;class;0;15;1;0;0;1;13;73;
+RemoteHealth41444633;server.ServerConnection;ServerConnection;class;1;29;1;0;35;11;7;253;
+RemoteHealth41444633;DoctorClient;DoctorClient;class;2;64;1;0;27;15;3;354;
+RemoteHealth41444633;RHClientSecurity;RHClientSecurity;class;2;7;1;0;0;4;3;81;
+RemoteHealth41444633;RHConverter;RHConverter;class;9;29;1;0;7;7;5;168;
+RemoteHealth41444633;ClientTest;ClientTest;class;1;2;1;0;0;1;0;16;
+RemoteHealth41444633;server.DataServer;DataServer;class;3;25;1;0;10;9;6;159;
+RemoteHealth41444633;server.DataServerProtocol;DataServerProtocol;class;2;83;2;0;0;15;4;352;
+RemoteHealth41444633;server.RHServer;RHServer;class;1;5;1;0;0;3;4;64;
+RemoteHealth41444633;ClientConnection;ClientConnection;class;1;29;1;0;35;11;7;238;
+RemoteHealth41444633;decrypter;decrypter;class;1;2;1;0;0;1;0;19;
+RemoteHealth41444633;encrypter;encrypter;class;1;2;1;0;0;1;0;19;
+RemoteHealth41444633;FileData;FileData;class;2;8;1;0;0;4;1;94;
+RemoteHealth41444633;server.IntegratedAuthServer;IntegratedAuthServer;class;1;36;1;0;0;5;2;181;
+RemoteHealth41444633;RHErrors;RHErrors;class;0;15;1;0;0;1;13;73;

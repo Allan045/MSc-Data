@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;AddServer;AddServer;class;2;2;1;0;0;1;0;21
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;GenerateKey;GenerateKey;class;5;7;1;0;1;2;5;103
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;AddClient;AddClient;class;1;2;1;0;0;1;0;16
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;FileOpen;FileOpen;class;0;7;6;0;13;5;4;63
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;AddImpl;AddImpl;class;2;89;1;0;325;26;0;499
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;Primitive;Primitive;class;2;29;1;0;3;3;2;90
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;Design;Design;class;3;22;6;0;55;9;16;194
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;Login;Login;class;4;19;6;0;54;9;11;161
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;ConnectDatabase;ConnectDatabase;class;0;2;1;0;0;1;1;21
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;AddInter;AddInter;interface;0;25;1;0;300;25;0;31
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;newkey;newkey;class;3;19;1;0;2;4;19;151
+Distributed-Colleborative-Key-Agreement-Protocol-Using-Dynamic-Peer-Groups68395127;Member;Member;class;6;123;6;0;778;27;54;882

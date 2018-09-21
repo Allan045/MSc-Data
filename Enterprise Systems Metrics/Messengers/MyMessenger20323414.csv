@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+MyMessenger20323414;arquivo.logica.OuvirArquivos;OuvirArquivos;class;5;10;1;0;0;2;5;83
+MyMessenger20323414;requests.FileTransferPermissionRequest;FileTransferPermissionRequest;class;0;13;1;0;62;13;10;56
+MyMessenger20323414;arquivo.gui.ProgressoTransmissao;ProgressoTransmissao;class;1;5;6;0;4;4;3;51
+MyMessenger20323414;arquivo.logica.MandarArquivos;MandarArquivos;class;3;2;1;0;0;1;1;41
+MyMessenger20323414;requests.MyDisconnectionRequest;MyDisconnectionRequest;class;0;0;1;0;0;0;1;8
+MyMessenger20323414;gui.TelaInicial;TelaInicial;class;2;15;1;0;6;4;4;117
+MyMessenger20323414;requests.DisconnectionAcknoledged;DisconnectionAcknoledged;class;0;0;1;0;0;0;1;8
+MyMessenger20323414;gui.ClienteGUI;ClienteGUI;class;11;47;6;0;99;15;16;267
+MyMessenger20323414;relatorio.Relatorio;Relatorio;class;0;3;6;0;0;2;6;71
+MyMessenger20323414;arquivo.gui.TrasferirArquivoGUI;TrasferirArquivoGUI;class;3;15;6;0;0;3;4;121
+MyMessenger20323414;servidor.ServidorSocket;ServidorSocket;class;4;47;2;0;10;9;6;178

@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+mental-health-liberia-client43438107;mentalhealthliberia.MentalHealthLiberiaView;MentalHealthLiberiaView;class;17;178;3;0;1454;31;223;2556;
+mental-health-liberia-client43438107;mentalhealthliberia.PatientEncounterFormController;PatientEncounterFormController;class;7;108;1;0;171;19;1;480;
+mental-health-liberia-client43438107;mentalhealthliberia.PatientEncounterForm;PatientEncounterForm;class;0;165;1;0;13530;165;82;601;
+mental-health-liberia-client43438107;mentalhealthliberia.MentalHealthLiberiaApp;MentalHealthLiberiaApp;class;3;13;2;0;24;8;4;84;
+mental-health-liberia-client43438107;mentalhealthliberia.MentalHealthLiberiaUploadView;MentalHealthLiberiaUploadView;class;4;4;6;0;4;3;8;114;
+mental-health-liberia-client43438107;mentalhealthliberia.BrowseFormsDialog;BrowseFormsDialog;class;6;13;8;0;31;8;8;128;
+mental-health-liberia-client43438107;mentalhealthliberia.DataStore;DataStore;class;6;37;1;0;15;7;2;194;
+mental-health-liberia-client43438107;mentalhealthliberia.MentalHealthLiberiaPatientID;MentalHealthLiberiaPatientID;class;4;9;6;0;15;4;21;250;
+mental-health-liberia-client43438107;mentalhealthliberia.MentalHealthLiberiaAboutBox;MentalHealthLiberiaAboutBox;class;4;3;6;0;3;3;1;115;

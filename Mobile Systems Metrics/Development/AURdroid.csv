@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+AURdroid;com.rascarlo.aurdroid.AurDroidUtils;AurDroidUtils;class;10;7;1;0;0;4;1;59;
+AURdroid;com.rascarlo.aurdroid.api.model.aur.search.AurSearchObject;AurSearchObject;class;10;7;1;0;15;7;6;64;
+AURdroid;com.rascarlo.aurdroid.api.model.aur.search.AurSearchResult;AurSearchResult;class;10;7;1;0;15;7;15;117;
+AURdroid;com.rascarlo.aurdroid.ExampleInstrumentedTest;ExampleInstrumentedTest;class;4;1;1;0;0;1;0;21;
+AURdroid;com.rascarlo.aurdroid.MainActivity;MainActivity;class;17;41;2;0;131;18;4;224;
+AURdroid;com.rascarlo.aurdroid.SearchFragment;SearchFragment;class;46;138;2;0;246;29;31;554;
+AURdroid;com.rascarlo.aurdroid.api.model.aur.info.AurInfoResult;AurInfoResult;class;11;7;1;0;15;7;22;160;
+AURdroid;com.rascarlo.aurdroid.AurPackageDetailsFragment;AurPackageDetailsFragment;class;39;120;2;0;93;30;15;486;
+AURdroid;com.rascarlo.aurdroid.api.AurRpcApi;AurRpcApi;interface;8;4;1;0;6;4;0;21;
+AURdroid;com.rascarlo.aurdroid.adapters.AurSearchResultAdapter;AurSearchResultAdapter;class;17;25;2;0;18;15;15;165;
+AURdroid;com.rascarlo.aurdroid.api.AurRpcService;AurRpcService;class;18;8;2;0;6;3;2;74;
+AURdroid;com.rascarlo.aurdroid.api.model.aur.info.AurInfoObject;AurInfoObject;class;10;7;1;0;15;7;5;58;
+AURdroid;com.rascarlo.aurdroid.AurDroidDialogFragment;AurDroidDialogFragment;class;13;6;2;0;0;4;4;46;
+AURdroid;com.rascarlo.aurdroid.ExampleUnitTest;ExampleUnitTest;class;1;1;1;0;0;1;0;14;

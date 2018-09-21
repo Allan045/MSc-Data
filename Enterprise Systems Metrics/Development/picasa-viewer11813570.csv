@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+picasa-viewer11813570;com.nokia.example.picasaviewer.PicasaViewer;PicasaViewer;class;2;6;2;0;3;3;3;64;
+picasa-viewer11813570;com.nokia.example.picasaviewer.util.GestureHandler;GestureHandler;class;9;17;1;0;0;9;9;191;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.CustomCategoryBar;CustomCategoryBar;class;10;100;3;0;173;25;37;457;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.SearchBar;SearchBar;class;9;52;2;0;42;17;26;264;
+picasa-viewer11813570;com.nokia.example.picasaviewer.util.CategoryBarHandler;CategoryBarHandler;class;8;14;1;0;3;7;7;141;
+picasa-viewer11813570;com.nokia.example.picasaviewer.common.PicasaStorage;PicasaStorage;class;11;19;1;0;5;6;11;176;
+picasa-viewer11813570;com.nokia.example.picasaviewer.util.ImageUtils;ImageUtils;class;4;26;1;0;6;4;0;179;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.DetailCanvas;DetailCanvas;class;11;41;3;0;25;9;7;218;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.GestureCanvas;GestureCanvas;class;8;48;2;1;108;19;23;364;
+picasa-viewer11813570;com.nokia.example.picasaviewer.util.ViewManager;ViewManager;class;8;18;1;0;26;12;13;177;
+picasa-viewer11813570;com.nokia.example.picasaviewer.common.PicasaImageObject;PicasaImageObject;class;0;2;1;0;0;2;4;36;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.FeaturedCanvas;FeaturedCanvas;class;7;34;4;0;0;8;5;156;
+picasa-viewer11813570;com.nokia.example.picasaviewer.util.UpdateIconCommand;UpdateIconCommand;class;2;3;2;0;0;1;1;31;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.ImageGridCanvas;ImageGridCanvas;class;9;35;5;1;13;11;9;226;
+picasa-viewer11813570;com.nokia.example.picasaviewer.ui.SearchCanvas;SearchCanvas;class;11;56;4;0;10;14;6;233;

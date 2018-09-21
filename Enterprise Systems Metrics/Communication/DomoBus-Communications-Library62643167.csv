@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+DomoBus-Communications-Library62643167;dcomm.IDCommImpl;IDCommImpl;class;2;19;1;0;171;19;0;122;
+DomoBus-Communications-Library62643167;domobus.communications.Dispatcher;Dispatcher;class;2;50;2;0;0;7;5;266;
+DomoBus-Communications-Library62643167;domobus.communications.Logger;Logger;class;1;14;1;0;0;4;4;103;
+DomoBus-Communications-Library62643167;domobus.communications.Worker;Worker;class;3;65;2;0;0;11;5;315;
+DomoBus-Communications-Library62643167;domobus.communications.Manager;Manager;class;8;227;2;0;384;39;21;919;
+DomoBus-Communications-Library62643167;domobus.communications.Peer;Peer;class;2;16;2;0;0;8;7;116;
+DomoBus-Communications-Library62643167;domobus.communications.Globals;Globals;class;1;11;1;0;2;5;58;131;
+DomoBus-Communications-Library62643167;domobus.communications.IDComm;IDComm;interface;1;23;3;0;253;23;0;52;
+DomoBus-Communications-Library62643167;domobusnameserver.DomoBusNameServer;DomoBusNameServer;class;2;23;1;0;0;1;0;185;
+DomoBus-Communications-Library62643167;dcomm.DCOMM;DCOMM;class;4;82;1;0;4;4;2;425;

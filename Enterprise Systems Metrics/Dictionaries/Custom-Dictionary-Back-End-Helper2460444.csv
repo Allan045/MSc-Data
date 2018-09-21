@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.factories.DictionaryEntryRowProcessor;DictionaryEntryRowProcessor;class;3;11;1;0;10;5;1;67
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.ui.dba.DBAViewUI;DBAViewUI;class;9;84;6;0;1068;31;52;822
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.factories.DBManager;DBManager;class;12;36;1;0;0;13;13;297
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.factories.DBSupporter;DBSupporter;class;2;11;1;0;6;4;1;76
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.methods.GeneralMethods;GeneralMethods;class;2;9;1;0;6;4;1;61
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.beans.DictionaryEntry;DictionaryEntry;class;1;11;1;0;45;11;5;47
+Custom-Dictionary-Back-End-Helper2460444;com.megaware.wordslib.ui.dba.TableMaker;TableMaker;class;2;10;2;0;7;7;3;63

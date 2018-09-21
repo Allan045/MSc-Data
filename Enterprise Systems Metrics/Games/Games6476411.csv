@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Games6476411;Tetris;Tetris;class;3;265;5;0;2;20;25;656
+Games6476411;Ghost;Ghost;class;2;123;1;0;173;27;23;291
+Games6476411;TetrisSFXPlayer;TetrisSFXPlayer;class;1;20;1;0;0;6;5;53
+Games6476411;PacManLauncher;PacManLauncher;class;1;1;5;0;0;1;1;16
+Games6476411;TetrisLauncher;TetrisLauncher;class;1;1;5;0;0;1;0;18
+Games6476411;SFXPlayer;SFXPlayer;class;2;21;1;0;0;7;5;67
+Games6476411;TilesGrid;TilesGrid;class;1;40;1;0;124;24;3;106
+Games6476411;GridLayout;GridLayout;class;1;74;1;0;49;14;80;321
+Games6476411;PacMan;PacMan;class;1;36;1;0;0;10;10;83
+Games6476411;PacManGame;PacManGame;class;5;321;5;0;0;26;25;864
+Games6476411;Tetronimo;Tetronimo;class;1;103;1;0;415;35;18;255

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+CSCI5448_HealthTracker50953971;mytld.mycompany.myapp.HomeController;HomeController;class;19;90;1;0;0;28;16;576;
+CSCI5448_HealthTracker50953971;com.mycompany.dao.PatientDAO;PatientDAO;class;4;4;1;0;3;3;0;45;
+CSCI5448_HealthTracker50953971;com.mycompany.model.Student_Info;Student_Info;class;3;6;1;0;3;6;2;29;
+CSCI5448_HealthTracker50953971;com.mycompany.model.User;User;class;2;18;1;0;105;18;8;82;
+CSCI5448_HealthTracker50953971;com.mycompany.model.Appointment;Appointment;class;8;7;1;0;15;7;4;42;
+CSCI5448_HealthTracker50953971;com.mycompany.model.Sort;Sort;interface;1;1;1;0;0;1;0;4;
+CSCI5448_HealthTracker50953971;com.mycompany.model.Patient;Patient;class;10;15;2;0;71;15;6;77;
+CSCI5448_HealthTracker50953971;com.mycompany.model.SpecializationSort;SpecializationSort;class;5;1;1;0;0;1;0;21;
+CSCI5448_HealthTracker50953971;com.mycompany.model.HealthParameters;HealthParameters;class;5;10;1;0;21;10;5;50;
+CSCI5448_HealthTracker50953971;com.mycompany.model.LocationSort;LocationSort;class;5;1;1;0;0;1;0;21;
+CSCI5448_HealthTracker50953971;com.mycompany.model.User_Test;User_Test;class;4;7;1;0;15;7;3;35;
+CSCI5448_HealthTracker50953971;com.mycompany.dao.DBHandler;DBHandler;class;10;30;1;0;171;19;0;203;
+CSCI5448_HealthTracker50953971;com.mycompany.hibernate.HibernateUtil;HibernateUtil;class;4;6;1;0;0;3;2;35;
+CSCI5448_HealthTracker50953971;com.mycompany.model.ContextSort;ContextSort;class;2;2;1;0;0;2;1;12;
+CSCI5448_HealthTracker50953971;com.mycompany.model.Doctor;Doctor;class;7;18;2;0;105;18;8;84;
+CSCI5448_HealthTracker50953971;com.mycompany.model.NameSort;NameSort;class;5;1;1;0;0;1;0;21;

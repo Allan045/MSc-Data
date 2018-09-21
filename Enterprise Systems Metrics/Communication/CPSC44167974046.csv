@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+CPSC44167974046;Url;Url;class;1;20;1;0;0;6;4;137;
+CPSC44167974046;TxQueue;TxQueue;class;2;24;1;0;0;9;7;228;
+CPSC44167974046;WebServerConnection;WebServerConnection;class;1;65;1;0;9;6;1;288;
+CPSC44167974046;UrlCacheException;UrlCacheException;class;0;2;3;0;1;2;0;22;
+CPSC44167974046;FastFtp;FastFtp;class;6;55;3;0;0;12;14;443;
+CPSC44167974046;WebServerTester;WebServerTester;class;1;4;1;0;0;1;0;27;
+CPSC44167974046;Tester;Tester;class;1;3;1;0;0;1;0;30;
+CPSC44167974046;WebServer;WebServer;class;1;9;2;0;0;3;3;81;
+CPSC44167974046;Segment;Segment;class;2;23;1;0;0;15;5;217;
+CPSC44167974046;UrlCache;UrlCache;class;3;62;1;0;18;9;4;328;

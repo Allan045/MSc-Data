@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+graphs-games69149798;graph.Path;Path;class;2;16;1;0;0;6;5;61
+graphs-games69149798;graph.Node;Node;class;1;4;1;0;0;4;3;31
+graphs-games69149798;hm.HM2;HM2;class;2;14;1;0;13;6;1;79
+graphs-games69149798;utils.Utils;Utils;class;0;2;1;0;0;1;0;13
+graphs-games69149798;hm.HM1;HM1;class;2;27;1;0;25;10;1;89
+graphs-games69149798;hm.HM3;HM3;class;3;6;1;0;1;3;1;61
+graphs-games69149798;Node;Node;class;0;1;1;0;0;1;2;13
+graphs-games69149798;utils.FWriter;FWriter;class;0;8;1;0;0;5;1;35
+graphs-games69149798;graph.GraphOps;GraphOps;class;6;51;1;0;28;8;0;149
+graphs-games69149798;Graph;Graph;class;4;24;1;0;19;10;2;118
+graphs-games69149798;HM1;HM1;class;2;27;1;0;25;10;1;86
+graphs-games69149798;graph.Market;Market;class;6;46;1;0;17;11;4;184
+graphs-games69149798;graph.Graph;Graph;class;2;23;1;0;23;10;2;94
+graphs-games69149798;graph.Adopters;Adopters;class;1;32;1;0;0;7;4;84
+graphs-games69149798;graph.Matching;Matching;class;1;7;1;0;0;6;2;37

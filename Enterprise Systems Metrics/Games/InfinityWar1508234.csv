@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+InfinityWar1508234;Game;Game;class;3;9;2;0;6;4;5;66
+InfinityWar1508234;executeTests;executeTests;class;4;7;1;0;0;1;0;43
+InfinityWar1508234;Property;Property;class;0;20;1;0;0;9;8;108
+InfinityWar1508234;test;test;class;4;11;1;0;1;2;1;61
+InfinityWar1508234;Specs;Specs;class;5;9;1;0;6;4;0;91
+InfinityWar1508234;HillClimbing;HillClimbing;class;5;43;2;0;24;8;4;181
+InfinityWar1508234;Warrior;Warrior;class;3;35;1;0;0;6;9;168
+InfinityWar1508234;OptimizationAlgorithm;OptimizationAlgorithm;class;4;9;1;0;13;6;8;51
+InfinityWar1508234;GeneticOptimization;GeneticOptimization;class;6;75;2;0;9;14;10;376
+InfinityWar1508234;State;State;class;2;1;1;0;0;1;5;12
+InfinityWar1508234;Action;Action;class;3;66;1;0;10;8;8;151
+InfinityWar1508234;AI;AI;class;3;49;1;1;9;6;4;149
